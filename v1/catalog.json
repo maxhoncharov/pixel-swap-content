@@ -1,0 +1,895 @@
+{
+ "revision": 1,
+ "layout": 3,
+ "levels": [
+  {
+   "id": "sunflower",
+   "name": "Sunflower",
+   "art": "art/sunflower.png",
+   "art_size": 13083,
+   "zones": "zones/sunflower.zbin",
+   "zones_size": 1244,
+   "tuning": {
+    "zone_weight": 3205,
+    "play_zones": 6,
+    "seed": 20260804
+   }
+  },
+  {
+   "id": "galaxy",
+   "name": "Spiral Galaxy",
+   "art": "art/galaxy.png",
+   "art_size": 9151,
+   "zones": "zones/galaxy.zbin",
+   "zones_size": 1336,
+   "tuning": {
+    "zone_weight": 3116,
+    "play_zones": 6,
+    "seed": 20260807
+   }
+  },
+  {
+   "id": "maneki",
+   "name": "Lucky Cat",
+   "art": "art/maneki.png",
+   "art_size": 9033,
+   "zones": "zones/maneki.zbin",
+   "zones_size": 968,
+   "tuning": {
+    "zone_weight": 5105,
+    "play_zones": 5,
+    "seed": 20260808
+   }
+  },
+  {
+   "id": "frog",
+   "name": "Striped Frog",
+   "art": "art/frog.png",
+   "art_size": 6517,
+   "zones": "zones/frog.zbin",
+   "zones_size": 1208,
+   "tuning": {
+    "zone_weight": 2285,
+    "play_zones": 6,
+    "seed": 20260809
+   }
+  },
+  {
+   "id": "blackcat",
+   "name": "Cat in the Window",
+   "art": "art/blackcat.png",
+   "art_size": 5869,
+   "zones": "zones/blackcat.zbin",
+   "zones_size": 1152,
+   "tuning": {
+    "zone_weight": 2582,
+    "play_zones": 6,
+    "seed": 20260810
+   }
+  },
+  {
+   "id": "boat",
+   "name": "Boat on the Beach",
+   "art": "art/boat.png",
+   "art_size": 3626,
+   "zones": "zones/boat.zbin",
+   "zones_size": 1128,
+   "tuning": {
+    "zone_weight": 2077,
+    "play_zones": 6,
+    "seed": 20260812
+   }
+  }
+ ],
+ "packs": [
+  {
+   "id": "animals",
+   "name": "Animals vol. 1",
+   "unlock": "free",
+   "levels": [
+    {
+     "id": "monkey",
+     "name": "Monkey and Banana",
+     "art": "art/monkey.png",
+     "art_size": 10965,
+     "zones": "zones/monkey.zbin",
+     "zones_size": 1264,
+     "tuning": {
+      "zone_weight": 2819,
+      "play_zones": 6,
+      "seed": 20260901
+     }
+    },
+    {
+     "id": "panda",
+     "name": "Panda and Bamboo",
+     "art": "art/panda.png",
+     "art_size": 7697,
+     "zones": "zones/panda.zbin",
+     "zones_size": 1156,
+     "tuning": {
+      "zone_weight": 3235,
+      "play_zones": 6,
+      "seed": 20260903
+     }
+    },
+    {
+     "id": "koala",
+     "name": "Koala",
+     "art": "art/koala.png",
+     "art_size": 15782,
+     "zones": "zones/koala.zbin",
+     "zones_size": 980,
+     "tuning": {
+      "zone_weight": 5432,
+      "play_zones": 5,
+      "seed": 20260908
+     }
+    },
+    {
+     "id": "turtle",
+     "name": "Sea Turtle",
+     "art": "art/turtle.png",
+     "art_size": 14589,
+     "zones": "zones/turtle.zbin",
+     "zones_size": 1224,
+     "tuning": {
+      "zone_weight": 3086,
+      "play_zones": 6,
+      "seed": 20260906
+     }
+    },
+    {
+     "id": "fox",
+     "name": "Sleeping Fox",
+     "art": "art/fox.png",
+     "art_size": 11566,
+     "zones": "zones/fox.zbin",
+     "zones_size": 1104,
+     "tuning": {
+      "zone_weight": 6292,
+      "play_zones": 5,
+      "seed": 20260902
+     }
+    },
+    {
+     "id": "owl",
+     "name": "Owl at Night",
+     "art": "art/owl.png",
+     "art_size": 8907,
+     "zones": "zones/owl.zbin",
+     "zones_size": 1036,
+     "tuning": {
+      "zone_weight": 4007,
+      "play_zones": 6,
+      "seed": 20260904
+     }
+    },
+    {
+     "id": "penguin",
+     "name": "Penguin and Chick",
+     "art": "art/penguin.png",
+     "art_size": 4891,
+     "zones": "zones/penguin.zbin",
+     "zones_size": 1184,
+     "tuning": {
+      "zone_weight": 2196,
+      "play_zones": 6,
+      "seed": 20260905
+     }
+    },
+    {
+     "id": "elephant",
+     "name": "Elephant at the Waterhole",
+     "art": "art/elephant.png",
+     "art_size": 8544,
+     "zones": "zones/elephant.zbin",
+     "zones_size": 1148,
+     "tuning": {
+      "zone_weight": 2938,
+      "play_zones": 6,
+      "seed": 20260909
+     }
+    },
+    {
+     "id": "bear",
+     "name": "Bear at the River",
+     "art": "art/bear.png",
+     "art_size": 13913,
+     "zones": "zones/bear.zbin",
+     "zones_size": 996,
+     "tuning": {
+      "zone_weight": 5966,
+      "play_zones": 5,
+      "seed": 20260907
+     }
+    },
+    {
+     "id": "lion",
+     "name": "Lion at Sunset",
+     "art": "art/lion.png",
+     "art_size": 9902,
+     "zones": "zones/lion.zbin",
+     "zones_size": 1064,
+     "tuning": {
+      "zone_weight": 4867,
+      "play_zones": 5,
+      "seed": 20260910
+     }
+    }
+   ]
+  },
+  {
+   "id": "sea",
+   "name": "Under the Sea",
+   "unlock": "ad",
+   "levels": [
+    {
+     "id": "clownfish",
+     "name": "Clownfish",
+     "art": "art/clownfish.png",
+     "art_size": 14659,
+     "zones": "zones/clownfish.zbin",
+     "zones_size": 1132,
+     "tuning": {
+      "zone_weight": 6619,
+      "play_zones": 6,
+      "seed": 20261001
+     }
+    },
+    {
+     "id": "jellyfish",
+     "name": "Jellyfish",
+     "art": "art/jellyfish.png",
+     "art_size": 15046,
+     "zones": "zones/jellyfish.zbin",
+     "zones_size": 1136,
+     "tuning": {
+      "zone_weight": 3680,
+      "play_zones": 6,
+      "seed": 20261002
+     }
+    },
+    {
+     "id": "whale",
+     "name": "Blue Whale",
+     "art": "art/whale.png",
+     "art_size": 10130,
+     "zones": "zones/whale.zbin",
+     "zones_size": 976,
+     "tuning": {
+      "zone_weight": 3799,
+      "play_zones": 6,
+      "seed": 20261003
+     }
+    },
+    {
+     "id": "seahorse",
+     "name": "Two Seahorses",
+     "art": "art/seahorse.png",
+     "art_size": 14078,
+     "zones": "zones/seahorse.zbin",
+     "zones_size": 1148,
+     "tuning": {
+      "zone_weight": 3324,
+      "play_zones": 6,
+      "seed": 20261004
+     }
+    },
+    {
+     "id": "starfish",
+     "name": "Starfish",
+     "art": "art/starfish.png",
+     "art_size": 13474,
+     "zones": "zones/starfish.zbin",
+     "zones_size": 1176,
+     "tuning": {
+      "zone_weight": 3264,
+      "play_zones": 6,
+      "seed": 20261005
+     }
+    },
+    {
+     "id": "shipwreck",
+     "name": "Sunken Ship",
+     "art": "art/shipwreck.png",
+     "art_size": 11466,
+     "zones": "zones/shipwreck.zbin",
+     "zones_size": 1136,
+     "tuning": {
+      "zone_weight": 3502,
+      "play_zones": 6,
+      "seed": 20261006
+     }
+    },
+    {
+     "id": "crab",
+     "name": "Crab on a Rock",
+     "art": "art/crab.png",
+     "art_size": 10527,
+     "zones": "zones/crab.zbin",
+     "zones_size": 1152,
+     "tuning": {
+      "zone_weight": 3413,
+      "play_zones": 6,
+      "seed": 20261007
+     }
+    },
+    {
+     "id": "dolphin",
+     "name": "Dolphin",
+     "art": "art/dolphin.png",
+     "art_size": 9357,
+     "zones": "zones/dolphin.zbin",
+     "zones_size": 1072,
+     "tuning": {
+      "zone_weight": 3383,
+      "play_zones": 5,
+      "seed": 20261008
+     }
+    },
+    {
+     "id": "chest",
+     "name": "Treasure Chest",
+     "art": "art/chest.png",
+     "art_size": 12379,
+     "zones": "zones/chest.zbin",
+     "zones_size": 1108,
+     "tuning": {
+      "zone_weight": 3353,
+      "play_zones": 6,
+      "seed": 20261009
+     }
+    },
+    {
+     "id": "diver",
+     "name": "Diver with a Lantern",
+     "art": "art/diver.png",
+     "art_size": 16396,
+     "zones": "zones/diver.zbin",
+     "zones_size": 1156,
+     "tuning": {
+      "zone_weight": 4036,
+      "play_zones": 6,
+      "seed": 20261010
+     }
+    }
+   ]
+  },
+  {
+   "id": "seasons",
+   "name": "Seasons",
+   "unlock": "ad",
+   "levels": [
+    {
+     "id": "cherry",
+     "name": "Cherry Blossom",
+     "art": "art/cherry.png",
+     "art_size": 10866,
+     "zones": "zones/cherry.zbin",
+     "zones_size": 1176,
+     "tuning": {
+      "zone_weight": 3413,
+      "play_zones": 6,
+      "seed": 20261101
+     }
+    },
+    {
+     "id": "meadow",
+     "name": "Spring Meadow",
+     "art": "art/meadow.png",
+     "art_size": 10104,
+     "zones": "zones/meadow.zbin",
+     "zones_size": 1244,
+     "tuning": {
+      "zone_weight": 2997,
+      "play_zones": 6,
+      "seed": 20261102
+     }
+    },
+    {
+     "id": "raincoat",
+     "name": "Rainy Day",
+     "art": "art/raincoat.png",
+     "art_size": 11446,
+     "zones": "zones/raincoat.zbin",
+     "zones_size": 1136,
+     "tuning": {
+      "zone_weight": 3294,
+      "play_zones": 6,
+      "seed": 20261103
+     }
+    },
+    {
+     "id": "lavender",
+     "name": "Lavender Field",
+     "art": "art/lavender.png",
+     "art_size": 12973,
+     "zones": "zones/lavender.zbin",
+     "zones_size": 1084,
+     "tuning": {
+      "zone_weight": 6263,
+      "play_zones": 5,
+      "seed": 20261104
+     }
+    },
+    {
+     "id": "watermelon",
+     "name": "Watermelon Picnic",
+     "art": "art/watermelon.png",
+     "art_size": 6737,
+     "zones": "zones/watermelon.zbin",
+     "zones_size": 876,
+     "tuning": {
+      "zone_weight": 4511,
+      "play_zones": 6,
+      "seed": 20261105
+     }
+    },
+    {
+     "id": "leaves",
+     "name": "Autumn Leaves",
+     "art": "art/leaves.png",
+     "art_size": 12292,
+     "zones": "zones/leaves.zbin",
+     "zones_size": 1120,
+     "tuning": {
+      "zone_weight": 5224,
+      "play_zones": 5,
+      "seed": 20261106
+     }
+    },
+    {
+     "id": "pumpkin",
+     "name": "Pumpkin Lantern",
+     "art": "art/pumpkin.png",
+     "art_size": 12171,
+     "zones": "zones/pumpkin.zbin",
+     "zones_size": 1100,
+     "tuning": {
+      "zone_weight": 3502,
+      "play_zones": 6,
+      "seed": 20261107
+     }
+    },
+    {
+     "id": "snowman",
+     "name": "Snowman",
+     "art": "art/snowman.png",
+     "art_size": 6468,
+     "zones": "zones/snowman.zbin",
+     "zones_size": 988,
+     "tuning": {
+      "zone_weight": 3799,
+      "play_zones": 6,
+      "seed": 20261108
+     }
+    },
+    {
+     "id": "frozenlake",
+     "name": "Frozen Lake",
+     "art": "art/frozenlake.png",
+     "art_size": 12044,
+     "zones": "zones/frozenlake.zbin",
+     "zones_size": 1092,
+     "tuning": {
+      "zone_weight": 3472,
+      "play_zones": 6,
+      "seed": 20261109
+     }
+    },
+    {
+     "id": "cocoa",
+     "name": "Cocoa by the Window",
+     "art": "art/cocoa.png",
+     "art_size": 8427,
+     "zones": "zones/cocoa.zbin",
+     "zones_size": 1024,
+     "tuning": {
+      "zone_weight": 5491,
+      "play_zones": 6,
+      "seed": 20261110
+     }
+    }
+   ]
+  },
+  {
+   "id": "landmarks",
+   "name": "Landmarks",
+   "unlock": "ad",
+   "levels": [
+    {
+     "id": "torii",
+     "name": "Torii Gate",
+     "art": "art/torii.png",
+     "art_size": 7702,
+     "zones": "zones/torii.zbin",
+     "zones_size": 1088,
+     "tuning": {
+      "zone_weight": 2789,
+      "play_zones": 6,
+      "seed": 20261201
+     }
+    },
+    {
+     "id": "windmill",
+     "name": "Windmill and Tulips",
+     "art": "art/windmill.png",
+     "art_size": 12144,
+     "zones": "zones/windmill.zbin",
+     "zones_size": 1164,
+     "tuning": {
+      "zone_weight": 3502,
+      "play_zones": 6,
+      "seed": 20261202
+     }
+    },
+    {
+     "id": "aegean",
+     "name": "Blue Dome Church",
+     "art": "art/aegean.png",
+     "art_size": 11101,
+     "zones": "zones/aegean.zbin",
+     "zones_size": 1144,
+     "tuning": {
+      "zone_weight": 3413,
+      "play_zones": 6,
+      "seed": 20261203
+     }
+    },
+    {
+     "id": "stavechurch",
+     "name": "Stave Church",
+     "art": "art/stavechurch.png",
+     "art_size": 8853,
+     "zones": "zones/stavechurch.zbin",
+     "zones_size": 864,
+     "tuning": {
+      "zone_weight": 6827,
+      "play_zones": 6,
+      "seed": 20261204
+     }
+    },
+    {
+     "id": "londonbus",
+     "name": "Double Decker",
+     "art": "art/londonbus.png",
+     "art_size": 10672,
+     "zones": "zones/londonbus.zbin",
+     "zones_size": 1112,
+     "tuning": {
+      "zone_weight": 3116,
+      "play_zones": 6,
+      "seed": 20261205
+     }
+    },
+    {
+     "id": "cathedral",
+     "name": "Onion Domes",
+     "art": "art/cathedral.png",
+     "art_size": 13090,
+     "zones": "zones/cathedral.zbin",
+     "zones_size": 1096,
+     "tuning": {
+      "zone_weight": 5758,
+      "play_zones": 6,
+      "seed": 20261206
+     }
+    },
+    {
+     "id": "castle",
+     "name": "Cliff Castle",
+     "art": "art/castle.png",
+     "art_size": 12368,
+     "zones": "zones/castle.zbin",
+     "zones_size": 1332,
+     "tuning": {
+      "zone_weight": 3027,
+      "play_zones": 6,
+      "seed": 20261207
+     }
+    },
+    {
+     "id": "taxi",
+     "name": "Yellow Taxi",
+     "art": "art/taxi.png",
+     "art_size": 14612,
+     "zones": "zones/taxi.zbin",
+     "zones_size": 1136,
+     "tuning": {
+      "zone_weight": 4007,
+      "play_zones": 5,
+      "seed": 20261208
+     }
+    },
+    {
+     "id": "gondola",
+     "name": "Gondola",
+     "art": "art/gondola.png",
+     "art_size": 13410,
+     "zones": "zones/gondola.zbin",
+     "zones_size": 1304,
+     "tuning": {
+      "zone_weight": 3235,
+      "play_zones": 6,
+      "seed": 20261209
+     }
+    },
+    {
+     "id": "sphinx",
+     "name": "Sphinx",
+     "art": "art/sphinx.png",
+     "art_size": 10363,
+     "zones": "zones/sphinx.zbin",
+     "zones_size": 1332,
+     "tuning": {
+      "zone_weight": 2997,
+      "play_zones": 6,
+      "seed": 20261210
+     }
+    }
+   ]
+  },
+  {
+   "id": "plants",
+   "name": "Plants",
+   "unlock": "ad",
+   "levels": [
+    {
+     "id": "cactus",
+     "name": "Cactus in a Pot",
+     "art": "art/cactus.png",
+     "art_size": 11782,
+     "zones": "zones/cactus.zbin",
+     "zones_size": 1144,
+     "tuning": {
+      "zone_weight": 3710,
+      "play_zones": 6,
+      "seed": 20261301
+     }
+    },
+    {
+     "id": "sunflowers",
+     "name": "Sunflower Bouquet",
+     "art": "art/sunflowers.png",
+     "art_size": 12115,
+     "zones": "zones/sunflowers.zbin",
+     "zones_size": 1436,
+     "tuning": {
+      "zone_weight": 3472,
+      "play_zones": 6,
+      "seed": 20261302
+     }
+    },
+    {
+     "id": "monstera",
+     "name": "Monstera",
+     "art": "art/monstera.png",
+     "art_size": 11820,
+     "zones": "zones/monstera.zbin",
+     "zones_size": 1248,
+     "tuning": {
+      "zone_weight": 3828,
+      "play_zones": 5,
+      "seed": 20261303
+     }
+    },
+    {
+     "id": "terrarium",
+     "name": "Glass Terrarium",
+     "art": "art/terrarium.png",
+     "art_size": 9979,
+     "zones": "zones/terrarium.zbin",
+     "zones_size": 1072,
+     "tuning": {
+      "zone_weight": 3383,
+      "play_zones": 6,
+      "seed": 20261304
+     }
+    },
+    {
+     "id": "herbs",
+     "name": "Herb Shelf",
+     "art": "art/herbs.png",
+     "art_size": 10559,
+     "zones": "zones/herbs.zbin",
+     "zones_size": 1048,
+     "tuning": {
+      "zone_weight": 7302,
+      "play_zones": 6,
+      "seed": 20261305
+     }
+    },
+    {
+     "id": "bonsai",
+     "name": "Bonsai",
+     "art": "art/bonsai.png",
+     "art_size": 12670,
+     "zones": "zones/bonsai.zbin",
+     "zones_size": 1312,
+     "tuning": {
+      "zone_weight": 3235,
+      "play_zones": 6,
+      "seed": 20261306
+     }
+    },
+    {
+     "id": "wateringcan",
+     "name": "Watering Can",
+     "art": "art/wateringcan.png",
+     "art_size": 8260,
+     "zones": "zones/wateringcan.zbin",
+     "zones_size": 1220,
+     "tuning": {
+      "zone_weight": 2967,
+      "play_zones": 6,
+      "seed": 20261307
+     }
+    },
+    {
+     "id": "hangingplant",
+     "name": "Hanging Plant",
+     "art": "art/hangingplant.png",
+     "art_size": 9600,
+     "zones": "zones/hangingplant.zbin",
+     "zones_size": 1152,
+     "tuning": {
+      "zone_weight": 2938,
+      "play_zones": 6,
+      "seed": 20261308
+     }
+    },
+    {
+     "id": "rose",
+     "name": "Red Rose",
+     "art": "art/rose.png",
+     "art_size": 5659,
+     "zones": "zones/rose.zbin",
+     "zones_size": 1108,
+     "tuning": {
+      "zone_weight": 2819,
+      "play_zones": 6,
+      "seed": 20261309
+     }
+    },
+    {
+     "id": "pumpkinplant",
+     "name": "Autumn Pumpkin",
+     "art": "art/pumpkinplant.png",
+     "art_size": 13513,
+     "zones": "zones/pumpkinplant.zbin",
+     "zones_size": 1108,
+     "tuning": {
+      "zone_weight": 5521,
+      "play_zones": 5,
+      "seed": 20261310
+     }
+    }
+   ]
+  },
+  {
+   "id": "wonders",
+   "name": "Wonders",
+   "unlock": "ad",
+   "levels": [
+    {
+     "id": "tajmahal",
+     "name": "Taj Mahal",
+     "art": "art/tajmahal.png",
+     "art_size": 11970,
+     "zones": "zones/tajmahal.zbin",
+     "zones_size": 1352,
+     "tuning": {
+      "zone_weight": 3086,
+      "play_zones": 6,
+      "seed": 20261401
+     }
+    },
+    {
+     "id": "petra",
+     "name": "Petra",
+     "art": "art/petra.png",
+     "art_size": 17356,
+     "zones": "zones/petra.zbin",
+     "zones_size": 1016,
+     "tuning": {
+      "zone_weight": 7450,
+      "play_zones": 5,
+      "seed": 20261402
+     }
+    },
+    {
+     "id": "redeemer",
+     "name": "Christ the Redeemer",
+     "art": "art/redeemer.png",
+     "art_size": 8699,
+     "zones": "zones/redeemer.zbin",
+     "zones_size": 1240,
+     "tuning": {
+      "zone_weight": 2789,
+      "play_zones": 6,
+      "seed": 20261403
+     }
+    },
+    {
+     "id": "colosseum",
+     "name": "Colosseum",
+     "art": "art/colosseum.png",
+     "art_size": 15573,
+     "zones": "zones/colosseum.zbin",
+     "zones_size": 1100,
+     "tuning": {
+      "zone_weight": 3888,
+      "play_zones": 6,
+      "seed": 20261404
+     }
+    },
+    {
+     "id": "pyramid",
+     "name": "Great Pyramid",
+     "art": "art/pyramid.png",
+     "art_size": 7935,
+     "zones": "zones/pyramid.zbin",
+     "zones_size": 1200,
+     "tuning": {
+      "zone_weight": 3146,
+      "play_zones": 6,
+      "seed": 20261405
+     }
+    },
+    {
+     "id": "greatwall",
+     "name": "Great Wall",
+     "art": "art/greatwall.png",
+     "art_size": 17108,
+     "zones": "zones/greatwall.zbin",
+     "zones_size": 1396,
+     "tuning": {
+      "zone_weight": 3650,
+      "play_zones": 6,
+      "seed": 20261406
+     }
+    },
+    {
+     "id": "machupicchu",
+     "name": "Machu Picchu",
+     "art": "art/machupicchu.png",
+     "art_size": 20589,
+     "zones": "zones/machupicchu.zbin",
+     "zones_size": 1200,
+     "tuning": {
+      "zone_weight": 3977,
+      "play_zones": 6,
+      "seed": 20261407
+     }
+    },
+    {
+     "id": "stonehenge",
+     "name": "Stonehenge",
+     "art": "art/stonehenge.png",
+     "art_size": 12916,
+     "zones": "zones/stonehenge.zbin",
+     "zones_size": 1156,
+     "tuning": {
+      "zone_weight": 3116,
+      "play_zones": 6,
+      "seed": 20261408
+     }
+    },
+    {
+     "id": "hanginggardens",
+     "name": "Hanging Gardens",
+     "art": "art/hanginggardens.png",
+     "art_size": 17434,
+     "zones": "zones/hanginggardens.zbin",
+     "zones_size": 1164,
+     "tuning": {
+      "zone_weight": 3324,
+      "play_zones": 6,
+      "seed": 20261409
+     }
+    }
+   ]
+  }
+ ]
+}
