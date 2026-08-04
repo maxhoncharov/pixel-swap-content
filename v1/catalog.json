@@ -5,6 +5,7 @@
   {
    "id": "sunflower",
    "name": "Sunflower",
+   "rev": 1,
    "art": "art/sunflower.png",
    "art_size": 13083,
    "zones": "zones/sunflower.zbin",
@@ -18,6 +19,7 @@
   {
    "id": "galaxy",
    "name": "Spiral Galaxy",
+   "rev": 1,
    "art": "art/galaxy.png",
    "art_size": 9151,
    "zones": "zones/galaxy.zbin",
@@ -31,6 +33,7 @@
   {
    "id": "maneki",
    "name": "Lucky Cat",
+   "rev": 1,
    "art": "art/maneki.png",
    "art_size": 9033,
    "zones": "zones/maneki.zbin",
@@ -44,6 +47,7 @@
   {
    "id": "frog",
    "name": "Striped Frog",
+   "rev": 1,
    "art": "art/frog.png",
    "art_size": 6517,
    "zones": "zones/frog.zbin",
@@ -57,6 +61,7 @@
   {
    "id": "blackcat",
    "name": "Cat in the Window",
+   "rev": 1,
    "art": "art/blackcat.png",
    "art_size": 5869,
    "zones": "zones/blackcat.zbin",
@@ -70,6 +75,7 @@
   {
    "id": "boat",
    "name": "Boat on the Beach",
+   "rev": 1,
    "art": "art/boat.png",
    "art_size": 3626,
    "zones": "zones/boat.zbin",
@@ -90,6 +96,7 @@
     {
      "id": "monkey",
      "name": "Monkey and Banana",
+     "rev": 1,
      "art": "art/monkey.png",
      "art_size": 10965,
      "zones": "zones/monkey.zbin",
@@ -103,6 +110,7 @@
     {
      "id": "panda",
      "name": "Panda and Bamboo",
+     "rev": 1,
      "art": "art/panda.png",
      "art_size": 7697,
      "zones": "zones/panda.zbin",
@@ -116,6 +124,7 @@
     {
      "id": "koala",
      "name": "Koala",
+     "rev": 1,
      "art": "art/koala.png",
      "art_size": 15782,
      "zones": "zones/koala.zbin",
@@ -129,6 +138,7 @@
     {
      "id": "turtle",
      "name": "Sea Turtle",
+     "rev": 1,
      "art": "art/turtle.png",
      "art_size": 14589,
      "zones": "zones/turtle.zbin",
@@ -142,6 +152,7 @@
     {
      "id": "fox",
      "name": "Sleeping Fox",
+     "rev": 1,
      "art": "art/fox.png",
      "art_size": 11566,
      "zones": "zones/fox.zbin",
@@ -155,6 +166,7 @@
     {
      "id": "owl",
      "name": "Owl at Night",
+     "rev": 1,
      "art": "art/owl.png",
      "art_size": 8907,
      "zones": "zones/owl.zbin",
@@ -168,6 +180,7 @@
     {
      "id": "penguin",
      "name": "Penguin and Chick",
+     "rev": 1,
      "art": "art/penguin.png",
      "art_size": 4891,
      "zones": "zones/penguin.zbin",
@@ -181,6 +194,7 @@
     {
      "id": "elephant",
      "name": "Elephant at the Waterhole",
+     "rev": 1,
      "art": "art/elephant.png",
      "art_size": 8544,
      "zones": "zones/elephant.zbin",
@@ -194,6 +208,7 @@
     {
      "id": "bear",
      "name": "Bear at the River",
+     "rev": 1,
      "art": "art/bear.png",
      "art_size": 13913,
      "zones": "zones/bear.zbin",
@@ -207,6 +222,7 @@
     {
      "id": "lion",
      "name": "Lion at Sunset",
+     "rev": 1,
      "art": "art/lion.png",
      "art_size": 9902,
      "zones": "zones/lion.zbin",
@@ -227,6 +243,7 @@
     {
      "id": "clownfish",
      "name": "Clownfish",
+     "rev": 1,
      "art": "art/clownfish.png",
      "art_size": 14659,
      "zones": "zones/clownfish.zbin",
@@ -240,6 +257,7 @@
     {
      "id": "jellyfish",
      "name": "Jellyfish",
+     "rev": 1,
      "art": "art/jellyfish.png",
      "art_size": 15046,
      "zones": "zones/jellyfish.zbin",
@@ -253,6 +271,7 @@
     {
      "id": "whale",
      "name": "Blue Whale",
+     "rev": 1,
      "art": "art/whale.png",
      "art_size": 10130,
      "zones": "zones/whale.zbin",
@@ -266,6 +285,7 @@
     {
      "id": "seahorse",
      "name": "Two Seahorses",
+     "rev": 1,
      "art": "art/seahorse.png",
      "art_size": 14078,
      "zones": "zones/seahorse.zbin",
@@ -279,6 +299,7 @@
     {
      "id": "starfish",
      "name": "Starfish",
+     "rev": 1,
      "art": "art/starfish.png",
      "art_size": 13474,
      "zones": "zones/starfish.zbin",
@@ -292,6 +313,7 @@
     {
      "id": "shipwreck",
      "name": "Sunken Ship",
+     "rev": 1,
      "art": "art/shipwreck.png",
      "art_size": 11466,
      "zones": "zones/shipwreck.zbin",
@@ -305,6 +327,7 @@
     {
      "id": "crab",
      "name": "Crab on a Rock",
+     "rev": 1,
      "art": "art/crab.png",
      "art_size": 10527,
      "zones": "zones/crab.zbin",
@@ -318,6 +341,7 @@
     {
      "id": "dolphin",
      "name": "Dolphin",
+     "rev": 1,
      "art": "art/dolphin.png",
      "art_size": 9357,
      "zones": "zones/dolphin.zbin",
@@ -331,6 +355,7 @@
     {
      "id": "chest",
      "name": "Treasure Chest",
+     "rev": 1,
      "art": "art/chest.png",
      "art_size": 12379,
      "zones": "zones/chest.zbin",
@@ -344,6 +369,7 @@
     {
      "id": "diver",
      "name": "Diver with a Lantern",
+     "rev": 1,
      "art": "art/diver.png",
      "art_size": 16396,
      "zones": "zones/diver.zbin",
@@ -364,6 +390,7 @@
     {
      "id": "cherry",
      "name": "Cherry Blossom",
+     "rev": 1,
      "art": "art/cherry.png",
      "art_size": 10866,
      "zones": "zones/cherry.zbin",
@@ -377,6 +404,7 @@
     {
      "id": "meadow",
      "name": "Spring Meadow",
+     "rev": 1,
      "art": "art/meadow.png",
      "art_size": 10104,
      "zones": "zones/meadow.zbin",
@@ -390,6 +418,7 @@
     {
      "id": "raincoat",
      "name": "Rainy Day",
+     "rev": 1,
      "art": "art/raincoat.png",
      "art_size": 11446,
      "zones": "zones/raincoat.zbin",
@@ -403,6 +432,7 @@
     {
      "id": "lavender",
      "name": "Lavender Field",
+     "rev": 1,
      "art": "art/lavender.png",
      "art_size": 12973,
      "zones": "zones/lavender.zbin",
@@ -416,6 +446,7 @@
     {
      "id": "watermelon",
      "name": "Watermelon Picnic",
+     "rev": 1,
      "art": "art/watermelon.png",
      "art_size": 6737,
      "zones": "zones/watermelon.zbin",
@@ -429,6 +460,7 @@
     {
      "id": "leaves",
      "name": "Autumn Leaves",
+     "rev": 1,
      "art": "art/leaves.png",
      "art_size": 12292,
      "zones": "zones/leaves.zbin",
@@ -442,6 +474,7 @@
     {
      "id": "pumpkin",
      "name": "Pumpkin Lantern",
+     "rev": 1,
      "art": "art/pumpkin.png",
      "art_size": 12171,
      "zones": "zones/pumpkin.zbin",
@@ -455,6 +488,7 @@
     {
      "id": "snowman",
      "name": "Snowman",
+     "rev": 1,
      "art": "art/snowman.png",
      "art_size": 6468,
      "zones": "zones/snowman.zbin",
@@ -468,6 +502,7 @@
     {
      "id": "frozenlake",
      "name": "Frozen Lake",
+     "rev": 1,
      "art": "art/frozenlake.png",
      "art_size": 12044,
      "zones": "zones/frozenlake.zbin",
@@ -481,6 +516,7 @@
     {
      "id": "cocoa",
      "name": "Cocoa by the Window",
+     "rev": 1,
      "art": "art/cocoa.png",
      "art_size": 8427,
      "zones": "zones/cocoa.zbin",
@@ -501,6 +537,7 @@
     {
      "id": "torii",
      "name": "Torii Gate",
+     "rev": 1,
      "art": "art/torii.png",
      "art_size": 7702,
      "zones": "zones/torii.zbin",
@@ -514,6 +551,7 @@
     {
      "id": "windmill",
      "name": "Windmill and Tulips",
+     "rev": 1,
      "art": "art/windmill.png",
      "art_size": 12144,
      "zones": "zones/windmill.zbin",
@@ -527,6 +565,7 @@
     {
      "id": "aegean",
      "name": "Blue Dome Church",
+     "rev": 1,
      "art": "art/aegean.png",
      "art_size": 11101,
      "zones": "zones/aegean.zbin",
@@ -540,6 +579,7 @@
     {
      "id": "stavechurch",
      "name": "Stave Church",
+     "rev": 1,
      "art": "art/stavechurch.png",
      "art_size": 8853,
      "zones": "zones/stavechurch.zbin",
@@ -553,6 +593,7 @@
     {
      "id": "londonbus",
      "name": "Double Decker",
+     "rev": 1,
      "art": "art/londonbus.png",
      "art_size": 10672,
      "zones": "zones/londonbus.zbin",
@@ -566,6 +607,7 @@
     {
      "id": "cathedral",
      "name": "Onion Domes",
+     "rev": 1,
      "art": "art/cathedral.png",
      "art_size": 13090,
      "zones": "zones/cathedral.zbin",
@@ -579,6 +621,7 @@
     {
      "id": "castle",
      "name": "Cliff Castle",
+     "rev": 1,
      "art": "art/castle.png",
      "art_size": 12368,
      "zones": "zones/castle.zbin",
@@ -592,6 +635,7 @@
     {
      "id": "taxi",
      "name": "Yellow Taxi",
+     "rev": 1,
      "art": "art/taxi.png",
      "art_size": 14612,
      "zones": "zones/taxi.zbin",
@@ -605,6 +649,7 @@
     {
      "id": "gondola",
      "name": "Gondola",
+     "rev": 1,
      "art": "art/gondola.png",
      "art_size": 13410,
      "zones": "zones/gondola.zbin",
@@ -618,6 +663,7 @@
     {
      "id": "sphinx",
      "name": "Sphinx",
+     "rev": 1,
      "art": "art/sphinx.png",
      "art_size": 10363,
      "zones": "zones/sphinx.zbin",
@@ -638,6 +684,7 @@
     {
      "id": "cactus",
      "name": "Cactus in a Pot",
+     "rev": 1,
      "art": "art/cactus.png",
      "art_size": 11782,
      "zones": "zones/cactus.zbin",
@@ -651,6 +698,7 @@
     {
      "id": "sunflowers",
      "name": "Sunflower Bouquet",
+     "rev": 1,
      "art": "art/sunflowers.png",
      "art_size": 12115,
      "zones": "zones/sunflowers.zbin",
@@ -664,6 +712,7 @@
     {
      "id": "monstera",
      "name": "Monstera",
+     "rev": 1,
      "art": "art/monstera.png",
      "art_size": 11820,
      "zones": "zones/monstera.zbin",
@@ -677,6 +726,7 @@
     {
      "id": "terrarium",
      "name": "Glass Terrarium",
+     "rev": 1,
      "art": "art/terrarium.png",
      "art_size": 9979,
      "zones": "zones/terrarium.zbin",
@@ -690,6 +740,7 @@
     {
      "id": "herbs",
      "name": "Herb Shelf",
+     "rev": 1,
      "art": "art/herbs.png",
      "art_size": 10559,
      "zones": "zones/herbs.zbin",
@@ -703,6 +754,7 @@
     {
      "id": "bonsai",
      "name": "Bonsai",
+     "rev": 1,
      "art": "art/bonsai.png",
      "art_size": 12670,
      "zones": "zones/bonsai.zbin",
@@ -716,6 +768,7 @@
     {
      "id": "wateringcan",
      "name": "Watering Can",
+     "rev": 1,
      "art": "art/wateringcan.png",
      "art_size": 8260,
      "zones": "zones/wateringcan.zbin",
@@ -729,6 +782,7 @@
     {
      "id": "hangingplant",
      "name": "Hanging Plant",
+     "rev": 1,
      "art": "art/hangingplant.png",
      "art_size": 9600,
      "zones": "zones/hangingplant.zbin",
@@ -742,6 +796,7 @@
     {
      "id": "rose",
      "name": "Red Rose",
+     "rev": 1,
      "art": "art/rose.png",
      "art_size": 5659,
      "zones": "zones/rose.zbin",
@@ -755,6 +810,7 @@
     {
      "id": "pumpkinplant",
      "name": "Autumn Pumpkin",
+     "rev": 1,
      "art": "art/pumpkinplant.png",
      "art_size": 13513,
      "zones": "zones/pumpkinplant.zbin",
@@ -775,6 +831,7 @@
     {
      "id": "tajmahal",
      "name": "Taj Mahal",
+     "rev": 1,
      "art": "art/tajmahal.png",
      "art_size": 11970,
      "zones": "zones/tajmahal.zbin",
@@ -788,6 +845,7 @@
     {
      "id": "petra",
      "name": "Petra",
+     "rev": 1,
      "art": "art/petra.png",
      "art_size": 17356,
      "zones": "zones/petra.zbin",
@@ -801,6 +859,7 @@
     {
      "id": "redeemer",
      "name": "Christ the Redeemer",
+     "rev": 1,
      "art": "art/redeemer.png",
      "art_size": 8699,
      "zones": "zones/redeemer.zbin",
@@ -814,6 +873,7 @@
     {
      "id": "colosseum",
      "name": "Colosseum",
+     "rev": 1,
      "art": "art/colosseum.png",
      "art_size": 15573,
      "zones": "zones/colosseum.zbin",
@@ -827,6 +887,7 @@
     {
      "id": "pyramid",
      "name": "Great Pyramid",
+     "rev": 1,
      "art": "art/pyramid.png",
      "art_size": 7935,
      "zones": "zones/pyramid.zbin",
@@ -840,6 +901,7 @@
     {
      "id": "greatwall",
      "name": "Great Wall",
+     "rev": 1,
      "art": "art/greatwall.png",
      "art_size": 17108,
      "zones": "zones/greatwall.zbin",
@@ -853,6 +915,7 @@
     {
      "id": "machupicchu",
      "name": "Machu Picchu",
+     "rev": 1,
      "art": "art/machupicchu.png",
      "art_size": 20589,
      "zones": "zones/machupicchu.zbin",
@@ -866,6 +929,7 @@
     {
      "id": "stonehenge",
      "name": "Stonehenge",
+     "rev": 1,
      "art": "art/stonehenge.png",
      "art_size": 12916,
      "zones": "zones/stonehenge.zbin",
@@ -879,6 +943,7 @@
     {
      "id": "hanginggardens",
      "name": "Hanging Gardens",
+     "rev": 1,
      "art": "art/hanginggardens.png",
      "art_size": 17434,
      "zones": "zones/hanginggardens.zbin",
