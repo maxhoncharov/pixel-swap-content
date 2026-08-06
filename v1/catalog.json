@@ -87,6 +87,35 @@
     "play_zones": 6,
     "seed": 20260812
    }
+  },
+  {
+   "id": "bento",
+   "name": "Bento Box",
+   "rev": 1,
+   "art": "art/bento.png",
+   "art_size": 9251,
+   "zones": "zones/bento.zbin",
+   "zones_size": 1096,
+   "tuning": {
+    "zone_weight": 3561,
+    "play_zones": 5,
+    "seed": 20260813
+   }
+  },
+  {
+   "id": "fireplace",
+   "name": "Cozy Fireplace",
+   "rev": 1,
+   "unlock": "ad",
+   "art": "art/fireplace.png",
+   "art_size": 10550,
+   "zones": "zones/fireplace.zbin",
+   "zones_size": 1040,
+   "tuning": {
+    "zone_weight": 3205,
+    "play_zones": 6,
+    "seed": 20260814
+   }
   }
  ],
  "packs": [
