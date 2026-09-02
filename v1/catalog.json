@@ -1,6 +1,6 @@
 {
  "revision": 1,
- "layout": 3,
+ "layout": 4,
  "levels": [
   {
    "id": "sunflower",
@@ -24,7 +24,7 @@
    "art": "art/galaxy.png",
    "art_size": 9151,
    "zones": "zones/galaxy.zbin",
-   "zones_size": 1336,
+   "zones_size": 1332,
    "tuning": {
     "zone_weight": 3116,
     "play_zones": 6,
@@ -39,7 +39,7 @@
    "art": "art/maneki.png",
    "art_size": 9033,
    "zones": "zones/maneki.zbin",
-   "zones_size": 968,
+   "zones_size": 972,
    "tuning": {
     "zone_weight": 5105,
     "play_zones": 5,
@@ -67,7 +67,7 @@
    "art": "art/blackcat.png",
    "art_size": 5869,
    "zones": "zones/blackcat.zbin",
-   "zones_size": 1152,
+   "zones_size": 1156,
    "tuning": {
     "zone_weight": 2582,
     "play_zones": 6,
@@ -81,7 +81,7 @@
    "art": "art/boat.png",
    "art_size": 3626,
    "zones": "zones/boat.zbin",
-   "zones_size": 1128,
+   "zones_size": 1124,
    "tuning": {
     "zone_weight": 2077,
     "play_zones": 6,
@@ -116,6 +116,219 @@
     "play_zones": 6,
     "seed": 20260814
    }
+  },
+  {
+   "id": "sunset",
+   "name": "Orange Sunset",
+   "rev": 1,
+   "unlock": "ad",
+   "art": "art/sunset.png",
+   "art_size": 4541,
+   "zones": "zones/sunset.zbin",
+   "zones_size": 760,
+   "tuning": {
+    "zone_weight": 4630,
+    "play_zones": 5,
+    "seed": 20260815
+   }
+  },
+  {
+   "id": "tent",
+   "name": "Camping Tent",
+   "rev": 1,
+   "art": "art/tent.png",
+   "art_size": 13861,
+   "zones": "zones/tent.zbin",
+   "zones_size": 1320,
+   "tuning": {
+    "zone_weight": 3769,
+    "play_zones": 5,
+    "seed": 20260816
+   }
+  },
+  {
+   "id": "cow",
+   "name": "Cow in the Meadow",
+   "rev": 1,
+   "art": "art/cow.png",
+   "art_size": 8888,
+   "zones": "zones/cow.zbin",
+   "zones_size": 1168,
+   "tuning": {
+    "zone_weight": 3264,
+    "play_zones": 6,
+    "seed": 20260817
+   }
+  },
+  {
+   "id": "fullmoon",
+   "name": "Full Moon over Snow",
+   "rev": 1,
+   "art": "art/fullmoon.png",
+   "art_size": 11392,
+   "zones": "zones/fullmoon.zbin",
+   "zones_size": 1144,
+   "tuning": {
+    "zone_weight": 3116,
+    "play_zones": 6,
+    "seed": 20260818
+   }
+  },
+  {
+   "id": "globe",
+   "name": "Globe and Books",
+   "rev": 1,
+   "art": "art/globe.png",
+   "art_size": 9350,
+   "zones": "zones/globe.zbin",
+   "zones_size": 1216,
+   "tuning": {
+    "zone_weight": 3472,
+    "play_zones": 6,
+    "seed": 20260819
+   }
+  },
+  {
+   "id": "retriever",
+   "name": "Golden Retriever",
+   "rev": 1,
+   "unlock": "ad",
+   "art": "art/retriever.png",
+   "art_size": 11332,
+   "zones": "zones/retriever.zbin",
+   "zones_size": 1332,
+   "tuning": {
+    "zone_weight": 2819,
+    "play_zones": 6,
+    "seed": 20260820
+   }
+  },
+  {
+   "id": "butterfly",
+   "name": "Orange Butterfly",
+   "rev": 1,
+   "art": "art/butterfly.png",
+   "art_size": 7926,
+   "zones": "zones/butterfly.zbin",
+   "zones_size": 1216,
+   "tuning": {
+    "zone_weight": 2285,
+    "play_zones": 6,
+    "seed": 20260821
+   }
+  },
+  {
+   "id": "frostwindow",
+   "name": "Frost on the Window",
+   "rev": 1,
+   "art": "art/frostwindow.png",
+   "art_size": 10891,
+   "zones": "zones/frostwindow.zbin",
+   "zones_size": 1156,
+   "tuning": {
+    "zone_weight": 3621,
+    "play_zones": 6,
+    "seed": 20260822
+   }
+  },
+  {
+   "id": "waterfall",
+   "name": "Turquoise Waterfall",
+   "rev": 1,
+   "art": "art/waterfall.png",
+   "art_size": 12286,
+   "zones": "zones/waterfall.zbin",
+   "zones_size": 1296,
+   "tuning": {
+    "zone_weight": 3235,
+    "play_zones": 6,
+    "seed": 20260823
+   }
+  },
+  {
+   "id": "balloon",
+   "name": "Hot Air Balloon",
+   "rev": 1,
+   "unlock": "ad",
+   "art": "art/balloon.png",
+   "art_size": 9195,
+   "zones": "zones/balloon.zbin",
+   "zones_size": 1000,
+   "tuning": {
+    "zone_weight": 3502,
+    "play_zones": 5,
+    "seed": 20260824
+   }
+  },
+  {
+   "id": "peak",
+   "name": "Snowy Peak",
+   "rev": 1,
+   "art": "art/peak.png",
+   "art_size": 14084,
+   "zones": "zones/peak.zbin",
+   "zones_size": 1556,
+   "tuning": {
+    "zone_weight": 2730,
+    "play_zones": 6,
+    "seed": 20260825
+   }
+  },
+  {
+   "id": "bicycle",
+   "name": "Red Bicycle",
+   "rev": 1,
+   "art": "art/bicycle.png",
+   "art_size": 11493,
+   "zones": "zones/bicycle.zbin",
+   "zones_size": 1196,
+   "tuning": {
+    "zone_weight": 2908,
+    "play_zones": 6,
+    "seed": 20260826
+   }
+  },
+  {
+   "id": "hedgehog",
+   "name": "Hedgehog in the Leaves",
+   "rev": 1,
+   "art": "art/hedgehog.png",
+   "art_size": 14827,
+   "zones": "zones/hedgehog.zbin",
+   "zones_size": 1240,
+   "tuning": {
+    "zone_weight": 3413,
+    "play_zones": 5,
+    "seed": 20260827
+   }
+  },
+  {
+   "id": "telescope",
+   "name": "Telescope at Dusk",
+   "rev": 1,
+   "art": "art/telescope.png",
+   "art_size": 7876,
+   "zones": "zones/telescope.zbin",
+   "zones_size": 1188,
+   "tuning": {
+    "zone_weight": 2730,
+    "play_zones": 6,
+    "seed": 20260828
+   }
+  },
+  {
+   "id": "sailorgirl",
+   "name": "Sailor Uniform",
+   "rev": 1,
+   "art": "art/sailorgirl.png",
+   "art_size": 13434,
+   "zones": "zones/sailorgirl.zbin",
+   "zones_size": 1364,
+   "tuning": {
+    "zone_weight": 3057,
+    "play_zones": 6,
+    "seed": 20260829
+   }
   }
  ],
  "packs": [
@@ -131,7 +344,7 @@
      "art": "art/monkey.png",
      "art_size": 10965,
      "zones": "zones/monkey.zbin",
-     "zones_size": 1264,
+     "zones_size": 1272,
      "tuning": {
       "zone_weight": 2819,
       "play_zones": 6,
@@ -145,7 +358,7 @@
      "art": "art/panda.png",
      "art_size": 7697,
      "zones": "zones/panda.zbin",
-     "zones_size": 1156,
+     "zones_size": 1152,
      "tuning": {
       "zone_weight": 3235,
       "play_zones": 6,
@@ -159,7 +372,7 @@
      "art": "art/koala.png",
      "art_size": 15782,
      "zones": "zones/koala.zbin",
-     "zones_size": 980,
+     "zones_size": 984,
      "tuning": {
       "zone_weight": 5432,
       "play_zones": 5,
@@ -173,7 +386,7 @@
      "art": "art/turtle.png",
      "art_size": 14589,
      "zones": "zones/turtle.zbin",
-     "zones_size": 1224,
+     "zones_size": 1220,
      "tuning": {
       "zone_weight": 3086,
       "play_zones": 6,
@@ -201,7 +414,7 @@
      "art": "art/owl.png",
      "art_size": 8907,
      "zones": "zones/owl.zbin",
-     "zones_size": 1036,
+     "zones_size": 1032,
      "tuning": {
       "zone_weight": 4007,
       "play_zones": 6,
@@ -215,7 +428,7 @@
      "art": "art/penguin.png",
      "art_size": 4891,
      "zones": "zones/penguin.zbin",
-     "zones_size": 1184,
+     "zones_size": 1192,
      "tuning": {
       "zone_weight": 2196,
       "play_zones": 6,
@@ -229,7 +442,7 @@
      "art": "art/elephant.png",
      "art_size": 8544,
      "zones": "zones/elephant.zbin",
-     "zones_size": 1148,
+     "zones_size": 1140,
      "tuning": {
       "zone_weight": 2938,
       "play_zones": 6,
@@ -278,7 +491,7 @@
      "art": "art/clownfish.png",
      "art_size": 14659,
      "zones": "zones/clownfish.zbin",
-     "zones_size": 1132,
+     "zones_size": 1128,
      "tuning": {
       "zone_weight": 6619,
       "play_zones": 6,
@@ -320,7 +533,7 @@
      "art": "art/seahorse.png",
      "art_size": 14078,
      "zones": "zones/seahorse.zbin",
-     "zones_size": 1148,
+     "zones_size": 1152,
      "tuning": {
       "zone_weight": 3324,
       "play_zones": 6,
@@ -334,7 +547,7 @@
      "art": "art/starfish.png",
      "art_size": 13474,
      "zones": "zones/starfish.zbin",
-     "zones_size": 1176,
+     "zones_size": 1180,
      "tuning": {
       "zone_weight": 3264,
       "play_zones": 6,
@@ -348,7 +561,7 @@
      "art": "art/shipwreck.png",
      "art_size": 11466,
      "zones": "zones/shipwreck.zbin",
-     "zones_size": 1136,
+     "zones_size": 1144,
      "tuning": {
       "zone_weight": 3502,
       "play_zones": 6,
@@ -425,7 +638,7 @@
      "art": "art/cherry.png",
      "art_size": 10866,
      "zones": "zones/cherry.zbin",
-     "zones_size": 1176,
+     "zones_size": 1180,
      "tuning": {
       "zone_weight": 3413,
       "play_zones": 6,
@@ -439,7 +652,7 @@
      "art": "art/meadow.png",
      "art_size": 10104,
      "zones": "zones/meadow.zbin",
-     "zones_size": 1244,
+     "zones_size": 1240,
      "tuning": {
       "zone_weight": 2997,
       "play_zones": 6,
@@ -467,7 +680,7 @@
      "art": "art/lavender.png",
      "art_size": 12973,
      "zones": "zones/lavender.zbin",
-     "zones_size": 1084,
+     "zones_size": 1076,
      "tuning": {
       "zone_weight": 6263,
       "play_zones": 5,
@@ -481,7 +694,7 @@
      "art": "art/watermelon.png",
      "art_size": 6737,
      "zones": "zones/watermelon.zbin",
-     "zones_size": 876,
+     "zones_size": 872,
      "tuning": {
       "zone_weight": 4511,
       "play_zones": 6,
@@ -495,7 +708,7 @@
      "art": "art/leaves.png",
      "art_size": 12292,
      "zones": "zones/leaves.zbin",
-     "zones_size": 1120,
+     "zones_size": 1124,
      "tuning": {
       "zone_weight": 5224,
       "play_zones": 5,
@@ -586,7 +799,7 @@
      "art": "art/windmill.png",
      "art_size": 12144,
      "zones": "zones/windmill.zbin",
-     "zones_size": 1164,
+     "zones_size": 1168,
      "tuning": {
       "zone_weight": 3502,
       "play_zones": 6,
@@ -600,7 +813,7 @@
      "art": "art/aegean.png",
      "art_size": 11101,
      "zones": "zones/aegean.zbin",
-     "zones_size": 1144,
+     "zones_size": 1148,
      "tuning": {
       "zone_weight": 3413,
       "play_zones": 6,
@@ -614,7 +827,7 @@
      "art": "art/stavechurch.png",
      "art_size": 8853,
      "zones": "zones/stavechurch.zbin",
-     "zones_size": 864,
+     "zones_size": 868,
      "tuning": {
       "zone_weight": 6827,
       "play_zones": 6,
@@ -628,7 +841,7 @@
      "art": "art/londonbus.png",
      "art_size": 10672,
      "zones": "zones/londonbus.zbin",
-     "zones_size": 1112,
+     "zones_size": 1120,
      "tuning": {
       "zone_weight": 3116,
       "play_zones": 6,
@@ -656,7 +869,7 @@
      "art": "art/castle.png",
      "art_size": 12368,
      "zones": "zones/castle.zbin",
-     "zones_size": 1332,
+     "zones_size": 1336,
      "tuning": {
       "zone_weight": 3027,
       "play_zones": 6,
@@ -719,7 +932,7 @@
      "art": "art/cactus.png",
      "art_size": 11782,
      "zones": "zones/cactus.zbin",
-     "zones_size": 1144,
+     "zones_size": 1140,
      "tuning": {
       "zone_weight": 3710,
       "play_zones": 6,
@@ -747,7 +960,7 @@
      "art": "art/monstera.png",
      "art_size": 11820,
      "zones": "zones/monstera.zbin",
-     "zones_size": 1248,
+     "zones_size": 1244,
      "tuning": {
       "zone_weight": 3828,
       "play_zones": 5,
@@ -761,7 +974,7 @@
      "art": "art/terrarium.png",
      "art_size": 9979,
      "zones": "zones/terrarium.zbin",
-     "zones_size": 1072,
+     "zones_size": 1076,
      "tuning": {
       "zone_weight": 3383,
       "play_zones": 6,
@@ -775,7 +988,7 @@
      "art": "art/herbs.png",
      "art_size": 10559,
      "zones": "zones/herbs.zbin",
-     "zones_size": 1048,
+     "zones_size": 1052,
      "tuning": {
       "zone_weight": 7302,
       "play_zones": 6,
@@ -789,7 +1002,7 @@
      "art": "art/bonsai.png",
      "art_size": 12670,
      "zones": "zones/bonsai.zbin",
-     "zones_size": 1312,
+     "zones_size": 1308,
      "tuning": {
       "zone_weight": 3235,
       "play_zones": 6,
@@ -803,7 +1016,7 @@
      "art": "art/wateringcan.png",
      "art_size": 8260,
      "zones": "zones/wateringcan.zbin",
-     "zones_size": 1220,
+     "zones_size": 1216,
      "tuning": {
       "zone_weight": 2967,
       "play_zones": 6,
@@ -831,7 +1044,7 @@
      "art": "art/rose.png",
      "art_size": 5659,
      "zones": "zones/rose.zbin",
-     "zones_size": 1108,
+     "zones_size": 1104,
      "tuning": {
       "zone_weight": 2819,
       "play_zones": 6,
@@ -845,7 +1058,7 @@
      "art": "art/pumpkinplant.png",
      "art_size": 13513,
      "zones": "zones/pumpkinplant.zbin",
-     "zones_size": 1108,
+     "zones_size": 1104,
      "tuning": {
       "zone_weight": 5521,
       "play_zones": 5,
@@ -866,7 +1079,7 @@
      "art": "art/tajmahal.png",
      "art_size": 11970,
      "zones": "zones/tajmahal.zbin",
-     "zones_size": 1352,
+     "zones_size": 1356,
      "tuning": {
       "zone_weight": 3086,
       "play_zones": 6,
@@ -880,7 +1093,7 @@
      "art": "art/petra.png",
      "art_size": 17356,
      "zones": "zones/petra.zbin",
-     "zones_size": 1016,
+     "zones_size": 1020,
      "tuning": {
       "zone_weight": 7450,
       "play_zones": 5,
@@ -894,7 +1107,7 @@
      "art": "art/redeemer.png",
      "art_size": 8699,
      "zones": "zones/redeemer.zbin",
-     "zones_size": 1240,
+     "zones_size": 1236,
      "tuning": {
       "zone_weight": 2789,
       "play_zones": 6,
@@ -936,7 +1149,7 @@
      "art": "art/greatwall.png",
      "art_size": 17108,
      "zones": "zones/greatwall.zbin",
-     "zones_size": 1396,
+     "zones_size": 1392,
      "tuning": {
       "zone_weight": 3650,
       "play_zones": 6,
@@ -950,7 +1163,7 @@
      "art": "art/machupicchu.png",
      "art_size": 20589,
      "zones": "zones/machupicchu.zbin",
-     "zones_size": 1200,
+     "zones_size": 1196,
      "tuning": {
       "zone_weight": 3977,
       "play_zones": 6,
@@ -983,6 +1196,447 @@
       "zone_weight": 3324,
       "play_zones": 6,
       "seed": 20261409
+     }
+    }
+   ]
+  },
+  {
+   "id": "anime",
+   "name": "Anime vol. 1",
+   "unlock": "ad",
+   "levels": [
+    {
+     "id": "schoolcat",
+     "name": "Classroom Cat",
+     "rev": 1,
+     "art": "art/schoolcat.png",
+     "art_size": 10928,
+     "zones": "zones/schoolcat.zbin",
+     "zones_size": 1164,
+     "tuning": {
+      "zone_weight": 2908,
+      "play_zones": 6,
+      "seed": 20261501
+     }
+    },
+    {
+     "id": "ramenstall",
+     "name": "Night Ramen Stall",
+     "rev": 1,
+     "art": "art/ramenstall.png",
+     "art_size": 11514,
+     "zones": "zones/ramenstall.zbin",
+     "zones_size": 1296,
+     "tuning": {
+      "zone_weight": 2819,
+      "play_zones": 6,
+      "seed": 20261502
+     }
+    },
+    {
+     "id": "rooftopboy",
+     "name": "Rooftop Break",
+     "rev": 1,
+     "art": "art/rooftopboy.png",
+     "art_size": 6605,
+     "zones": "zones/rooftopboy.zbin",
+     "zones_size": 1120,
+     "tuning": {
+      "zone_weight": 3116,
+      "play_zones": 6,
+      "seed": 20261503
+     }
+    },
+    {
+     "id": "redumbrella",
+     "name": "Red Umbrella",
+     "rev": 1,
+     "art": "art/redumbrella.png",
+     "art_size": 12990,
+     "zones": "zones/redumbrella.zbin",
+     "zones_size": 1296,
+     "tuning": {
+      "zone_weight": 2967,
+      "play_zones": 6,
+      "seed": 20261504
+     }
+    },
+    {
+     "id": "vending",
+     "name": "Vending Machine",
+     "rev": 1,
+     "art": "art/vending.png",
+     "art_size": 10293,
+     "zones": "zones/vending.zbin",
+     "zones_size": 956,
+     "tuning": {
+      "zone_weight": 3621,
+      "play_zones": 6,
+      "seed": 20261505
+     }
+    },
+    {
+     "id": "riverbag",
+     "name": "Bag by the River",
+     "rev": 1,
+     "art": "art/riverbag.png",
+     "art_size": 13372,
+     "zones": "zones/riverbag.zbin",
+     "zones_size": 1156,
+     "tuning": {
+      "zone_weight": 3621,
+      "play_zones": 5,
+      "seed": 20261506
+     }
+    },
+    {
+     "id": "yukata",
+     "name": "Summer Festival",
+     "rev": 1,
+     "art": "art/yukata.png",
+     "art_size": 11121,
+     "zones": "zones/yukata.zbin",
+     "zones_size": 1140,
+     "tuning": {
+      "zone_weight": 3086,
+      "play_zones": 5,
+      "seed": 20261507
+     }
+    },
+    {
+     "id": "tatamicat",
+     "name": "Cat on Tatami",
+     "rev": 1,
+     "art": "art/tatamicat.png",
+     "art_size": 9957,
+     "zones": "zones/tatamicat.zbin",
+     "zones_size": 1308,
+     "tuning": {
+      "zone_weight": 7717,
+      "play_zones": 6,
+      "seed": 20261508
+     }
+    },
+    {
+     "id": "trainwindow",
+     "name": "Train Window",
+     "rev": 1,
+     "art": "art/trainwindow.png",
+     "art_size": 6567,
+     "zones": "zones/trainwindow.zbin",
+     "zones_size": 768,
+     "tuning": {
+      "zone_weight": 5105,
+      "play_zones": 5,
+      "seed": 20261509
+     }
+    },
+    {
+     "id": "sailortree",
+     "name": "Under the Cherry Tree",
+     "rev": 1,
+     "art": "art/sailortree.png",
+     "art_size": 12063,
+     "zones": "zones/sailortree.zbin",
+     "zones_size": 1220,
+     "tuning": {
+      "zone_weight": 3027,
+      "play_zones": 6,
+      "seed": 20261510
+     }
+    }
+   ]
+  },
+  {
+   "id": "nightcity",
+   "name": "Night City",
+   "unlock": "ad",
+   "levels": [
+    {
+     "id": "neonramen",
+     "name": "Neon Ramen Sign",
+     "rev": 1,
+     "art": "art/neonramen.png",
+     "art_size": 8038,
+     "zones": "zones/neonramen.zbin",
+     "zones_size": 1052,
+     "tuning": {
+      "zone_weight": 2967,
+      "play_zones": 6,
+      "seed": 20261601
+     }
+    },
+    {
+     "id": "nightbike",
+     "name": "Bicycle at Night",
+     "rev": 1,
+     "art": "art/nightbike.png",
+     "art_size": 9230,
+     "zones": "zones/nightbike.zbin",
+     "zones_size": 1104,
+     "tuning": {
+      "zone_weight": 4363,
+      "play_zones": 5,
+      "seed": 20261602
+     }
+    },
+    {
+     "id": "watertower",
+     "name": "Rooftop Water Tower",
+     "rev": 1,
+     "art": "art/watertower.png",
+     "art_size": 10013,
+     "zones": "zones/watertower.zbin",
+     "zones_size": 1168,
+     "tuning": {
+      "zone_weight": 3086,
+      "play_zones": 6,
+      "seed": 20261603
+     }
+    },
+    {
+     "id": "ferriswheel",
+     "name": "Ferris Wheel",
+     "rev": 1,
+     "art": "art/ferriswheel.png",
+     "art_size": 13666,
+     "zones": "zones/ferriswheel.zbin",
+     "zones_size": 1304,
+     "tuning": {
+      "zone_weight": 3027,
+      "play_zones": 6,
+      "seed": 20261604
+     }
+    },
+    {
+     "id": "phonebooth",
+     "name": "Red Phone Booth",
+     "rev": 1,
+     "art": "art/phonebooth.png",
+     "art_size": 9381,
+     "zones": "zones/phonebooth.zbin",
+     "zones_size": 1256,
+     "tuning": {
+      "zone_weight": 3146,
+      "play_zones": 6,
+      "seed": 20261605
+     }
+    },
+    {
+     "id": "tram",
+     "name": "Tram at Night",
+     "rev": 1,
+     "art": "art/tram.png",
+     "art_size": 12259,
+     "zones": "zones/tram.zbin",
+     "zones_size": 1264,
+     "tuning": {
+      "zone_weight": 3146,
+      "play_zones": 6,
+      "seed": 20261606
+     }
+    },
+    {
+     "id": "nightbridge",
+     "name": "Bridge Lights",
+     "rev": 1,
+     "art": "art/nightbridge.png",
+     "art_size": 9418,
+     "zones": "zones/nightbridge.zbin",
+     "zones_size": 1196,
+     "tuning": {
+      "zone_weight": 2938,
+      "play_zones": 6,
+      "seed": 20261607
+     }
+    },
+    {
+     "id": "diner",
+     "name": "Corner Diner",
+     "rev": 1,
+     "art": "art/diner.png",
+     "art_size": 8334,
+     "zones": "zones/diner.zbin",
+     "zones_size": 1168,
+     "tuning": {
+      "zone_weight": 2997,
+      "play_zones": 6,
+      "seed": 20261608
+     }
+    },
+    {
+     "id": "skyline",
+     "name": "City Skyline",
+     "rev": 1,
+     "art": "art/skyline.png",
+     "art_size": 9978,
+     "zones": "zones/skyline.zbin",
+     "zones_size": 1096,
+     "tuning": {
+      "zone_weight": 3235,
+      "play_zones": 6,
+      "seed": 20261609
+     }
+    },
+    {
+     "id": "arcade",
+     "name": "Arcade Entrance",
+     "rev": 1,
+     "art": "art/arcade.png",
+     "art_size": 8488,
+     "zones": "zones/arcade.zbin",
+     "zones_size": 888,
+     "tuning": {
+      "zone_weight": 3413,
+      "play_zones": 6,
+      "seed": 20261610
+     }
+    }
+   ]
+  },
+  {
+   "id": "fantasy",
+   "name": "Fantasy vol. 1",
+   "unlock": "ad",
+   "levels": [
+    {
+     "id": "dragon",
+     "name": "Sleeping Dragon",
+     "rev": 1,
+     "art": "art/dragon.png",
+     "art_size": 13291,
+     "zones": "zones/dragon.zbin",
+     "zones_size": 1408,
+     "tuning": {
+      "zone_weight": 3146,
+      "play_zones": 6,
+      "seed": 20261701
+     }
+    },
+    {
+     "id": "potions",
+     "name": "Potion Shelf",
+     "rev": 1,
+     "art": "art/potions.png",
+     "art_size": 11811,
+     "zones": "zones/potions.zbin",
+     "zones_size": 1256,
+     "tuning": {
+      "zone_weight": 3324,
+      "play_zones": 6,
+      "seed": 20261702
+     }
+    },
+    {
+     "id": "wizardtower",
+     "name": "Wizard Tower",
+     "rev": 1,
+     "art": "art/wizardtower.png",
+     "art_size": 10331,
+     "zones": "zones/wizardtower.zbin",
+     "zones_size": 1204,
+     "tuning": {
+      "zone_weight": 3086,
+      "play_zones": 6,
+      "seed": 20261703
+     }
+    },
+    {
+     "id": "knight",
+     "name": "Helmet and Shield",
+     "rev": 1,
+     "art": "art/knight.png",
+     "art_size": 9138,
+     "zones": "zones/knight.zbin",
+     "zones_size": 1296,
+     "tuning": {
+      "zone_weight": 2819,
+      "play_zones": 6,
+      "seed": 20261704
+     }
+    },
+    {
+     "id": "treasuremap",
+     "name": "Treasure Map",
+     "rev": 1,
+     "art": "art/treasuremap.png",
+     "art_size": 12140,
+     "zones": "zones/treasuremap.zbin",
+     "zones_size": 1344,
+     "tuning": {
+      "zone_weight": 2938,
+      "play_zones": 6,
+      "seed": 20261705
+     }
+    },
+    {
+     "id": "unicorn",
+     "name": "White Unicorn",
+     "rev": 1,
+     "art": "art/unicorn.png",
+     "art_size": 13684,
+     "zones": "zones/unicorn.zbin",
+     "zones_size": 1260,
+     "tuning": {
+      "zone_weight": 3175,
+      "play_zones": 6,
+      "seed": 20261706
+     }
+    },
+    {
+     "id": "magiccastle",
+     "name": "Mystic Castle",
+     "rev": 1,
+     "art": "art/magiccastle.png",
+     "art_size": 13899,
+     "zones": "zones/magiccastle.zbin",
+     "zones_size": 1180,
+     "tuning": {
+      "zone_weight": 3591,
+      "play_zones": 6,
+      "seed": 20261707
+     }
+    },
+    {
+     "id": "mushroomhouse",
+     "name": "Mushroom House",
+     "rev": 1,
+     "art": "art/mushroomhouse.png",
+     "art_size": 7731,
+     "zones": "zones/mushroomhouse.zbin",
+     "zones_size": 1028,
+     "tuning": {
+      "zone_weight": 3591,
+      "play_zones": 5,
+      "seed": 20261708
+     }
+    },
+    {
+     "id": "troll",
+     "name": "Friendly Troll",
+     "rev": 1,
+     "art": "art/troll.png",
+     "art_size": 13403,
+     "zones": "zones/troll.zbin",
+     "zones_size": 1264,
+     "tuning": {
+      "zone_weight": 2908,
+      "play_zones": 6,
+      "seed": 20261709
+     }
+    },
+    {
+     "id": "elfwoman",
+     "name": "Elf in Moonlight",
+     "rev": 1,
+     "art": "art/elfwoman.png",
+     "art_size": 10923,
+     "zones": "zones/elfwoman.zbin",
+     "zones_size": 980,
+     "tuning": {
+      "zone_weight": 3235,
+      "play_zones": 6,
+      "seed": 20261710
      }
     }
    ]
