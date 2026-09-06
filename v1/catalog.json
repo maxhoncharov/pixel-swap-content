@@ -329,6 +329,49 @@
     "play_zones": 6,
     "seed": 20260829
    }
+  },
+  {
+   "id": "campervan",
+   "name": "Yellow Camper Van",
+   "rev": 1,
+   "unlock": "ad",
+   "art": "art/campervan.png",
+   "art_size": 8903,
+   "zones": "zones/campervan.zbin",
+   "zones_size": 1160,
+   "tuning": {
+    "zone_weight": 4066,
+    "play_zones": 6,
+    "seed": 20260830
+   }
+  },
+  {
+   "id": "parkbench",
+   "name": "Bench in the Park",
+   "rev": 1,
+   "art": "art/parkbench.png",
+   "art_size": 14601,
+   "zones": "zones/parkbench.zbin",
+   "zones_size": 964,
+   "tuning": {
+    "zone_weight": 3650,
+    "play_zones": 6,
+    "seed": 20260831
+   }
+  },
+  {
+   "id": "cassette",
+   "name": "Mixtape",
+   "rev": 1,
+   "art": "art/cassette.png",
+   "art_size": 12320,
+   "zones": "zones/cassette.zbin",
+   "zones_size": 1112,
+   "tuning": {
+    "zone_weight": 3650,
+    "play_zones": 6,
+    "seed": 20260832
+   }
   }
  ],
  "packs": [
@@ -1637,6 +1680,153 @@
       "zone_weight": 3235,
       "play_zones": 6,
       "seed": 20261710
+     }
+    }
+   ]
+  },
+  {
+   "id": "desert",
+   "name": "Desert Southwest",
+   "unlock": "ad",
+   "levels": [
+    {
+     "id": "saguaro",
+     "name": "Saguaro at Sunset",
+     "rev": 1,
+     "art": "art/saguaro.png",
+     "art_size": 9766,
+     "zones": "zones/saguaro.zbin",
+     "zones_size": 1200,
+     "tuning": {
+      "zone_weight": 2819,
+      "play_zones": 6,
+      "seed": 20261801
+     }
+    },
+    {
+     "id": "canyon",
+     "name": "Red Rock Canyon",
+     "rev": 1,
+     "art": "art/canyon.png",
+     "art_size": 8722,
+     "zones": "zones/canyon.zbin",
+     "zones_size": 1344,
+     "tuning": {
+      "zone_weight": 2789,
+      "play_zones": 6,
+      "seed": 20261802
+     }
+    },
+    {
+     "id": "adobe",
+     "name": "Adobe House",
+     "rev": 1,
+     "art": "art/adobe.png",
+     "art_size": 7931,
+     "zones": "zones/adobe.zbin",
+     "zones_size": 1016,
+     "tuning": {
+      "zone_weight": 3769,
+      "play_zones": 6,
+      "seed": 20261803
+     }
+    },
+    {
+     "id": "cowskull",
+     "name": "Skull in the Sand",
+     "rev": 1,
+     "art": "art/cowskull.png",
+     "art_size": 12147,
+     "zones": "zones/cowskull.zbin",
+     "zones_size": 1240,
+     "tuning": {
+      "zone_weight": 3264,
+      "play_zones": 6,
+      "seed": 20261804
+     }
+    },
+    {
+     "id": "roadrunner",
+     "name": "Roadrunner",
+     "rev": 1,
+     "art": "art/roadrunner.png",
+     "art_size": 8179,
+     "zones": "zones/roadrunner.zbin",
+     "zones_size": 1160,
+     "tuning": {
+      "zone_weight": 2522,
+      "play_zones": 6,
+      "seed": 20261805
+     }
+    },
+    {
+     "id": "roundcacti",
+     "name": "Cacti in Bloom",
+     "rev": 1,
+     "art": "art/roundcacti.png",
+     "art_size": 13076,
+     "zones": "zones/roundcacti.zbin",
+     "zones_size": 1180,
+     "tuning": {
+      "zone_weight": 3442,
+      "play_zones": 6,
+      "seed": 20261806
+     }
+    },
+    {
+     "id": "desertroad",
+     "name": "Road to the Mesas",
+     "rev": 1,
+     "art": "art/desertroad.png",
+     "art_size": 11507,
+     "zones": "zones/desertroad.zbin",
+     "zones_size": 1324,
+     "tuning": {
+      "zone_weight": 3739,
+      "play_zones": 6,
+      "seed": 20261807
+     }
+    },
+    {
+     "id": "desertmill",
+     "name": "Desert Windmill",
+     "rev": 1,
+     "art": "art/desertmill.png",
+     "art_size": 10779,
+     "zones": "zones/desertmill.zbin",
+     "zones_size": 1248,
+     "tuning": {
+      "zone_weight": 2967,
+      "play_zones": 6,
+      "seed": 20261808
+     }
+    },
+    {
+     "id": "rattlesnake",
+     "name": "Rattlesnake",
+     "rev": 1,
+     "art": "art/rattlesnake.png",
+     "art_size": 9781,
+     "zones": "zones/rattlesnake.zbin",
+     "zones_size": 784,
+     "tuning": {
+      "zone_weight": 4274,
+      "play_zones": 6,
+      "seed": 20261809
+     }
+    },
+    {
+     "id": "desertnight",
+     "name": "Desert Night Sky",
+     "rev": 1,
+     "art": "art/desertnight.png",
+     "art_size": 9983,
+     "zones": "zones/desertnight.zbin",
+     "zones_size": 1208,
+     "tuning": {
+      "zone_weight": 2967,
+      "play_zones": 6,
+      "seed": 20261810
      }
     }
    ]
