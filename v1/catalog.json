@@ -372,6 +372,35 @@
     "play_zones": 6,
     "seed": 20260832
    }
+  },
+  {
+   "id": "aurora",
+   "name": "Northern Lights",
+   "rev": 1,
+   "unlock": "ad",
+   "art": "art/aurora.png",
+   "art_size": 12299,
+   "zones": "zones/aurora.zbin",
+   "zones_size": 1320,
+   "tuning": {
+    "zone_weight": 3057,
+    "play_zones": 6,
+    "seed": 20260833
+   }
+  },
+  {
+   "id": "mistymorning",
+   "name": "Misty Morning",
+   "rev": 1,
+   "art": "art/mistymorning.png",
+   "art_size": 17867,
+   "zones": "zones/mistymorning.zbin",
+   "zones_size": 1420,
+   "tuning": {
+    "zone_weight": 3235,
+    "play_zones": 6,
+    "seed": 20260834
+   }
   }
  ],
  "packs": [
@@ -1827,6 +1856,97 @@
       "zone_weight": 2967,
       "play_zones": 6,
       "seed": 20261810
+     }
+    }
+   ]
+  },
+  {
+   "id": "cats",
+   "name": "Cats",
+   "unlock": "ad",
+   "levels": [
+    {
+     "id": "gingercat",
+     "name": "Ginger Cat Napping",
+     "rev": 1,
+     "art": "art/gingercat.png",
+     "art_size": 10041,
+     "zones": "zones/gingercat.zbin",
+     "zones_size": 1116,
+     "tuning": {
+      "zone_weight": 4007,
+      "play_zones": 6,
+      "seed": 20261901
+     }
+    },
+    {
+     "id": "whitecat",
+     "name": "Blue-Eyed White Cat",
+     "rev": 1,
+     "art": "art/whitecat.png",
+     "art_size": 10052,
+     "zones": "zones/whitecat.zbin",
+     "zones_size": 1244,
+     "tuning": {
+      "zone_weight": 3175,
+      "play_zones": 6,
+      "seed": 20261902
+     }
+    },
+    {
+     "id": "kittenyarn",
+     "name": "Kitten and Yarn",
+     "rev": 1,
+     "art": "art/kittenyarn.png",
+     "art_size": 10587,
+     "zones": "zones/kittenyarn.zbin",
+     "zones_size": 1020,
+     "tuning": {
+      "zone_weight": 3502,
+      "play_zones": 6,
+      "seed": 20261903
+     }
+    },
+    {
+     "id": "siamese",
+     "name": "Siamese by the Window",
+     "rev": 1,
+     "art": "art/siamese.png",
+     "art_size": 12274,
+     "zones": "zones/siamese.zbin",
+     "zones_size": 1264,
+     "tuning": {
+      "zone_weight": 3235,
+      "play_zones": 6,
+      "seed": 20261904
+     }
+    },
+    {
+     "id": "collarcat",
+     "name": "Cat in the Grass",
+     "rev": 1,
+     "art": "art/collarcat.png",
+     "art_size": 11222,
+     "zones": "zones/collarcat.zbin",
+     "zones_size": 1340,
+     "tuning": {
+      "zone_weight": 2730,
+      "play_zones": 6,
+      "seed": 20261905
+     }
+    },
+    {
+     "id": "twokittens",
+     "name": "Two Kittens",
+     "rev": 1,
+     "art": "art/twokittens.png",
+     "art_size": 12960,
+     "zones": "zones/twokittens.zbin",
+     "zones_size": 1376,
+     "tuning": {
+      "zone_weight": 3116,
+      "play_zones": 6,
+      "seed": 20261906
      }
     }
    ]
