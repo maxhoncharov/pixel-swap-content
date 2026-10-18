@@ -401,6 +401,94 @@
     "play_zones": 6,
     "seed": 20260834
    }
+  },
+  {
+   "id": "goose",
+   "name": "Goose in a Scarf",
+   "rev": 1,
+   "art": "art/goose.png",
+   "art_size": 7312,
+   "zones": "zones/goose.zbin",
+   "zones_size": 1252,
+   "tuning": {
+    "zone_weight": 2760,
+    "play_zones": 6,
+    "seed": 20260835
+   }
+  },
+  {
+   "id": "schoolbus",
+   "name": "School Bus",
+   "rev": 1,
+   "art": "art/schoolbus.png",
+   "art_size": 14233,
+   "zones": "zones/schoolbus.zbin",
+   "zones_size": 1032,
+   "tuning": {
+    "zone_weight": 3442,
+    "play_zones": 6,
+    "seed": 20260836
+   }
+  },
+  {
+   "id": "pumpkinwindow",
+   "name": "Pumpkin on the Sill",
+   "rev": 1,
+   "unlock": "ad",
+   "art": "art/pumpkinwindow.png",
+   "art_size": 12837,
+   "zones": "zones/pumpkinwindow.zbin",
+   "zones_size": 1196,
+   "tuning": {
+    "zone_weight": 3353,
+    "play_zones": 6,
+    "seed": 20260837
+   }
+  },
+  {
+   "id": "ufo",
+   "name": "Flying Saucer",
+   "rev": 1,
+   "unlock": "ad",
+   "art": "art/ufo.png",
+   "art_size": 10759,
+   "zones": "zones/ufo.zbin",
+   "zones_size": 1124,
+   "tuning": {
+    "zone_weight": 3264,
+    "play_zones": 6,
+    "seed": 20260838
+   }
+  },
+  {
+   "id": "pumpkinpath",
+   "name": "Pumpkin Path",
+   "rev": 1,
+   "unlock": "ad",
+   "art": "art/pumpkinpath.png",
+   "art_size": 16078,
+   "zones": "zones/pumpkinpath.zbin",
+   "zones_size": 1168,
+   "tuning": {
+    "zone_weight": 3710,
+    "play_zones": 6,
+    "seed": 20260839
+   }
+  },
+  {
+   "id": "harvestmoon",
+   "name": "Harvest Moon",
+   "rev": 1,
+   "unlock": "ad",
+   "art": "art/harvestmoon.png",
+   "art_size": 11253,
+   "zones": "zones/harvestmoon.zbin",
+   "zones_size": 1244,
+   "tuning": {
+    "zone_weight": 2819,
+    "play_zones": 6,
+    "seed": 20260840
+   }
   }
  ],
  "packs": [
@@ -1947,6 +2035,538 @@
       "zone_weight": 3116,
       "play_zones": 6,
       "seed": 20261906
+     }
+    }
+   ]
+  },
+  {
+   "id": "monsters",
+   "name": "Little Monsters",
+   "unlock": "ad",
+   "levels": [
+    {
+     "id": "witch",
+     "name": "Witch on a Pumpkin",
+     "rev": 1,
+     "art": "art/witch.png",
+     "art_size": 8114,
+     "zones": "zones/witch.zbin",
+     "zones_size": 1316,
+     "tuning": {
+      "zone_weight": 2492,
+      "play_zones": 6,
+      "seed": 20262001
+     }
+    },
+    {
+     "id": "vampire",
+     "name": "Vampire at the Beach",
+     "rev": 1,
+     "art": "art/vampire.png",
+     "art_size": 6131,
+     "zones": "zones/vampire.zbin",
+     "zones_size": 1120,
+     "tuning": {
+      "zone_weight": 2522,
+      "play_zones": 6,
+      "seed": 20262002
+     }
+    },
+    {
+     "id": "mummy",
+     "name": "Trick-or-Treat Mummy",
+     "rev": 1,
+     "art": "art/mummy.png",
+     "art_size": 11014,
+     "zones": "zones/mummy.zbin",
+     "zones_size": 1108,
+     "tuning": {
+      "zone_weight": 3086,
+      "play_zones": 6,
+      "seed": 20262003
+     }
+    },
+    {
+     "id": "werewolf",
+     "name": "Sleepy Werewolf",
+     "rev": 1,
+     "art": "art/werewolf.png",
+     "art_size": 7995,
+     "zones": "zones/werewolf.zbin",
+     "zones_size": 1056,
+     "tuning": {
+      "zone_weight": 3353,
+      "play_zones": 6,
+      "seed": 20262004
+     }
+    },
+    {
+     "id": "pumpkinhead",
+     "name": "Pumpkin Head",
+     "rev": 1,
+     "art": "art/pumpkinhead.png",
+     "art_size": 8378,
+     "zones": "zones/pumpkinhead.zbin",
+     "zones_size": 1260,
+     "tuning": {
+      "zone_weight": 2938,
+      "play_zones": 6,
+      "seed": 20262005
+     }
+    },
+    {
+     "id": "zombie",
+     "name": "Zombie in the Garden",
+     "rev": 1,
+     "art": "art/zombie.png",
+     "art_size": 11203,
+     "zones": "zones/zombie.zbin",
+     "zones_size": 1344,
+     "tuning": {
+      "zone_weight": 2819,
+      "play_zones": 6,
+      "seed": 20262006
+     }
+    }
+   ]
+  },
+  {
+   "id": "halloween",
+   "name": "Halloween",
+   "unlock": "ad",
+   "levels": [
+    {
+     "id": "jackolanterns",
+     "name": "Three Jack-o'-Lanterns",
+     "rev": 1,
+     "art": "art/jackolanterns.png",
+     "art_size": 9007,
+     "zones": "zones/jackolanterns.zbin",
+     "zones_size": 1260,
+     "tuning": {
+      "zone_weight": 2522,
+      "play_zones": 6,
+      "seed": 20262101
+     }
+    },
+    {
+     "id": "ghostbook",
+     "name": "Ghost with a Book",
+     "rev": 1,
+     "art": "art/ghostbook.png",
+     "art_size": 7805,
+     "zones": "zones/ghostbook.zbin",
+     "zones_size": 1080,
+     "tuning": {
+      "zone_weight": 3086,
+      "play_zones": 6,
+      "seed": 20262102
+     }
+    },
+    {
+     "id": "candybucket",
+     "name": "Candy Bucket",
+     "rev": 1,
+     "art": "art/candybucket.png",
+     "art_size": 8872,
+     "zones": "zones/candybucket.zbin",
+     "zones_size": 1224,
+     "tuning": {
+      "zone_weight": 3057,
+      "play_zones": 6,
+      "seed": 20262103
+     }
+    },
+    {
+     "id": "broomparking",
+     "name": "Broom Parking",
+     "rev": 1,
+     "art": "art/broomparking.png",
+     "art_size": 8432,
+     "zones": "zones/broomparking.zbin",
+     "zones_size": 1292,
+     "tuning": {
+      "zone_weight": 2789,
+      "play_zones": 6,
+      "seed": 20262104
+     }
+    },
+    {
+     "id": "applebob",
+     "name": "Bobbing for Apples",
+     "rev": 1,
+     "art": "art/applebob.png",
+     "art_size": 12982,
+     "zones": "zones/applebob.zbin",
+     "zones_size": 1092,
+     "tuning": {
+      "zone_weight": 3591,
+      "play_zones": 6,
+      "seed": 20262105
+     }
+    },
+    {
+     "id": "applepie",
+     "name": "Owl and the Pie",
+     "rev": 1,
+     "art": "art/applepie.png",
+     "art_size": 7175,
+     "zones": "zones/applepie.zbin",
+     "zones_size": 1236,
+     "tuning": {
+      "zone_weight": 2730,
+      "play_zones": 6,
+      "seed": 20262106
+     }
+    },
+    {
+     "id": "movienight",
+     "name": "Movie Night",
+     "rev": 1,
+     "art": "art/movienight.png",
+     "art_size": 14718,
+     "zones": "zones/movienight.zbin",
+     "zones_size": 1256,
+     "tuning": {
+      "zone_weight": 4660,
+      "play_zones": 6,
+      "seed": 20262107
+     }
+    },
+    {
+     "id": "halloweenstreet",
+     "name": "Halloween Street",
+     "rev": 1,
+     "art": "art/halloweenstreet.png",
+     "art_size": 12479,
+     "zones": "zones/halloweenstreet.zbin",
+     "zones_size": 1064,
+     "tuning": {
+      "zone_weight": 3442,
+      "play_zones": 6,
+      "seed": 20262108
+     }
+    },
+    {
+     "id": "hauntedhouse",
+     "name": "Haunted House",
+     "rev": 1,
+     "art": "art/hauntedhouse.png",
+     "art_size": 10648,
+     "zones": "zones/hauntedhouse.zbin",
+     "zones_size": 1068,
+     "tuning": {
+      "zone_weight": 3086,
+      "play_zones": 6,
+      "seed": 20262109
+     }
+    },
+    {
+     "id": "cemetery",
+     "name": "Old Cemetery",
+     "rev": 1,
+     "art": "art/cemetery.png",
+     "art_size": 10614,
+     "zones": "zones/cemetery.zbin",
+     "zones_size": 1124,
+     "tuning": {
+      "zone_weight": 3057,
+      "play_zones": 6,
+      "seed": 20262110
+     }
+    }
+   ]
+  },
+  {
+   "id": "creatures",
+   "name": "Night Creatures",
+   "unlock": "ad",
+   "levels": [
+    {
+     "id": "pumpkincat",
+     "name": "Black Cat on a Pumpkin",
+     "rev": 1,
+     "art": "art/pumpkincat.png",
+     "art_size": 8466,
+     "zones": "zones/pumpkincat.zbin",
+     "zones_size": 984,
+     "tuning": {
+      "zone_weight": 3947,
+      "play_zones": 6,
+      "seed": 20262201
+     }
+    },
+    {
+     "id": "raccoon",
+     "name": "Apple Thief",
+     "rev": 1,
+     "art": "art/raccoon.png",
+     "art_size": 9241,
+     "zones": "zones/raccoon.zbin",
+     "zones_size": 1208,
+     "tuning": {
+      "zone_weight": 2582,
+      "play_zones": 6,
+      "seed": 20262202
+     }
+    },
+    {
+     "id": "barnowl",
+     "name": "Barn Owl",
+     "rev": 1,
+     "art": "art/barnowl.png",
+     "art_size": 13701,
+     "zones": "zones/barnowl.zbin",
+     "zones_size": 1292,
+     "tuning": {
+      "zone_weight": 3235,
+      "play_zones": 6,
+      "seed": 20262203
+     }
+    },
+    {
+     "id": "wolf",
+     "name": "Wolf in the Mist",
+     "rev": 1,
+     "art": "art/wolf.png",
+     "art_size": 10889,
+     "zones": "zones/wolf.zbin",
+     "zones_size": 1372,
+     "tuning": {
+      "zone_weight": 2819,
+      "play_zones": 6,
+      "seed": 20262204
+     }
+    },
+    {
+     "id": "raven",
+     "name": "Raven in the Moonlight",
+     "rev": 1,
+     "art": "art/raven.png",
+     "art_size": 12602,
+     "zones": "zones/raven.zbin",
+     "zones_size": 1000,
+     "tuning": {
+      "zone_weight": 5461,
+      "play_zones": 6,
+      "seed": 20262205
+     }
+    },
+    {
+     "id": "toad",
+     "name": "Witch's Toad",
+     "rev": 1,
+     "art": "art/toad.png",
+     "art_size": 13014,
+     "zones": "zones/toad.zbin",
+     "zones_size": 1352,
+     "tuning": {
+      "zone_weight": 3413,
+      "play_zones": 6,
+      "seed": 20262206
+     }
+    },
+    {
+     "id": "bats",
+     "name": "Bats at Dusk",
+     "rev": 1,
+     "art": "art/bats.png",
+     "art_size": 12046,
+     "zones": "zones/bats.zbin",
+     "zones_size": 1244,
+     "tuning": {
+      "zone_weight": 2849,
+      "play_zones": 6,
+      "seed": 20262207
+     }
+    },
+    {
+     "id": "stag",
+     "name": "Dark Stag",
+     "rev": 1,
+     "art": "art/stag.png",
+     "art_size": 11848,
+     "zones": "zones/stag.zbin",
+     "zones_size": 1136,
+     "tuning": {
+      "zone_weight": 3650,
+      "play_zones": 6,
+      "seed": 20262208
+     }
+    },
+    {
+     "id": "snake",
+     "name": "Snake and Pumpkin",
+     "rev": 1,
+     "art": "art/snake.png",
+     "art_size": 14705,
+     "zones": "zones/snake.zbin",
+     "zones_size": 1076,
+     "tuning": {
+      "zone_weight": 3858,
+      "play_zones": 6,
+      "seed": 20262209
+     }
+    },
+    {
+     "id": "spider",
+     "name": "Spider on the Web",
+     "rev": 1,
+     "art": "art/spider.png",
+     "art_size": 12410,
+     "zones": "zones/spider.zbin",
+     "zones_size": 1276,
+     "tuning": {
+      "zone_weight": 3027,
+      "play_zones": 6,
+      "seed": 20262210
+     }
+    }
+   ]
+  },
+  {
+   "id": "midnight",
+   "name": "Midnight Movies",
+   "unlock": "ad",
+   "levels": [
+    {
+     "id": "redballoon",
+     "name": "Red Balloon",
+     "rev": 1,
+     "art": "art/redballoon.png",
+     "art_size": 16951,
+     "zones": "zones/redballoon.zbin",
+     "zones_size": 1272,
+     "tuning": {
+      "zone_weight": 3561,
+      "play_zones": 6,
+      "seed": 20262301
+     }
+    },
+    {
+     "id": "tricycle",
+     "name": "Red Tricycle",
+     "rev": 1,
+     "art": "art/tricycle.png",
+     "art_size": 9533,
+     "zones": "zones/tricycle.zbin",
+     "zones_size": 1092,
+     "tuning": {
+      "zone_weight": 3472,
+      "play_zones": 6,
+      "seed": 20262302
+     }
+    },
+    {
+     "id": "sharkfin",
+     "name": "Something in the Water",
+     "rev": 1,
+     "art": "art/sharkfin.png",
+     "art_size": 7819,
+     "zones": "zones/sharkfin.zbin",
+     "zones_size": 1124,
+     "tuning": {
+      "zone_weight": 2908,
+      "play_zones": 6,
+      "seed": 20262303
+     }
+    },
+    {
+     "id": "statictv",
+     "name": "TV Static",
+     "rev": 1,
+     "art": "art/statictv.png",
+     "art_size": 6141,
+     "zones": "zones/statictv.zbin",
+     "zones_size": 1196,
+     "tuning": {
+      "zone_weight": 2730,
+      "play_zones": 6,
+      "seed": 20262304
+     }
+    },
+    {
+     "id": "hockeymask",
+     "name": "Mask on the Dock",
+     "rev": 1,
+     "art": "art/hockeymask.png",
+     "art_size": 10237,
+     "zones": "zones/hockeymask.zbin",
+     "zones_size": 1164,
+     "tuning": {
+      "zone_weight": 3146,
+      "play_zones": 6,
+      "seed": 20262305
+     }
+    },
+    {
+     "id": "oldwell",
+     "name": "Old Well",
+     "rev": 1,
+     "art": "art/oldwell.png",
+     "art_size": 14212,
+     "zones": "zones/oldwell.zbin",
+     "zones_size": 1144,
+     "tuning": {
+      "zone_weight": 4957,
+      "play_zones": 6,
+      "seed": 20262306
+     }
+    },
+    {
+     "id": "cropcircle",
+     "name": "Crop Circle",
+     "rev": 1,
+     "art": "art/cropcircle.png",
+     "art_size": 15174,
+     "zones": "zones/cropcircle.zbin",
+     "zones_size": 1348,
+     "tuning": {
+      "zone_weight": 3175,
+      "play_zones": 6,
+      "seed": 20262307
+     }
+    },
+    {
+     "id": "woodsshadows",
+     "name": "Shadows in the Woods",
+     "rev": 1,
+     "art": "art/woodsshadows.png",
+     "art_size": 12313,
+     "zones": "zones/woodsshadows.zbin",
+     "zones_size": 1276,
+     "tuning": {
+      "zone_weight": 3264,
+      "play_zones": 6,
+      "seed": 20262308
+     }
+    },
+    {
+     "id": "farmporch",
+     "name": "Roadside Farmhouse",
+     "rev": 1,
+     "art": "art/farmporch.png",
+     "art_size": 10725,
+     "zones": "zones/farmporch.zbin",
+     "zones_size": 1244,
+     "tuning": {
+      "zone_weight": 3621,
+      "play_zones": 6,
+      "seed": 20262309
+     }
+    },
+    {
+     "id": "phonecall",
+     "name": "Late Night Call",
+     "rev": 1,
+     "art": "art/phonecall.png",
+     "art_size": 8636,
+     "zones": "zones/phonecall.zbin",
+     "zones_size": 864,
+     "tuning": {
+      "zone_weight": 4600,
+      "play_zones": 6,
+      "seed": 20262310
      }
     }
    ]
