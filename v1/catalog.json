@@ -5,6 +5,18 @@
   {
    "id": "sunflower",
    "name": "Sunflower",
+   "names": {
+    "uk": "Соняшник",
+    "ru": "Подсолнух",
+    "de": "Sonnenblume",
+    "fr": "Tournesol",
+    "es": "Girasol",
+    "pt_BR": "Girassol",
+    "it": "Girasole",
+    "ja": "ひまわり",
+    "ko": "해바라기",
+    "zh_Hant": "向日葵"
+   },
    "rev": 1,
    "added": "2026-08-01",
    "art": "art/sunflower.png",
@@ -20,6 +32,18 @@
   {
    "id": "galaxy",
    "name": "Spiral Galaxy",
+   "names": {
+    "uk": "Спіральна галактика",
+    "ru": "Спиральная галактика",
+    "de": "Spiralgalaxie",
+    "fr": "Galaxie spirale",
+    "es": "Galaxia espiral",
+    "pt_BR": "Galáxia espiral",
+    "it": "Galassia a spirale",
+    "ja": "渦巻銀河",
+    "ko": "나선 은하",
+    "zh_Hant": "螺旋星系"
+   },
    "rev": 1,
    "unlock": "ad",
    "added": "2026-08-01",
@@ -36,6 +60,18 @@
   {
    "id": "maneki",
    "name": "Lucky Cat",
+   "names": {
+    "uk": "Кіт удачі",
+    "ru": "Кот удачи",
+    "de": "Winkekatze",
+    "fr": "Chat porte-bonheur",
+    "es": "Gato de la suerte",
+    "pt_BR": "Gato da sorte",
+    "it": "Gatto portafortuna",
+    "ja": "招き猫",
+    "ko": "행운의 고양이",
+    "zh_Hant": "招財貓"
+   },
    "rev": 1,
    "unlock": "ad",
    "added": "2026-08-01",
@@ -52,6 +88,18 @@
   {
    "id": "frog",
    "name": "Striped Frog",
+   "names": {
+    "uk": "Смугаста жаба",
+    "ru": "Полосатая лягушка",
+    "de": "Gestreifter Frosch",
+    "fr": "Grenouille rayée",
+    "es": "Rana rayada",
+    "pt_BR": "Sapo listrado",
+    "it": "Rana a strisce",
+    "ja": "しましまカエル",
+    "ko": "줄무늬 개구리",
+    "zh_Hant": "條紋青蛙"
+   },
    "rev": 1,
    "added": "2026-08-01",
    "art": "art/frog.png",
@@ -67,6 +115,18 @@
   {
    "id": "blackcat",
    "name": "Cat in the Window",
+   "names": {
+    "uk": "Кіт у вікні",
+    "ru": "Кот в окне",
+    "de": "Katze im Fenster",
+    "fr": "Chat à la fenêtre",
+    "es": "Gato en la ventana",
+    "pt_BR": "Gato na janela",
+    "it": "Gatto alla finestra",
+    "ja": "窓辺のねこ",
+    "ko": "창가의 고양이",
+    "zh_Hant": "窗邊的貓"
+   },
    "rev": 1,
    "added": "2026-08-01",
    "art": "art/blackcat.png",
@@ -82,6 +142,18 @@
   {
    "id": "boat",
    "name": "Boat on the Beach",
+   "names": {
+    "uk": "Човен на березі",
+    "ru": "Лодка на берегу",
+    "de": "Boot am Strand",
+    "fr": "Barque sur la plage",
+    "es": "Barca en la playa",
+    "pt_BR": "Barco na praia",
+    "it": "Barca sulla spiaggia",
+    "ja": "浜辺のボート",
+    "ko": "해변의 보트",
+    "zh_Hant": "海灘上的小船"
+   },
    "rev": 1,
    "added": "2026-08-01",
    "art": "art/boat.png",
@@ -97,6 +169,18 @@
   {
    "id": "bento",
    "name": "Bento Box",
+   "names": {
+    "uk": "Бенто",
+    "ru": "Бэнто",
+    "de": "Bento-Box",
+    "fr": "Bento",
+    "es": "Caja bento",
+    "pt_BR": "Bentô",
+    "it": "Bento",
+    "ja": "お弁当",
+    "ko": "도시락",
+    "zh_Hant": "便當"
+   },
    "rev": 1,
    "added": "2026-08-06",
    "art": "art/bento.png",
@@ -112,6 +196,18 @@
   {
    "id": "fireplace",
    "name": "Cozy Fireplace",
+   "names": {
+    "uk": "Затишний камін",
+    "ru": "Уютный камин",
+    "de": "Gemütlicher Kamin",
+    "fr": "Cheminée douillette",
+    "es": "Chimenea acogedora",
+    "pt_BR": "Lareira aconchegante",
+    "it": "Camino accogliente",
+    "ja": "あたたかい暖炉",
+    "ko": "아늑한 벽난로",
+    "zh_Hant": "溫暖的壁爐"
+   },
    "rev": 1,
    "unlock": "ad",
    "added": "2026-08-06",
@@ -128,6 +224,18 @@
   {
    "id": "sunset",
    "name": "Orange Sunset",
+   "names": {
+    "uk": "Помаранчевий захід",
+    "ru": "Оранжевый закат",
+    "de": "Abendrot",
+    "fr": "Soleil couchant",
+    "es": "Atardecer naranja",
+    "pt_BR": "Pôr do sol laranja",
+    "it": "Tramonto arancione",
+    "ja": "オレンジの夕焼け",
+    "ko": "주황빛 노을",
+    "zh_Hant": "橘色夕陽"
+   },
    "rev": 1,
    "unlock": "ad",
    "added": "2026-08-12",
@@ -144,6 +252,18 @@
   {
    "id": "tent",
    "name": "Camping Tent",
+   "names": {
+    "uk": "Намет",
+    "ru": "Палатка",
+    "de": "Zelt",
+    "fr": "Tente de camping",
+    "es": "Tienda de campaña",
+    "pt_BR": "Barraca",
+    "it": "Tenda da campeggio",
+    "ja": "キャンプのテント",
+    "ko": "캠핑 텐트",
+    "zh_Hant": "露營帳篷"
+   },
    "rev": 1,
    "added": "2026-08-12",
    "art": "art/tent.png",
@@ -159,6 +279,18 @@
   {
    "id": "cow",
    "name": "Cow in the Meadow",
+   "names": {
+    "uk": "Корова на лузі",
+    "ru": "Корова на лугу",
+    "de": "Kuh auf der Wiese",
+    "fr": "Vache au pré",
+    "es": "Vaca en el prado",
+    "pt_BR": "Vaca no pasto",
+    "it": "Mucca al pascolo",
+    "ja": "牧場のうし",
+    "ko": "초원의 소",
+    "zh_Hant": "草原上的乳牛"
+   },
    "rev": 1,
    "added": "2026-08-12",
    "art": "art/cow.png",
@@ -174,6 +306,18 @@
   {
    "id": "fullmoon",
    "name": "Full Moon over Snow",
+   "names": {
+    "uk": "Повня над снігом",
+    "ru": "Луна над снегом",
+    "de": "Vollmond über Schnee",
+    "fr": "Pleine lune sur la neige",
+    "es": "Luna llena sobre la nieve",
+    "pt_BR": "Lua cheia na neve",
+    "it": "Luna piena sulla neve",
+    "ja": "雪原の満月",
+    "ko": "눈 위의 보름달",
+    "zh_Hant": "雪地上的滿月"
+   },
    "rev": 1,
    "added": "2026-08-12",
    "art": "art/fullmoon.png",
@@ -189,6 +333,18 @@
   {
    "id": "globe",
    "name": "Globe and Books",
+   "names": {
+    "uk": "Глобус і книжки",
+    "ru": "Глобус и книги",
+    "de": "Globus und Bücher",
+    "fr": "Globe et livres",
+    "es": "Globo y libros",
+    "pt_BR": "Globo e livros",
+    "it": "Mappamondo e libri",
+    "ja": "地球儀と本",
+    "ko": "지구본과 책",
+    "zh_Hant": "地球儀與書"
+   },
    "rev": 1,
    "added": "2026-08-12",
    "art": "art/globe.png",
@@ -204,6 +360,18 @@
   {
    "id": "retriever",
    "name": "Golden Retriever",
+   "names": {
+    "uk": "Золотистий ретривер",
+    "ru": "Золотистый ретривер",
+    "de": "Golden Retriever",
+    "fr": "Golden retriever",
+    "es": "Golden retriever",
+    "pt_BR": "Golden retriever",
+    "it": "Golden retriever",
+    "ja": "ゴールデンレトリバー",
+    "ko": "골든 리트리버",
+    "zh_Hant": "黃金獵犬"
+   },
    "rev": 1,
    "unlock": "ad",
    "added": "2026-08-12",
@@ -220,6 +388,18 @@
   {
    "id": "butterfly",
    "name": "Orange Butterfly",
+   "names": {
+    "uk": "Помаранчевий метелик",
+    "ru": "Оранжевая бабочка",
+    "de": "Oranger Falter",
+    "fr": "Papillon orange",
+    "es": "Mariposa naranja",
+    "pt_BR": "Borboleta laranja",
+    "it": "Farfalla arancione",
+    "ja": "オレンジのちょう",
+    "ko": "주황 나비",
+    "zh_Hant": "橘色蝴蝶"
+   },
    "rev": 1,
    "added": "2026-08-12",
    "art": "art/butterfly.png",
@@ -235,6 +415,18 @@
   {
    "id": "frostwindow",
    "name": "Frost on the Window",
+   "names": {
+    "uk": "Іній на вікні",
+    "ru": "Иней на окне",
+    "de": "Eisblumen am Fenster",
+    "fr": "Givre sur la vitre",
+    "es": "Escarcha en la ventana",
+    "pt_BR": "Geada na janela",
+    "it": "Brina sul vetro",
+    "ja": "窓の霜",
+    "ko": "창문의 성에",
+    "zh_Hant": "窗上的霜花"
+   },
    "rev": 1,
    "added": "2026-08-12",
    "art": "art/frostwindow.png",
@@ -250,6 +442,18 @@
   {
    "id": "waterfall",
    "name": "Turquoise Waterfall",
+   "names": {
+    "uk": "Бірюзовий водоспад",
+    "ru": "Бирюзовый водопад",
+    "de": "Türkiser Wasserfall",
+    "fr": "Cascade turquoise",
+    "es": "Cascada turquesa",
+    "pt_BR": "Cachoeira turquesa",
+    "it": "Cascata turchese",
+    "ja": "ターコイズの滝",
+    "ko": "청록빛 폭포",
+    "zh_Hant": "碧綠瀑布"
+   },
    "rev": 1,
    "added": "2026-08-12",
    "art": "art/waterfall.png",
@@ -265,6 +469,18 @@
   {
    "id": "balloon",
    "name": "Hot Air Balloon",
+   "names": {
+    "uk": "Повітряна куля",
+    "ru": "Воздушный шар",
+    "de": "Heißluftballon",
+    "fr": "Montgolfière",
+    "es": "Globo aerostático",
+    "pt_BR": "Balão de ar quente",
+    "it": "Mongolfiera",
+    "ja": "熱気球",
+    "ko": "열기구",
+    "zh_Hant": "熱氣球"
+   },
    "rev": 1,
    "unlock": "ad",
    "added": "2026-08-12",
@@ -281,6 +497,18 @@
   {
    "id": "peak",
    "name": "Snowy Peak",
+   "names": {
+    "uk": "Засніжена вершина",
+    "ru": "Снежная вершина",
+    "de": "Schneegipfel",
+    "fr": "Sommet enneigé",
+    "es": "Cumbre nevada",
+    "pt_BR": "Pico nevado",
+    "it": "Vetta innevata",
+    "ja": "雪の山頂",
+    "ko": "눈 덮인 봉우리",
+    "zh_Hant": "雪峰"
+   },
    "rev": 1,
    "added": "2026-08-12",
    "art": "art/peak.png",
@@ -296,6 +524,18 @@
   {
    "id": "bicycle",
    "name": "Red Bicycle",
+   "names": {
+    "uk": "Червоний велосипед",
+    "ru": "Красный велосипед",
+    "de": "Rotes Fahrrad",
+    "fr": "Vélo rouge",
+    "es": "Bicicleta roja",
+    "pt_BR": "Bicicleta vermelha",
+    "it": "Bicicletta rossa",
+    "ja": "赤い自転車",
+    "ko": "빨간 자전거",
+    "zh_Hant": "紅色腳踏車"
+   },
    "rev": 1,
    "added": "2026-08-12",
    "art": "art/bicycle.png",
@@ -311,6 +551,18 @@
   {
    "id": "hedgehog",
    "name": "Hedgehog in the Leaves",
+   "names": {
+    "uk": "Їжачок у листі",
+    "ru": "Ёжик в листьях",
+    "de": "Igel im Laub",
+    "fr": "Hérisson dans les feuilles",
+    "es": "Erizo entre hojas",
+    "pt_BR": "Ouriço nas folhas",
+    "it": "Riccio tra le foglie",
+    "ja": "落ち葉とハリネズミ",
+    "ko": "낙엽 속 고슴도치",
+    "zh_Hant": "落葉裡的刺蝟"
+   },
    "rev": 1,
    "added": "2026-08-12",
    "art": "art/hedgehog.png",
@@ -326,6 +578,18 @@
   {
    "id": "telescope",
    "name": "Telescope at Dusk",
+   "names": {
+    "uk": "Телескоп у сутінках",
+    "ru": "Телескоп в сумерках",
+    "de": "Teleskop in der Dämmerung",
+    "fr": "Télescope au crépuscule",
+    "es": "Telescopio al anochecer",
+    "pt_BR": "Telescópio ao entardecer",
+    "it": "Telescopio al crepuscolo",
+    "ja": "夕暮れの望遠鏡",
+    "ko": "해 질 녘 망원경",
+    "zh_Hant": "黃昏的望遠鏡"
+   },
    "rev": 1,
    "added": "2026-08-12",
    "art": "art/telescope.png",
@@ -341,6 +605,18 @@
   {
    "id": "sailorgirl",
    "name": "Sailor Uniform",
+   "names": {
+    "uk": "Матроска",
+    "ru": "Матроска",
+    "de": "Matrosenuniform",
+    "fr": "Uniforme marin",
+    "es": "Uniforme de marinero",
+    "pt_BR": "Uniforme de marinheiro",
+    "it": "Divisa alla marinara",
+    "ja": "セーラー服",
+    "ko": "세일러복",
+    "zh_Hant": "水手服"
+   },
    "rev": 1,
    "added": "2026-08-12",
    "art": "art/sailorgirl.png",
@@ -356,6 +632,18 @@
   {
    "id": "campervan",
    "name": "Yellow Camper Van",
+   "names": {
+    "uk": "Жовтий кемпер",
+    "ru": "Жёлтый автодом",
+    "de": "Gelber Campingbus",
+    "fr": "Van jaune",
+    "es": "Camper amarilla",
+    "pt_BR": "Van amarela",
+    "it": "Camper giallo",
+    "ja": "黄色いキャンピングカー",
+    "ko": "노란 캠핑카",
+    "zh_Hant": "黃色露營車"
+   },
    "rev": 1,
    "unlock": "ad",
    "added": "2026-09-06",
@@ -372,6 +660,18 @@
   {
    "id": "parkbench",
    "name": "Bench in the Park",
+   "names": {
+    "uk": "Лавка в парку",
+    "ru": "Скамейка в парке",
+    "de": "Bank im Park",
+    "fr": "Banc dans le parc",
+    "es": "Banco en el parque",
+    "pt_BR": "Banco no parque",
+    "it": "Panchina nel parco",
+    "ja": "公園のベンチ",
+    "ko": "공원 벤치",
+    "zh_Hant": "公園長椅"
+   },
    "rev": 1,
    "added": "2026-09-06",
    "art": "art/parkbench.png",
@@ -387,6 +687,18 @@
   {
    "id": "cassette",
    "name": "Mixtape",
+   "names": {
+    "uk": "Касета",
+    "ru": "Кассета",
+    "de": "Mixtape",
+    "fr": "Cassette",
+    "es": "Casete",
+    "pt_BR": "Fita cassete",
+    "it": "Musicassetta",
+    "ja": "ミックステープ",
+    "ko": "믹스테이프",
+    "zh_Hant": "混音卡帶"
+   },
    "rev": 1,
    "added": "2026-09-06",
    "art": "art/cassette.png",
@@ -402,6 +714,18 @@
   {
    "id": "aurora",
    "name": "Northern Lights",
+   "names": {
+    "uk": "Північне сяйво",
+    "ru": "Северное сияние",
+    "de": "Nordlichter",
+    "fr": "Aurore boréale",
+    "es": "Aurora boreal",
+    "pt_BR": "Aurora boreal",
+    "it": "Aurora boreale",
+    "ja": "オーロラ",
+    "ko": "오로라",
+    "zh_Hant": "北極光"
+   },
    "rev": 1,
    "unlock": "ad",
    "added": "2026-09-14",
@@ -418,6 +742,18 @@
   {
    "id": "mistymorning",
    "name": "Misty Morning",
+   "names": {
+    "uk": "Туманний ранок",
+    "ru": "Туманное утро",
+    "de": "Nebliger Morgen",
+    "fr": "Matin brumeux",
+    "es": "Mañana de niebla",
+    "pt_BR": "Manhã de neblina",
+    "it": "Mattina nebbiosa",
+    "ja": "霧の朝",
+    "ko": "안개 낀 아침",
+    "zh_Hant": "霧濛濛的早晨"
+   },
    "rev": 1,
    "added": "2026-09-14",
    "art": "art/mistymorning.png",
@@ -433,6 +769,18 @@
   {
    "id": "goose",
    "name": "Goose in a Scarf",
+   "names": {
+    "uk": "Гуска в шарфі",
+    "ru": "Гусь в шарфе",
+    "de": "Gans mit Schal",
+    "fr": "Oie en écharpe",
+    "es": "Ganso con bufanda",
+    "pt_BR": "Ganso de cachecol",
+    "it": "Oca con la sciarpa",
+    "ja": "マフラーのガチョウ",
+    "ko": "목도리 두른 거위",
+    "zh_Hant": "圍圍巾的鵝"
+   },
    "rev": 1,
    "added": "2026-10-18",
    "art": "art/goose.png",
@@ -448,6 +796,18 @@
   {
    "id": "schoolbus",
    "name": "School Bus",
+   "names": {
+    "uk": "Шкільний автобус",
+    "ru": "Школьный автобус",
+    "de": "Schulbus",
+    "fr": "Bus scolaire",
+    "es": "Autobús escolar",
+    "pt_BR": "Ônibus escolar",
+    "it": "Scuolabus",
+    "ja": "スクールバス",
+    "ko": "스쿨버스",
+    "zh_Hant": "校車"
+   },
    "rev": 1,
    "added": "2026-10-18",
    "art": "art/schoolbus.png",
@@ -463,6 +823,18 @@
   {
    "id": "pumpkinwindow",
    "name": "Pumpkin on the Sill",
+   "names": {
+    "uk": "Гарбуз на підвіконні",
+    "ru": "Тыква на подоконнике",
+    "de": "Kürbis am Fenster",
+    "fr": "Citrouille sur le rebord",
+    "es": "Calabaza en la ventana",
+    "pt_BR": "Abóbora na janela",
+    "it": "Zucca sul davanzale",
+    "ja": "窓辺のかぼちゃ",
+    "ko": "창턱 위 호박",
+    "zh_Hant": "窗台上的南瓜"
+   },
    "rev": 1,
    "unlock": "ad",
    "added": "2026-10-18",
@@ -479,6 +851,18 @@
   {
    "id": "ufo",
    "name": "Flying Saucer",
+   "names": {
+    "uk": "Літаюча тарілка",
+    "ru": "Летающая тарелка",
+    "de": "Fliegende Untertasse",
+    "fr": "Soucoupe volante",
+    "es": "Platillo volador",
+    "pt_BR": "Disco voador",
+    "it": "Disco volante",
+    "ja": "空飛ぶ円盤",
+    "ko": "비행접시",
+    "zh_Hant": "飛碟"
+   },
    "rev": 1,
    "unlock": "ad",
    "added": "2026-10-18",
@@ -495,6 +879,18 @@
   {
    "id": "pumpkinpath",
    "name": "Pumpkin Path",
+   "names": {
+    "uk": "Гарбузова стежка",
+    "ru": "Тыквенная тропинка",
+    "de": "Kürbisweg",
+    "fr": "Chemin de citrouilles",
+    "es": "Camino de calabazas",
+    "pt_BR": "Caminho de abóboras",
+    "it": "Sentiero di zucche",
+    "ja": "かぼちゃの小道",
+    "ko": "호박 오솔길",
+    "zh_Hant": "南瓜小徑"
+   },
    "rev": 1,
    "unlock": "ad",
    "added": "2026-10-18",
@@ -511,6 +907,18 @@
   {
    "id": "harvestmoon",
    "name": "Harvest Moon",
+   "names": {
+    "uk": "Місяць урожаю",
+    "ru": "Урожайная луна",
+    "de": "Erntemond",
+    "fr": "Lune des moissons",
+    "es": "Luna de cosecha",
+    "pt_BR": "Lua da colheita",
+    "it": "Luna del raccolto",
+    "ja": "収穫の月",
+    "ko": "수확의 달",
+    "zh_Hant": "豐收之月"
+   },
    "rev": 1,
    "unlock": "ad",
    "added": "2026-10-18",
@@ -527,6 +935,18 @@
   {
    "id": "ghostcat",
    "name": "Ghost Cat",
+   "names": {
+    "uk": "Кіт-привид",
+    "ru": "Кот-призрак",
+    "de": "Geisterkatze",
+    "fr": "Chat fantôme",
+    "es": "Gato fantasma",
+    "pt_BR": "Gato fantasma",
+    "it": "Gatto fantasma",
+    "ja": "おばけねこ",
+    "ko": "유령 고양이",
+    "zh_Hant": "幽靈貓"
+   },
    "rev": 1,
    "added": "2026-10-27",
    "art": "art/ghostcat.png",
@@ -542,6 +962,18 @@
   {
    "id": "marshmallow",
    "name": "Ghost and Marshmallow",
+   "names": {
+    "uk": "Привид і маршмелоу",
+    "ru": "Призрак и маршмеллоу",
+    "de": "Geist und Marshmallow",
+    "fr": "Fantôme et guimauve",
+    "es": "Fantasma y malvavisco",
+    "pt_BR": "Fantasma e marshmallow",
+    "it": "Fantasma e marshmallow",
+    "ja": "おばけとマシュマロ",
+    "ko": "유령과 마시멜로",
+    "zh_Hant": "幽靈與棉花糖"
+   },
    "rev": 1,
    "added": "2026-10-27",
    "art": "art/marshmallow.png",
@@ -557,6 +989,18 @@
   {
    "id": "cupcakes",
    "name": "Eyeball Cupcakes",
+   "names": {
+    "uk": "Капкейки з очима",
+    "ru": "Капкейки с глазами",
+    "de": "Augen-Cupcakes",
+    "fr": "Cupcakes à yeux",
+    "es": "Cupcakes con ojos",
+    "pt_BR": "Cupcakes de olhos",
+    "it": "Cupcake con gli occhi",
+    "ja": "目玉カップケーキ",
+    "ko": "눈알 컵케이크",
+    "zh_Hant": "眼球杯子蛋糕"
+   },
    "rev": 1,
    "added": "2026-10-27",
    "art": "art/cupcakes.png",
@@ -572,6 +1016,18 @@
   {
    "id": "cauldronfrog",
    "name": "Frog in the Cauldron",
+   "names": {
+    "uk": "Жаба в казані",
+    "ru": "Лягушка в котле",
+    "de": "Frosch im Kessel",
+    "fr": "Grenouille au chaudron",
+    "es": "Rana en el caldero",
+    "pt_BR": "Sapo no caldeirão",
+    "it": "Rana nel calderone",
+    "ja": "大鍋のカエル",
+    "ko": "가마솥 속 개구리",
+    "zh_Hant": "大鍋裡的青蛙"
+   },
    "rev": 1,
    "unlock": "ad",
    "added": "2026-10-27",
@@ -590,12 +1046,36 @@
   {
    "id": "animals",
    "name": "Animals vol. 1",
+   "names": {
+    "uk": "Тварини. Том 1",
+    "ru": "Животные. Том 1",
+    "de": "Tiere Vol. 1",
+    "fr": "Animaux vol. 1",
+    "es": "Animales vol. 1",
+    "pt_BR": "Animais vol. 1",
+    "it": "Animali vol. 1",
+    "ja": "どうぶつ Vol.1",
+    "ko": "동물 Vol.1",
+    "zh_Hant": "動物 Vol.1"
+   },
    "unlock": "free",
    "added": "2026-08-01",
    "levels": [
     {
      "id": "monkey",
      "name": "Monkey and Banana",
+     "names": {
+      "uk": "Мавпа і банан",
+      "ru": "Обезьяна и банан",
+      "de": "Affe mit Banane",
+      "fr": "Singe et banane",
+      "es": "Mono y plátano",
+      "pt_BR": "Macaco e banana",
+      "it": "Scimmia e banana",
+      "ja": "サルとバナナ",
+      "ko": "원숭이와 바나나",
+      "zh_Hant": "猴子與香蕉"
+     },
      "rev": 1,
      "art": "art/monkey.png",
      "art_size": 10965,
@@ -610,6 +1090,18 @@
     {
      "id": "panda",
      "name": "Panda and Bamboo",
+     "names": {
+      "uk": "Панда і бамбук",
+      "ru": "Панда и бамбук",
+      "de": "Panda mit Bambus",
+      "fr": "Panda et bambou",
+      "es": "Panda y bambú",
+      "pt_BR": "Panda e bambu",
+      "it": "Panda e bambù",
+      "ja": "パンダと竹",
+      "ko": "판다와 대나무",
+      "zh_Hant": "熊貓與竹子"
+     },
      "rev": 1,
      "art": "art/panda.png",
      "art_size": 7697,
@@ -624,6 +1116,18 @@
     {
      "id": "koala",
      "name": "Koala",
+     "names": {
+      "uk": "Коала",
+      "ru": "Коала",
+      "de": "Koala",
+      "fr": "Koala",
+      "es": "Koala",
+      "pt_BR": "Coala",
+      "it": "Koala",
+      "ja": "コアラ",
+      "ko": "코알라",
+      "zh_Hant": "無尾熊"
+     },
      "rev": 1,
      "art": "art/koala.png",
      "art_size": 15782,
@@ -638,6 +1142,18 @@
     {
      "id": "turtle",
      "name": "Sea Turtle",
+     "names": {
+      "uk": "Морська черепаха",
+      "ru": "Морская черепаха",
+      "de": "Meeresschildkröte",
+      "fr": "Tortue de mer",
+      "es": "Tortuga marina",
+      "pt_BR": "Tartaruga marinha",
+      "it": "Tartaruga marina",
+      "ja": "ウミガメ",
+      "ko": "바다거북",
+      "zh_Hant": "海龜"
+     },
      "rev": 1,
      "art": "art/turtle.png",
      "art_size": 14589,
@@ -652,6 +1168,18 @@
     {
      "id": "fox",
      "name": "Sleeping Fox",
+     "names": {
+      "uk": "Сплячий лис",
+      "ru": "Спящая лиса",
+      "de": "Schlafender Fuchs",
+      "fr": "Renard endormi",
+      "es": "Zorro dormido",
+      "pt_BR": "Raposa dormindo",
+      "it": "Volpe addormentata",
+      "ja": "ねむるキツネ",
+      "ko": "잠자는 여우",
+      "zh_Hant": "熟睡的狐狸"
+     },
      "rev": 1,
      "art": "art/fox.png",
      "art_size": 11566,
@@ -666,6 +1194,18 @@
     {
      "id": "owl",
      "name": "Owl at Night",
+     "names": {
+      "uk": "Сова вночі",
+      "ru": "Сова ночью",
+      "de": "Eule bei Nacht",
+      "fr": "Chouette la nuit",
+      "es": "Búho de noche",
+      "pt_BR": "Coruja à noite",
+      "it": "Gufo di notte",
+      "ja": "夜のフクロウ",
+      "ko": "밤의 부엉이",
+      "zh_Hant": "夜晚的貓頭鷹"
+     },
      "rev": 1,
      "art": "art/owl.png",
      "art_size": 8907,
@@ -680,6 +1220,18 @@
     {
      "id": "penguin",
      "name": "Penguin and Chick",
+     "names": {
+      "uk": "Пінгвін і пташеня",
+      "ru": "Пингвин и птенец",
+      "de": "Pinguin mit Küken",
+      "fr": "Manchot et son petit",
+      "es": "Pingüino y su cría",
+      "pt_BR": "Pinguim e filhote",
+      "it": "Pinguino e pulcino",
+      "ja": "ペンギンの親子",
+      "ko": "펭귄과 아기 펭귄",
+      "zh_Hant": "企鵝與寶寶"
+     },
      "rev": 1,
      "art": "art/penguin.png",
      "art_size": 4891,
@@ -694,6 +1246,18 @@
     {
      "id": "elephant",
      "name": "Elephant at the Waterhole",
+     "names": {
+      "uk": "Слон біля водопою",
+      "ru": "Слон у водопоя",
+      "de": "Elefant am Wasserloch",
+      "fr": "Éléphant au point d’eau",
+      "es": "Elefante en la charca",
+      "pt_BR": "Elefante no bebedouro",
+      "it": "Elefante alla pozza",
+      "ja": "水場のゾウ",
+      "ko": "물웅덩이의 코끼리",
+      "zh_Hant": "水池邊的大象"
+     },
      "rev": 1,
      "art": "art/elephant.png",
      "art_size": 8544,
@@ -708,6 +1272,18 @@
     {
      "id": "bear",
      "name": "Bear at the River",
+     "names": {
+      "uk": "Ведмідь біля річки",
+      "ru": "Медведь у реки",
+      "de": "Bär am Fluss",
+      "fr": "Ours à la rivière",
+      "es": "Oso en el río",
+      "pt_BR": "Urso no rio",
+      "it": "Orso al fiume",
+      "ja": "川辺のクマ",
+      "ko": "강가의 곰",
+      "zh_Hant": "河邊的熊"
+     },
      "rev": 1,
      "art": "art/bear.png",
      "art_size": 13913,
@@ -722,6 +1298,18 @@
     {
      "id": "lion",
      "name": "Lion at Sunset",
+     "names": {
+      "uk": "Лев на заході сонця",
+      "ru": "Лев на закате",
+      "de": "Löwe im Abendrot",
+      "fr": "Lion au couchant",
+      "es": "León al atardecer",
+      "pt_BR": "Leão ao pôr do sol",
+      "it": "Leone al tramonto",
+      "ja": "夕日のライオン",
+      "ko": "노을 속 사자",
+      "zh_Hant": "夕陽下的獅子"
+     },
      "rev": 1,
      "art": "art/lion.png",
      "art_size": 9902,
@@ -738,12 +1326,36 @@
   {
    "id": "sea",
    "name": "Under the Sea",
+   "names": {
+    "uk": "Під водою",
+    "ru": "Под водой",
+    "de": "Unter Wasser",
+    "fr": "Sous la mer",
+    "es": "Bajo el mar",
+    "pt_BR": "No fundo do mar",
+    "it": "Sotto il mare",
+    "ja": "海の中",
+    "ko": "바닷속",
+    "zh_Hant": "海底世界"
+   },
    "unlock": "ad",
    "added": "2026-08-03",
    "levels": [
     {
      "id": "clownfish",
      "name": "Clownfish",
+     "names": {
+      "uk": "Риба-клоун",
+      "ru": "Рыба-клоун",
+      "de": "Clownfisch",
+      "fr": "Poisson-clown",
+      "es": "Pez payaso",
+      "pt_BR": "Peixe-palhaço",
+      "it": "Pesce pagliaccio",
+      "ja": "クマノミ",
+      "ko": "흰동가리",
+      "zh_Hant": "小丑魚"
+     },
      "rev": 1,
      "art": "art/clownfish.png",
      "art_size": 14659,
@@ -758,6 +1370,18 @@
     {
      "id": "jellyfish",
      "name": "Jellyfish",
+     "names": {
+      "uk": "Медуза",
+      "ru": "Медуза",
+      "de": "Qualle",
+      "fr": "Méduse",
+      "es": "Medusa",
+      "pt_BR": "Água-viva",
+      "it": "Medusa",
+      "ja": "クラゲ",
+      "ko": "해파리",
+      "zh_Hant": "水母"
+     },
      "rev": 1,
      "art": "art/jellyfish.png",
      "art_size": 15046,
@@ -772,6 +1396,18 @@
     {
      "id": "whale",
      "name": "Blue Whale",
+     "names": {
+      "uk": "Синій кит",
+      "ru": "Синий кит",
+      "de": "Blauwal",
+      "fr": "Baleine bleue",
+      "es": "Ballena azul",
+      "pt_BR": "Baleia-azul",
+      "it": "Balenottera azzurra",
+      "ja": "シロナガスクジラ",
+      "ko": "대왕고래",
+      "zh_Hant": "藍鯨"
+     },
      "rev": 1,
      "art": "art/whale.png",
      "art_size": 10130,
@@ -786,6 +1422,18 @@
     {
      "id": "seahorse",
      "name": "Two Seahorses",
+     "names": {
+      "uk": "Два морські коники",
+      "ru": "Два морских конька",
+      "de": "Zwei Seepferdchen",
+      "fr": "Deux hippocampes",
+      "es": "Dos caballitos de mar",
+      "pt_BR": "Dois cavalos-marinhos",
+      "it": "Due cavallucci marini",
+      "ja": "2匹のタツノオトシゴ",
+      "ko": "해마 두 마리",
+      "zh_Hant": "兩隻海馬"
+     },
      "rev": 1,
      "art": "art/seahorse.png",
      "art_size": 14078,
@@ -800,6 +1448,18 @@
     {
      "id": "starfish",
      "name": "Starfish",
+     "names": {
+      "uk": "Морська зірка",
+      "ru": "Морская звезда",
+      "de": "Seestern",
+      "fr": "Étoile de mer",
+      "es": "Estrella de mar",
+      "pt_BR": "Estrela-do-mar",
+      "it": "Stella marina",
+      "ja": "ヒトデ",
+      "ko": "불가사리",
+      "zh_Hant": "海星"
+     },
      "rev": 1,
      "art": "art/starfish.png",
      "art_size": 13474,
@@ -814,6 +1474,18 @@
     {
      "id": "shipwreck",
      "name": "Sunken Ship",
+     "names": {
+      "uk": "Затонулий корабель",
+      "ru": "Затонувший корабль",
+      "de": "Gesunkenes Schiff",
+      "fr": "Épave",
+      "es": "Barco hundido",
+      "pt_BR": "Navio naufragado",
+      "it": "Nave affondata",
+      "ja": "沈没船",
+      "ko": "침몰선",
+      "zh_Hant": "沉船"
+     },
      "rev": 1,
      "art": "art/shipwreck.png",
      "art_size": 11466,
@@ -828,6 +1500,18 @@
     {
      "id": "crab",
      "name": "Crab on a Rock",
+     "names": {
+      "uk": "Краб на камені",
+      "ru": "Краб на камне",
+      "de": "Krabbe auf dem Felsen",
+      "fr": "Crabe sur un rocher",
+      "es": "Cangrejo en una roca",
+      "pt_BR": "Caranguejo na pedra",
+      "it": "Granchio sullo scoglio",
+      "ja": "岩の上のカニ",
+      "ko": "바위 위 게",
+      "zh_Hant": "岩石上的螃蟹"
+     },
      "rev": 1,
      "art": "art/crab.png",
      "art_size": 10527,
@@ -842,6 +1526,18 @@
     {
      "id": "dolphin",
      "name": "Dolphin",
+     "names": {
+      "uk": "Дельфін",
+      "ru": "Дельфин",
+      "de": "Delfin",
+      "fr": "Dauphin",
+      "es": "Delfín",
+      "pt_BR": "Golfinho",
+      "it": "Delfino",
+      "ja": "イルカ",
+      "ko": "돌고래",
+      "zh_Hant": "海豚"
+     },
      "rev": 1,
      "art": "art/dolphin.png",
      "art_size": 9357,
@@ -856,6 +1552,18 @@
     {
      "id": "chest",
      "name": "Treasure Chest",
+     "names": {
+      "uk": "Скриня зі скарбами",
+      "ru": "Сундук с сокровищами",
+      "de": "Schatztruhe",
+      "fr": "Coffre au trésor",
+      "es": "Cofre del tesoro",
+      "pt_BR": "Baú do tesouro",
+      "it": "Forziere",
+      "ja": "宝箱",
+      "ko": "보물 상자",
+      "zh_Hant": "寶箱"
+     },
      "rev": 1,
      "art": "art/chest.png",
      "art_size": 12379,
@@ -870,6 +1578,18 @@
     {
      "id": "diver",
      "name": "Diver with a Lantern",
+     "names": {
+      "uk": "Водолаз із ліхтарем",
+      "ru": "Водолаз с фонарём",
+      "de": "Taucher mit Laterne",
+      "fr": "Plongeur à la lanterne",
+      "es": "Buzo con farol",
+      "pt_BR": "Mergulhador com lanterna",
+      "it": "Sub con la lanterna",
+      "ja": "ランタンを持つダイバー",
+      "ko": "등불을 든 잠수부",
+      "zh_Hant": "提燈的潛水員"
+     },
      "rev": 1,
      "art": "art/diver.png",
      "art_size": 16396,
@@ -886,12 +1606,36 @@
   {
    "id": "seasons",
    "name": "Seasons",
+   "names": {
+    "uk": "Пори року",
+    "ru": "Времена года",
+    "de": "Jahreszeiten",
+    "fr": "Saisons",
+    "es": "Estaciones",
+    "pt_BR": "Estações",
+    "it": "Stagioni",
+    "ja": "四季",
+    "ko": "사계절",
+    "zh_Hant": "四季"
+   },
    "unlock": "ad",
    "added": "2026-08-03",
    "levels": [
     {
      "id": "cherry",
      "name": "Cherry Blossom",
+     "names": {
+      "uk": "Цвіт сакури",
+      "ru": "Цветение сакуры",
+      "de": "Kirschblüte",
+      "fr": "Cerisier en fleurs",
+      "es": "Cerezo en flor",
+      "pt_BR": "Cerejeira em flor",
+      "it": "Ciliegio in fiore",
+      "ja": "桜",
+      "ko": "벚꽃",
+      "zh_Hant": "櫻花"
+     },
      "rev": 1,
      "art": "art/cherry.png",
      "art_size": 10866,
@@ -906,6 +1650,18 @@
     {
      "id": "meadow",
      "name": "Spring Meadow",
+     "names": {
+      "uk": "Весняний луг",
+      "ru": "Весенний луг",
+      "de": "Frühlingswiese",
+      "fr": "Prairie au printemps",
+      "es": "Prado en primavera",
+      "pt_BR": "Campo na primavera",
+      "it": "Prato in primavera",
+      "ja": "春の野原",
+      "ko": "봄 들판",
+      "zh_Hant": "春天的草原"
+     },
      "rev": 1,
      "art": "art/meadow.png",
      "art_size": 10104,
@@ -920,6 +1676,18 @@
     {
      "id": "raincoat",
      "name": "Rainy Day",
+     "names": {
+      "uk": "Дощовий день",
+      "ru": "Дождливый день",
+      "de": "Regentag",
+      "fr": "Jour de pluie",
+      "es": "Día de lluvia",
+      "pt_BR": "Dia de chuva",
+      "it": "Giornata di pioggia",
+      "ja": "雨の日",
+      "ko": "비 오는 날",
+      "zh_Hant": "雨天"
+     },
      "rev": 1,
      "art": "art/raincoat.png",
      "art_size": 11446,
@@ -934,6 +1702,18 @@
     {
      "id": "lavender",
      "name": "Lavender Field",
+     "names": {
+      "uk": "Лавандове поле",
+      "ru": "Лавандовое поле",
+      "de": "Lavendelfeld",
+      "fr": "Champ de lavande",
+      "es": "Campo de lavanda",
+      "pt_BR": "Campo de lavanda",
+      "it": "Campo di lavanda",
+      "ja": "ラベンダー畑",
+      "ko": "라벤더 밭",
+      "zh_Hant": "薰衣草田"
+     },
      "rev": 1,
      "art": "art/lavender.png",
      "art_size": 12973,
@@ -948,6 +1728,18 @@
     {
      "id": "watermelon",
      "name": "Watermelon Picnic",
+     "names": {
+      "uk": "Пікнік із кавуном",
+      "ru": "Пикник с арбузом",
+      "de": "Melonen-Picknick",
+      "fr": "Pique-nique pastèque",
+      "es": "Pícnic con sandía",
+      "pt_BR": "Piquenique de melancia",
+      "it": "Picnic con anguria",
+      "ja": "スイカのピクニック",
+      "ko": "수박 피크닉",
+      "zh_Hant": "西瓜野餐"
+     },
      "rev": 1,
      "art": "art/watermelon.png",
      "art_size": 6737,
@@ -962,6 +1754,18 @@
     {
      "id": "leaves",
      "name": "Autumn Leaves",
+     "names": {
+      "uk": "Осіннє листя",
+      "ru": "Осенние листья",
+      "de": "Herbstlaub",
+      "fr": "Feuilles d’automne",
+      "es": "Hojas de otoño",
+      "pt_BR": "Folhas de outono",
+      "it": "Foglie d’autunno",
+      "ja": "秋の落ち葉",
+      "ko": "가을 낙엽",
+      "zh_Hant": "秋葉"
+     },
      "rev": 1,
      "art": "art/leaves.png",
      "art_size": 12292,
@@ -976,6 +1780,18 @@
     {
      "id": "pumpkin",
      "name": "Pumpkin Lantern",
+     "names": {
+      "uk": "Гарбузовий ліхтар",
+      "ru": "Тыквенный фонарь",
+      "de": "Kürbislaterne",
+      "fr": "Lanterne citrouille",
+      "es": "Farol de calabaza",
+      "pt_BR": "Lanterna de abóbora",
+      "it": "Lanterna di zucca",
+      "ja": "かぼちゃのランタン",
+      "ko": "호박 등불",
+      "zh_Hant": "南瓜燈"
+     },
      "rev": 1,
      "art": "art/pumpkin.png",
      "art_size": 12171,
@@ -990,6 +1806,18 @@
     {
      "id": "snowman",
      "name": "Snowman",
+     "names": {
+      "uk": "Сніговик",
+      "ru": "Снеговик",
+      "de": "Schneemann",
+      "fr": "Bonhomme de neige",
+      "es": "Muñeco de nieve",
+      "pt_BR": "Boneco de neve",
+      "it": "Pupazzo di neve",
+      "ja": "雪だるま",
+      "ko": "눈사람",
+      "zh_Hant": "雪人"
+     },
      "rev": 1,
      "art": "art/snowman.png",
      "art_size": 6468,
@@ -1004,6 +1832,18 @@
     {
      "id": "frozenlake",
      "name": "Frozen Lake",
+     "names": {
+      "uk": "Замерзле озеро",
+      "ru": "Замёрзшее озеро",
+      "de": "Zugefrorener See",
+      "fr": "Lac gelé",
+      "es": "Lago helado",
+      "pt_BR": "Lago congelado",
+      "it": "Lago ghiacciato",
+      "ja": "凍った湖",
+      "ko": "얼어붙은 호수",
+      "zh_Hant": "結冰的湖"
+     },
      "rev": 1,
      "art": "art/frozenlake.png",
      "art_size": 12044,
@@ -1018,6 +1858,18 @@
     {
      "id": "cocoa",
      "name": "Cocoa by the Window",
+     "names": {
+      "uk": "Какао біля вікна",
+      "ru": "Какао у окна",
+      "de": "Kakao am Fenster",
+      "fr": "Cacao à la fenêtre",
+      "es": "Cacao junto a la ventana",
+      "pt_BR": "Chocolate quente na janela",
+      "it": "Cioccolata alla finestra",
+      "ja": "窓辺のココア",
+      "ko": "창가의 코코아",
+      "zh_Hant": "窗邊的熱可可"
+     },
      "rev": 1,
      "art": "art/cocoa.png",
      "art_size": 8427,
@@ -1034,12 +1886,36 @@
   {
    "id": "landmarks",
    "name": "Landmarks",
+   "names": {
+    "uk": "Пам’ятки",
+    "ru": "Знаковые места",
+    "de": "Wahrzeichen",
+    "fr": "Monuments",
+    "es": "Monumentos",
+    "pt_BR": "Monumentos",
+    "it": "Monumenti",
+    "ja": "名所",
+    "ko": "명소",
+    "zh_Hant": "地標"
+   },
    "unlock": "ad",
    "added": "2026-08-03",
    "levels": [
     {
      "id": "torii",
      "name": "Torii Gate",
+     "names": {
+      "uk": "Ворота торії",
+      "ru": "Ворота тории",
+      "de": "Torii-Tor",
+      "fr": "Portail torii",
+      "es": "Puerta torii",
+      "pt_BR": "Portão torii",
+      "it": "Portale torii",
+      "ja": "鳥居",
+      "ko": "도리이",
+      "zh_Hant": "鳥居"
+     },
      "rev": 1,
      "art": "art/torii.png",
      "art_size": 7702,
@@ -1054,6 +1930,18 @@
     {
      "id": "windmill",
      "name": "Windmill and Tulips",
+     "names": {
+      "uk": "Млин і тюльпани",
+      "ru": "Мельница и тюльпаны",
+      "de": "Windmühle und Tulpen",
+      "fr": "Moulin et tulipes",
+      "es": "Molino y tulipanes",
+      "pt_BR": "Moinho e tulipas",
+      "it": "Mulino e tulipani",
+      "ja": "風車とチューリップ",
+      "ko": "풍차와 튤립",
+      "zh_Hant": "風車與鬱金香"
+     },
      "rev": 1,
      "art": "art/windmill.png",
      "art_size": 12144,
@@ -1068,6 +1956,18 @@
     {
      "id": "aegean",
      "name": "Blue Dome Church",
+     "names": {
+      "uk": "Церква з синім куполом",
+      "ru": "Церковь с синим куполом",
+      "de": "Kirche mit blauer Kuppel",
+      "fr": "Église au dôme bleu",
+      "es": "Iglesia de cúpula azul",
+      "pt_BR": "Igreja de cúpula azul",
+      "it": "Chiesa dalla cupola blu",
+      "ja": "青いドームの教会",
+      "ko": "파란 돔 교회",
+      "zh_Hant": "藍頂教堂"
+     },
      "rev": 1,
      "art": "art/aegean.png",
      "art_size": 11101,
@@ -1082,6 +1982,18 @@
     {
      "id": "stavechurch",
      "name": "Stave Church",
+     "names": {
+      "uk": "Норвезька церква",
+      "ru": "Норвежская церковь",
+      "de": "Stabkirche",
+      "fr": "Église en bois",
+      "es": "Iglesia de madera",
+      "pt_BR": "Igreja de madeira",
+      "it": "Chiesa in legno",
+      "ja": "スターヴ教会",
+      "ko": "목조 교회",
+      "zh_Hant": "木板教堂"
+     },
      "rev": 1,
      "art": "art/stavechurch.png",
      "art_size": 8853,
@@ -1096,6 +2008,18 @@
     {
      "id": "londonbus",
      "name": "Double Decker",
+     "names": {
+      "uk": "Двоповерховий автобус",
+      "ru": "Двухэтажный автобус",
+      "de": "Doppeldecker",
+      "fr": "Bus à impériale",
+      "es": "Autobús de dos pisos",
+      "pt_BR": "Ônibus de dois andares",
+      "it": "Autobus a due piani",
+      "ja": "2階建てバス",
+      "ko": "2층 버스",
+      "zh_Hant": "雙層巴士"
+     },
      "rev": 1,
      "art": "art/londonbus.png",
      "art_size": 10672,
@@ -1110,6 +2034,18 @@
     {
      "id": "cathedral",
      "name": "Onion Domes",
+     "names": {
+      "uk": "Цибулясті бані",
+      "ru": "Луковичные купола",
+      "de": "Zwiebeltürme",
+      "fr": "Dômes en bulbe",
+      "es": "Cúpulas de bulbo",
+      "pt_BR": "Cúpulas em bulbo",
+      "it": "Cupole a cipolla",
+      "ja": "ねぎ坊主のドーム",
+      "ko": "양파 돔",
+      "zh_Hant": "洋蔥圓頂"
+     },
      "rev": 1,
      "art": "art/cathedral.png",
      "art_size": 13090,
@@ -1124,6 +2060,18 @@
     {
      "id": "castle",
      "name": "Cliff Castle",
+     "names": {
+      "uk": "Замок на скелі",
+      "ru": "Замок на скале",
+      "de": "Burg auf der Klippe",
+      "fr": "Château sur la falaise",
+      "es": "Castillo en el acantilado",
+      "pt_BR": "Castelo no penhasco",
+      "it": "Castello sulla scogliera",
+      "ja": "崖の上の城",
+      "ko": "절벽 위의 성",
+      "zh_Hant": "懸崖上的城堡"
+     },
      "rev": 1,
      "art": "art/castle.png",
      "art_size": 12368,
@@ -1138,6 +2086,18 @@
     {
      "id": "taxi",
      "name": "Yellow Taxi",
+     "names": {
+      "uk": "Жовте таксі",
+      "ru": "Жёлтое такси",
+      "de": "Gelbes Taxi",
+      "fr": "Taxi jaune",
+      "es": "Taxi amarillo",
+      "pt_BR": "Táxi amarelo",
+      "it": "Taxi giallo",
+      "ja": "イエローキャブ",
+      "ko": "노란 택시",
+      "zh_Hant": "黃色計程車"
+     },
      "rev": 1,
      "art": "art/taxi.png",
      "art_size": 14612,
@@ -1152,6 +2112,18 @@
     {
      "id": "gondola",
      "name": "Gondola",
+     "names": {
+      "uk": "Гондола",
+      "ru": "Гондола",
+      "de": "Gondel",
+      "fr": "Gondole",
+      "es": "Góndola",
+      "pt_BR": "Gôndola",
+      "it": "Gondola",
+      "ja": "ゴンドラ",
+      "ko": "곤돌라",
+      "zh_Hant": "貢多拉"
+     },
      "rev": 1,
      "art": "art/gondola.png",
      "art_size": 13410,
@@ -1166,6 +2138,18 @@
     {
      "id": "sphinx",
      "name": "Sphinx",
+     "names": {
+      "uk": "Сфінкс",
+      "ru": "Сфинкс",
+      "de": "Sphinx",
+      "fr": "Sphinx",
+      "es": "Esfinge",
+      "pt_BR": "Esfinge",
+      "it": "Sfinge",
+      "ja": "スフィンクス",
+      "ko": "스핑크스",
+      "zh_Hant": "獅身人面像"
+     },
      "rev": 1,
      "art": "art/sphinx.png",
      "art_size": 10363,
@@ -1182,12 +2166,36 @@
   {
    "id": "plants",
    "name": "Plants",
+   "names": {
+    "uk": "Рослини",
+    "ru": "Растения",
+    "de": "Pflanzen",
+    "fr": "Plantes",
+    "es": "Plantas",
+    "pt_BR": "Plantas",
+    "it": "Piante",
+    "ja": "植物",
+    "ko": "식물",
+    "zh_Hant": "植物"
+   },
    "unlock": "ad",
    "added": "2026-08-03",
    "levels": [
     {
      "id": "cactus",
      "name": "Cactus in a Pot",
+     "names": {
+      "uk": "Кактус у горщику",
+      "ru": "Кактус в горшке",
+      "de": "Kaktus im Topf",
+      "fr": "Cactus en pot",
+      "es": "Cactus en maceta",
+      "pt_BR": "Cacto no vaso",
+      "it": "Cactus in vaso",
+      "ja": "鉢植えのサボテン",
+      "ko": "화분 속 선인장",
+      "zh_Hant": "盆栽仙人掌"
+     },
      "rev": 1,
      "art": "art/cactus.png",
      "art_size": 11782,
@@ -1202,6 +2210,18 @@
     {
      "id": "sunflowers",
      "name": "Sunflower Bouquet",
+     "names": {
+      "uk": "Букет соняшників",
+      "ru": "Букет подсолнухов",
+      "de": "Sonnenblumenstrauß",
+      "fr": "Bouquet de tournesols",
+      "es": "Ramo de girasoles",
+      "pt_BR": "Buquê de girassóis",
+      "it": "Mazzo di girasoli",
+      "ja": "ひまわりの花束",
+      "ko": "해바라기 꽃다발",
+      "zh_Hant": "向日葵花束"
+     },
      "rev": 1,
      "art": "art/sunflowers.png",
      "art_size": 12115,
@@ -1216,6 +2236,18 @@
     {
      "id": "monstera",
      "name": "Monstera",
+     "names": {
+      "uk": "Монстера",
+      "ru": "Монстера",
+      "de": "Monstera",
+      "fr": "Monstera",
+      "es": "Monstera",
+      "pt_BR": "Costela-de-adão",
+      "it": "Monstera",
+      "ja": "モンステラ",
+      "ko": "몬스테라",
+      "zh_Hant": "龜背芋"
+     },
      "rev": 1,
      "art": "art/monstera.png",
      "art_size": 11820,
@@ -1230,6 +2262,18 @@
     {
      "id": "terrarium",
      "name": "Glass Terrarium",
+     "names": {
+      "uk": "Флораріум",
+      "ru": "Флорариум",
+      "de": "Glasterrarium",
+      "fr": "Terrarium en verre",
+      "es": "Terrario de cristal",
+      "pt_BR": "Terrário de vidro",
+      "it": "Terrario di vetro",
+      "ja": "ガラスのテラリウム",
+      "ko": "유리 테라리움",
+      "zh_Hant": "玻璃生態瓶"
+     },
      "rev": 1,
      "art": "art/terrarium.png",
      "art_size": 9979,
@@ -1244,6 +2288,18 @@
     {
      "id": "herbs",
      "name": "Herb Shelf",
+     "names": {
+      "uk": "Полиця з травами",
+      "ru": "Полка с травами",
+      "de": "Kräuterregal",
+      "fr": "Étagère d’herbes",
+      "es": "Estante de hierbas",
+      "pt_BR": "Prateleira de ervas",
+      "it": "Mensola di erbe",
+      "ja": "ハーブの棚",
+      "ko": "허브 선반",
+      "zh_Hant": "香草架"
+     },
      "rev": 1,
      "art": "art/herbs.png",
      "art_size": 10559,
@@ -1258,6 +2314,18 @@
     {
      "id": "bonsai",
      "name": "Bonsai",
+     "names": {
+      "uk": "Бонсай",
+      "ru": "Бонсай",
+      "de": "Bonsai",
+      "fr": "Bonsaï",
+      "es": "Bonsái",
+      "pt_BR": "Bonsai",
+      "it": "Bonsai",
+      "ja": "盆栽",
+      "ko": "분재",
+      "zh_Hant": "盆景"
+     },
      "rev": 1,
      "art": "art/bonsai.png",
      "art_size": 12670,
@@ -1272,6 +2340,18 @@
     {
      "id": "wateringcan",
      "name": "Watering Can",
+     "names": {
+      "uk": "Лійка",
+      "ru": "Лейка",
+      "de": "Gießkanne",
+      "fr": "Arrosoir",
+      "es": "Regadera",
+      "pt_BR": "Regador",
+      "it": "Annaffiatoio",
+      "ja": "じょうろ",
+      "ko": "물뿌리개",
+      "zh_Hant": "澆水壺"
+     },
      "rev": 1,
      "art": "art/wateringcan.png",
      "art_size": 8260,
@@ -1286,6 +2366,18 @@
     {
      "id": "hangingplant",
      "name": "Hanging Plant",
+     "names": {
+      "uk": "Підвісна рослина",
+      "ru": "Подвесное растение",
+      "de": "Hängepflanze",
+      "fr": "Plante suspendue",
+      "es": "Planta colgante",
+      "pt_BR": "Planta pendente",
+      "it": "Pianta pendente",
+      "ja": "ハンギングプランツ",
+      "ko": "행잉 플랜트",
+      "zh_Hant": "吊掛盆栽"
+     },
      "rev": 1,
      "art": "art/hangingplant.png",
      "art_size": 9600,
@@ -1300,6 +2392,18 @@
     {
      "id": "rose",
      "name": "Red Rose",
+     "names": {
+      "uk": "Червона троянда",
+      "ru": "Красная роза",
+      "de": "Rote Rose",
+      "fr": "Rose rouge",
+      "es": "Rosa roja",
+      "pt_BR": "Rosa vermelha",
+      "it": "Rosa rossa",
+      "ja": "赤いバラ",
+      "ko": "빨간 장미",
+      "zh_Hant": "紅玫瑰"
+     },
      "rev": 1,
      "art": "art/rose.png",
      "art_size": 5659,
@@ -1314,6 +2418,18 @@
     {
      "id": "pumpkinplant",
      "name": "Autumn Pumpkin",
+     "names": {
+      "uk": "Осінній гарбуз",
+      "ru": "Осенняя тыква",
+      "de": "Herbstkürbis",
+      "fr": "Citrouille d’automne",
+      "es": "Calabaza de otoño",
+      "pt_BR": "Abóbora de outono",
+      "it": "Zucca d’autunno",
+      "ja": "秋のかぼちゃ",
+      "ko": "가을 호박",
+      "zh_Hant": "秋日南瓜"
+     },
      "rev": 1,
      "art": "art/pumpkinplant.png",
      "art_size": 13513,
@@ -1330,12 +2446,36 @@
   {
    "id": "wonders",
    "name": "Wonders",
+   "names": {
+    "uk": "Дива світу",
+    "ru": "Чудеса света",
+    "de": "Weltwunder",
+    "fr": "Merveilles",
+    "es": "Maravillas",
+    "pt_BR": "Maravilhas",
+    "it": "Meraviglie",
+    "ja": "世界の不思議",
+    "ko": "세계의 불가사의",
+    "zh_Hant": "世界奇觀"
+   },
    "unlock": "ad",
    "added": "2026-08-03",
    "levels": [
     {
      "id": "tajmahal",
      "name": "Taj Mahal",
+     "names": {
+      "uk": "Тадж-Махал",
+      "ru": "Тадж-Махал",
+      "de": "Taj Mahal",
+      "fr": "Taj Mahal",
+      "es": "Taj Mahal",
+      "pt_BR": "Taj Mahal",
+      "it": "Taj Mahal",
+      "ja": "タージ・マハル",
+      "ko": "타지마할",
+      "zh_Hant": "泰姬瑪哈陵"
+     },
      "rev": 1,
      "art": "art/tajmahal.png",
      "art_size": 11970,
@@ -1350,6 +2490,18 @@
     {
      "id": "petra",
      "name": "Petra",
+     "names": {
+      "uk": "Петра",
+      "ru": "Петра",
+      "de": "Petra",
+      "fr": "Pétra",
+      "es": "Petra",
+      "pt_BR": "Petra",
+      "it": "Petra",
+      "ja": "ペトラ",
+      "ko": "페트라",
+      "zh_Hant": "佩特拉"
+     },
      "rev": 1,
      "art": "art/petra.png",
      "art_size": 17356,
@@ -1364,6 +2516,18 @@
     {
      "id": "redeemer",
      "name": "Christ the Redeemer",
+     "names": {
+      "uk": "Христос-Спаситель",
+      "ru": "Христос-Искупитель",
+      "de": "Cristo Redentor",
+      "fr": "Christ Rédempteur",
+      "es": "Cristo Redentor",
+      "pt_BR": "Cristo Redentor",
+      "it": "Cristo Redentore",
+      "ja": "コルコバードのキリスト像",
+      "ko": "구세주 그리스도상",
+      "zh_Hant": "救世基督像"
+     },
      "rev": 1,
      "art": "art/redeemer.png",
      "art_size": 8699,
@@ -1378,6 +2542,18 @@
     {
      "id": "colosseum",
      "name": "Colosseum",
+     "names": {
+      "uk": "Колізей",
+      "ru": "Колизей",
+      "de": "Kolosseum",
+      "fr": "Colisée",
+      "es": "Coliseo",
+      "pt_BR": "Coliseu",
+      "it": "Colosseo",
+      "ja": "コロッセオ",
+      "ko": "콜로세움",
+      "zh_Hant": "羅馬競技場"
+     },
      "rev": 1,
      "art": "art/colosseum.png",
      "art_size": 15573,
@@ -1392,6 +2568,18 @@
     {
      "id": "pyramid",
      "name": "Great Pyramid",
+     "names": {
+      "uk": "Велика піраміда",
+      "ru": "Великая пирамида",
+      "de": "Große Pyramide",
+      "fr": "Grande Pyramide",
+      "es": "Gran Pirámide",
+      "pt_BR": "Grande Pirâmide",
+      "it": "Grande Piramide",
+      "ja": "大ピラミッド",
+      "ko": "대피라미드",
+      "zh_Hant": "大金字塔"
+     },
      "rev": 1,
      "art": "art/pyramid.png",
      "art_size": 7935,
@@ -1406,6 +2594,18 @@
     {
      "id": "greatwall",
      "name": "Great Wall",
+     "names": {
+      "uk": "Велика стіна",
+      "ru": "Великая стена",
+      "de": "Chinesische Mauer",
+      "fr": "Grande Muraille",
+      "es": "Gran Muralla",
+      "pt_BR": "Grande Muralha",
+      "it": "Grande Muraglia",
+      "ja": "万里の長城",
+      "ko": "만리장성",
+      "zh_Hant": "萬里長城"
+     },
      "rev": 1,
      "art": "art/greatwall.png",
      "art_size": 17108,
@@ -1420,6 +2620,18 @@
     {
      "id": "machupicchu",
      "name": "Machu Picchu",
+     "names": {
+      "uk": "Мачу-Пікчу",
+      "ru": "Мачу-Пикчу",
+      "de": "Machu Picchu",
+      "fr": "Machu Picchu",
+      "es": "Machu Picchu",
+      "pt_BR": "Machu Picchu",
+      "it": "Machu Picchu",
+      "ja": "マチュ・ピチュ",
+      "ko": "마추픽추",
+      "zh_Hant": "馬丘比丘"
+     },
      "rev": 1,
      "art": "art/machupicchu.png",
      "art_size": 20589,
@@ -1434,6 +2646,18 @@
     {
      "id": "stonehenge",
      "name": "Stonehenge",
+     "names": {
+      "uk": "Стоунгендж",
+      "ru": "Стоунхендж",
+      "de": "Stonehenge",
+      "fr": "Stonehenge",
+      "es": "Stonehenge",
+      "pt_BR": "Stonehenge",
+      "it": "Stonehenge",
+      "ja": "ストーンヘンジ",
+      "ko": "스톤헨지",
+      "zh_Hant": "巨石陣"
+     },
      "rev": 1,
      "art": "art/stonehenge.png",
      "art_size": 12916,
@@ -1448,6 +2672,18 @@
     {
      "id": "hanginggardens",
      "name": "Hanging Gardens",
+     "names": {
+      "uk": "Висячі сади",
+      "ru": "Висячие сады",
+      "de": "Hängende Gärten",
+      "fr": "Jardins suspendus",
+      "es": "Jardines colgantes",
+      "pt_BR": "Jardins Suspensos",
+      "it": "Giardini pensili",
+      "ja": "空中庭園",
+      "ko": "공중 정원",
+      "zh_Hant": "空中花園"
+     },
      "rev": 1,
      "art": "art/hanginggardens.png",
      "art_size": 17434,
@@ -1464,12 +2700,36 @@
   {
    "id": "anime",
    "name": "Anime vol. 1",
+   "names": {
+    "uk": "Аніме. Том 1",
+    "ru": "Аниме. Том 1",
+    "de": "Anime Vol. 1",
+    "fr": "Anime vol. 1",
+    "es": "Anime vol. 1",
+    "pt_BR": "Anime vol. 1",
+    "it": "Anime vol. 1",
+    "ja": "アニメ Vol.1",
+    "ko": "애니메이션 Vol.1",
+    "zh_Hant": "動漫 Vol.1"
+   },
    "unlock": "ad",
    "added": "2026-08-12",
    "levels": [
     {
      "id": "schoolcat",
      "name": "Classroom Cat",
+     "names": {
+      "uk": "Кіт у класі",
+      "ru": "Кот в классе",
+      "de": "Katze im Klassenzimmer",
+      "fr": "Chat en classe",
+      "es": "Gato en el aula",
+      "pt_BR": "Gato na sala de aula",
+      "it": "Gatto in classe",
+      "ja": "教室のねこ",
+      "ko": "교실 고양이",
+      "zh_Hant": "教室裡的貓"
+     },
      "rev": 1,
      "art": "art/schoolcat.png",
      "art_size": 10928,
@@ -1484,6 +2744,18 @@
     {
      "id": "ramenstall",
      "name": "Night Ramen Stall",
+     "names": {
+      "uk": "Нічна раменна",
+      "ru": "Ночная раменная",
+      "de": "Ramen-Stand bei Nacht",
+      "fr": "Stand de ramen la nuit",
+      "es": "Puesto de ramen nocturno",
+      "pt_BR": "Barraca de lámen à noite",
+      "it": "Chiosco di ramen notturno",
+      "ja": "夜のラーメン屋台",
+      "ko": "밤의 라멘 포장마차",
+      "zh_Hant": "深夜拉麵攤"
+     },
      "rev": 1,
      "art": "art/ramenstall.png",
      "art_size": 11514,
@@ -1498,6 +2770,18 @@
     {
      "id": "rooftopboy",
      "name": "Rooftop Break",
+     "names": {
+      "uk": "Перерва на даху",
+      "ru": "Перерыв на крыше",
+      "de": "Pause auf dem Dach",
+      "fr": "Pause sur le toit",
+      "es": "Descanso en la azotea",
+      "pt_BR": "Pausa no terraço",
+      "it": "Pausa sul tetto",
+      "ja": "屋上でひと休み",
+      "ko": "옥상에서 휴식",
+      "zh_Hant": "頂樓小憩"
+     },
      "rev": 1,
      "art": "art/rooftopboy.png",
      "art_size": 6605,
@@ -1512,6 +2796,18 @@
     {
      "id": "redumbrella",
      "name": "Red Umbrella",
+     "names": {
+      "uk": "Червона парасолька",
+      "ru": "Красный зонтик",
+      "de": "Roter Regenschirm",
+      "fr": "Parapluie rouge",
+      "es": "Paraguas rojo",
+      "pt_BR": "Guarda-chuva vermelho",
+      "it": "Ombrello rosso",
+      "ja": "赤い傘",
+      "ko": "빨간 우산",
+      "zh_Hant": "紅傘"
+     },
      "rev": 1,
      "art": "art/redumbrella.png",
      "art_size": 12990,
@@ -1526,6 +2822,18 @@
     {
      "id": "vending",
      "name": "Vending Machine",
+     "names": {
+      "uk": "Торговий автомат",
+      "ru": "Торговый автомат",
+      "de": "Getränkeautomat",
+      "fr": "Distributeur",
+      "es": "Máquina expendedora",
+      "pt_BR": "Máquina de bebidas",
+      "it": "Distributore automatico",
+      "ja": "自動販売機",
+      "ko": "자판기",
+      "zh_Hant": "自動販賣機"
+     },
      "rev": 1,
      "art": "art/vending.png",
      "art_size": 10293,
@@ -1540,6 +2848,18 @@
     {
      "id": "riverbag",
      "name": "Bag by the River",
+     "names": {
+      "uk": "Сумка біля річки",
+      "ru": "Сумка у реки",
+      "de": "Tasche am Fluss",
+      "fr": "Sac au bord de l’eau",
+      "es": "Bolso junto al río",
+      "pt_BR": "Bolsa à beira do rio",
+      "it": "Borsa sul fiume",
+      "ja": "川辺のかばん",
+      "ko": "강가의 가방",
+      "zh_Hant": "河邊的書包"
+     },
      "rev": 1,
      "art": "art/riverbag.png",
      "art_size": 13372,
@@ -1554,6 +2874,18 @@
     {
      "id": "yukata",
      "name": "Summer Festival",
+     "names": {
+      "uk": "Літній фестиваль",
+      "ru": "Летний фестиваль",
+      "de": "Sommerfest",
+      "fr": "Fête d’été",
+      "es": "Festival de verano",
+      "pt_BR": "Festival de verão",
+      "it": "Festa d’estate",
+      "ja": "夏祭り",
+      "ko": "여름 축제",
+      "zh_Hant": "夏日祭典"
+     },
      "rev": 1,
      "art": "art/yukata.png",
      "art_size": 11121,
@@ -1568,6 +2900,18 @@
     {
      "id": "tatamicat",
      "name": "Cat on Tatami",
+     "names": {
+      "uk": "Кіт на татамі",
+      "ru": "Кот на татами",
+      "de": "Katze auf Tatami",
+      "fr": "Chat sur tatami",
+      "es": "Gato en el tatami",
+      "pt_BR": "Gato no tatame",
+      "it": "Gatto sul tatami",
+      "ja": "畳の上のねこ",
+      "ko": "다다미 위 고양이",
+      "zh_Hant": "榻榻米上的貓"
+     },
      "rev": 1,
      "art": "art/tatamicat.png",
      "art_size": 9957,
@@ -1582,6 +2926,18 @@
     {
      "id": "trainwindow",
      "name": "Train Window",
+     "names": {
+      "uk": "Вікно поїзда",
+      "ru": "Окно поезда",
+      "de": "Zugfenster",
+      "fr": "Fenêtre du train",
+      "es": "Ventana del tren",
+      "pt_BR": "Janela do trem",
+      "it": "Finestrino del treno",
+      "ja": "電車の窓",
+      "ko": "기차 창가",
+      "zh_Hant": "電車車窗"
+     },
      "rev": 1,
      "art": "art/trainwindow.png",
      "art_size": 6567,
@@ -1596,6 +2952,18 @@
     {
      "id": "sailortree",
      "name": "Under the Cherry Tree",
+     "names": {
+      "uk": "Під сакурою",
+      "ru": "Под сакурой",
+      "de": "Unter dem Kirschbaum",
+      "fr": "Sous le cerisier",
+      "es": "Bajo el cerezo",
+      "pt_BR": "Sob a cerejeira",
+      "it": "Sotto il ciliegio",
+      "ja": "桜の木の下で",
+      "ko": "벚나무 아래에서",
+      "zh_Hant": "櫻花樹下"
+     },
      "rev": 1,
      "art": "art/sailortree.png",
      "art_size": 12063,
@@ -1612,12 +2980,36 @@
   {
    "id": "nightcity",
    "name": "Night City",
+   "names": {
+    "uk": "Нічне місто",
+    "ru": "Ночной город",
+    "de": "Stadt bei Nacht",
+    "fr": "Ville la nuit",
+    "es": "Ciudad de noche",
+    "pt_BR": "Cidade à noite",
+    "it": "Città di notte",
+    "ja": "夜の街",
+    "ko": "밤의 도시",
+    "zh_Hant": "夜色城市"
+   },
    "unlock": "ad",
    "added": "2026-08-12",
    "levels": [
     {
      "id": "neonramen",
      "name": "Neon Ramen Sign",
+     "names": {
+      "uk": "Неонова вивіска рамену",
+      "ru": "Неоновая вывеска рамена",
+      "de": "Neon-Ramen-Schild",
+      "fr": "Enseigne ramen au néon",
+      "es": "Letrero de ramen neón",
+      "pt_BR": "Letreiro neon de lámen",
+      "it": "Insegna ramen al neon",
+      "ja": "ネオンのラーメン看板",
+      "ko": "네온 라멘 간판",
+      "zh_Hant": "霓虹拉麵招牌"
+     },
      "rev": 1,
      "art": "art/neonramen.png",
      "art_size": 8038,
@@ -1632,6 +3024,18 @@
     {
      "id": "nightbike",
      "name": "Bicycle at Night",
+     "names": {
+      "uk": "Велосипед уночі",
+      "ru": "Велосипед ночью",
+      "de": "Fahrrad bei Nacht",
+      "fr": "Vélo la nuit",
+      "es": "Bicicleta de noche",
+      "pt_BR": "Bicicleta à noite",
+      "it": "Bici di notte",
+      "ja": "夜の自転車",
+      "ko": "밤의 자전거",
+      "zh_Hant": "夜晚的腳踏車"
+     },
      "rev": 1,
      "art": "art/nightbike.png",
      "art_size": 9230,
@@ -1646,6 +3050,18 @@
     {
      "id": "watertower",
      "name": "Rooftop Water Tower",
+     "names": {
+      "uk": "Бак на даху",
+      "ru": "Бак на крыше",
+      "de": "Wassertank auf dem Dach",
+      "fr": "Château d’eau sur le toit",
+      "es": "Tanque en la azotea",
+      "pt_BR": "Caixa-d’água no telhado",
+      "it": "Serbatoio sul tetto",
+      "ja": "屋上の給水塔",
+      "ko": "옥상 물탱크",
+      "zh_Hant": "屋頂水塔"
+     },
      "rev": 1,
      "art": "art/watertower.png",
      "art_size": 10013,
@@ -1660,6 +3076,18 @@
     {
      "id": "ferriswheel",
      "name": "Ferris Wheel",
+     "names": {
+      "uk": "Оглядове колесо",
+      "ru": "Колесо обозрения",
+      "de": "Riesenrad",
+      "fr": "Grande roue",
+      "es": "Noria",
+      "pt_BR": "Roda-gigante",
+      "it": "Ruota panoramica",
+      "ja": "観覧車",
+      "ko": "대관람차",
+      "zh_Hant": "摩天輪"
+     },
      "rev": 1,
      "art": "art/ferriswheel.png",
      "art_size": 13666,
@@ -1674,6 +3102,18 @@
     {
      "id": "phonebooth",
      "name": "Red Phone Booth",
+     "names": {
+      "uk": "Червона телефонна будка",
+      "ru": "Красная телефонная будка",
+      "de": "Rote Telefonzelle",
+      "fr": "Cabine rouge",
+      "es": "Cabina roja",
+      "pt_BR": "Cabine vermelha",
+      "it": "Cabina rossa",
+      "ja": "赤い電話ボックス",
+      "ko": "빨간 공중전화 부스",
+      "zh_Hant": "紅色電話亭"
+     },
      "rev": 1,
      "art": "art/phonebooth.png",
      "art_size": 9381,
@@ -1688,6 +3128,18 @@
     {
      "id": "tram",
      "name": "Tram at Night",
+     "names": {
+      "uk": "Трамвай уночі",
+      "ru": "Трамвай ночью",
+      "de": "Straßenbahn bei Nacht",
+      "fr": "Tramway la nuit",
+      "es": "Tranvía de noche",
+      "pt_BR": "Bonde à noite",
+      "it": "Tram di notte",
+      "ja": "夜の路面電車",
+      "ko": "밤의 트램",
+      "zh_Hant": "夜間電車"
+     },
      "rev": 1,
      "art": "art/tram.png",
      "art_size": 12259,
@@ -1702,6 +3154,18 @@
     {
      "id": "nightbridge",
      "name": "Bridge Lights",
+     "names": {
+      "uk": "Вогні мосту",
+      "ru": "Огни моста",
+      "de": "Brückenlichter",
+      "fr": "Pont illuminé",
+      "es": "Luces del puente",
+      "pt_BR": "Luzes da ponte",
+      "it": "Luci sul ponte",
+      "ja": "橋の明かり",
+      "ko": "다리의 불빛",
+      "zh_Hant": "橋上燈火"
+     },
      "rev": 1,
      "art": "art/nightbridge.png",
      "art_size": 9418,
@@ -1716,6 +3180,18 @@
     {
      "id": "diner",
      "name": "Corner Diner",
+     "names": {
+      "uk": "Закусочна на розі",
+      "ru": "Закусочная на углу",
+      "de": "Diner an der Ecke",
+      "fr": "Diner du coin",
+      "es": "Cafetería de la esquina",
+      "pt_BR": "Lanchonete da esquina",
+      "it": "Tavola calda all’angolo",
+      "ja": "街角のダイナー",
+      "ko": "길모퉁이 식당",
+      "zh_Hant": "街角餐館"
+     },
      "rev": 1,
      "art": "art/diner.png",
      "art_size": 8334,
@@ -1730,6 +3206,18 @@
     {
      "id": "skyline",
      "name": "City Skyline",
+     "names": {
+      "uk": "Панорама міста",
+      "ru": "Панорама города",
+      "de": "Skyline",
+      "fr": "Silhouette de la ville",
+      "es": "Horizonte urbano",
+      "pt_BR": "Horizonte da cidade",
+      "it": "Skyline",
+      "ja": "街のスカイライン",
+      "ko": "도시 스카이라인",
+      "zh_Hant": "城市天際線"
+     },
      "rev": 1,
      "art": "art/skyline.png",
      "art_size": 9978,
@@ -1744,6 +3232,18 @@
     {
      "id": "arcade",
      "name": "Arcade Entrance",
+     "names": {
+      "uk": "Ігровий зал",
+      "ru": "Игровые автоматы",
+      "de": "Spielhalle",
+      "fr": "Salle d’arcade",
+      "es": "Salón recreativo",
+      "pt_BR": "Fliperama",
+      "it": "Sala giochi",
+      "ja": "ゲームセンター",
+      "ko": "오락실 입구",
+      "zh_Hant": "電玩店門口"
+     },
      "rev": 1,
      "art": "art/arcade.png",
      "art_size": 8488,
@@ -1760,12 +3260,36 @@
   {
    "id": "fantasy",
    "name": "Fantasy vol. 1",
+   "names": {
+    "uk": "Фентезі. Том 1",
+    "ru": "Фэнтези. Том 1",
+    "de": "Fantasy Vol. 1",
+    "fr": "Fantasy vol. 1",
+    "es": "Fantasía vol. 1",
+    "pt_BR": "Fantasia vol. 1",
+    "it": "Fantasy vol. 1",
+    "ja": "ファンタジー Vol.1",
+    "ko": "판타지 Vol.1",
+    "zh_Hant": "奇幻 Vol.1"
+   },
    "unlock": "ad",
    "added": "2026-08-12",
    "levels": [
     {
      "id": "dragon",
      "name": "Sleeping Dragon",
+     "names": {
+      "uk": "Сплячий дракон",
+      "ru": "Спящий дракон",
+      "de": "Schlafender Drache",
+      "fr": "Dragon endormi",
+      "es": "Dragón dormido",
+      "pt_BR": "Dragão adormecido",
+      "it": "Drago addormentato",
+      "ja": "ねむるドラゴン",
+      "ko": "잠자는 용",
+      "zh_Hant": "沉睡的龍"
+     },
      "rev": 1,
      "art": "art/dragon.png",
      "art_size": 13291,
@@ -1780,6 +3304,18 @@
     {
      "id": "potions",
      "name": "Potion Shelf",
+     "names": {
+      "uk": "Полиця з зіллям",
+      "ru": "Полка с зельями",
+      "de": "Trankregal",
+      "fr": "Étagère de potions",
+      "es": "Estante de pociones",
+      "pt_BR": "Prateleira de poções",
+      "it": "Scaffale di pozioni",
+      "ja": "魔法薬の棚",
+      "ko": "물약 선반",
+      "zh_Hant": "藥水架"
+     },
      "rev": 1,
      "art": "art/potions.png",
      "art_size": 11811,
@@ -1794,6 +3330,18 @@
     {
      "id": "wizardtower",
      "name": "Wizard Tower",
+     "names": {
+      "uk": "Вежа чарівника",
+      "ru": "Башня волшебника",
+      "de": "Zauberturm",
+      "fr": "Tour du sorcier",
+      "es": "Torre del mago",
+      "pt_BR": "Torre do mago",
+      "it": "Torre del mago",
+      "ja": "魔法使いの塔",
+      "ko": "마법사의 탑",
+      "zh_Hant": "巫師之塔"
+     },
      "rev": 1,
      "art": "art/wizardtower.png",
      "art_size": 10331,
@@ -1808,6 +3356,18 @@
     {
      "id": "knight",
      "name": "Helmet and Shield",
+     "names": {
+      "uk": "Шолом і щит",
+      "ru": "Шлем и щит",
+      "de": "Helm und Schild",
+      "fr": "Heaume et bouclier",
+      "es": "Yelmo y escudo",
+      "pt_BR": "Elmo e escudo",
+      "it": "Elmo e scudo",
+      "ja": "かぶとと盾",
+      "ko": "투구와 방패",
+      "zh_Hant": "頭盔與盾牌"
+     },
      "rev": 1,
      "art": "art/knight.png",
      "art_size": 9138,
@@ -1822,6 +3382,18 @@
     {
      "id": "treasuremap",
      "name": "Treasure Map",
+     "names": {
+      "uk": "Карта скарбів",
+      "ru": "Карта сокровищ",
+      "de": "Schatzkarte",
+      "fr": "Carte au trésor",
+      "es": "Mapa del tesoro",
+      "pt_BR": "Mapa do tesouro",
+      "it": "Mappa del tesoro",
+      "ja": "宝の地図",
+      "ko": "보물 지도",
+      "zh_Hant": "藏寶圖"
+     },
      "rev": 1,
      "art": "art/treasuremap.png",
      "art_size": 12140,
@@ -1836,6 +3408,18 @@
     {
      "id": "unicorn",
      "name": "White Unicorn",
+     "names": {
+      "uk": "Білий єдиноріг",
+      "ru": "Белый единорог",
+      "de": "Weißes Einhorn",
+      "fr": "Licorne blanche",
+      "es": "Unicornio blanco",
+      "pt_BR": "Unicórnio branco",
+      "it": "Unicorno bianco",
+      "ja": "白いユニコーン",
+      "ko": "하얀 유니콘",
+      "zh_Hant": "白色獨角獸"
+     },
      "rev": 1,
      "art": "art/unicorn.png",
      "art_size": 13684,
@@ -1850,6 +3434,18 @@
     {
      "id": "magiccastle",
      "name": "Mystic Castle",
+     "names": {
+      "uk": "Чарівний замок",
+      "ru": "Волшебный замок",
+      "de": "Zauberschloss",
+      "fr": "Château mystique",
+      "es": "Castillo místico",
+      "pt_BR": "Castelo místico",
+      "it": "Castello incantato",
+      "ja": "神秘の城",
+      "ko": "신비한 성",
+      "zh_Hant": "神秘城堡"
+     },
      "rev": 1,
      "art": "art/magiccastle.png",
      "art_size": 13899,
@@ -1864,6 +3460,18 @@
     {
      "id": "mushroomhouse",
      "name": "Mushroom House",
+     "names": {
+      "uk": "Будиночок-гриб",
+      "ru": "Домик-гриб",
+      "de": "Pilzhaus",
+      "fr": "Maison champignon",
+      "es": "Casa champiñón",
+      "pt_BR": "Casa de cogumelo",
+      "it": "Casa fungo",
+      "ja": "きのこの家",
+      "ko": "버섯 집",
+      "zh_Hant": "蘑菇屋"
+     },
      "rev": 1,
      "art": "art/mushroomhouse.png",
      "art_size": 7731,
@@ -1878,6 +3486,18 @@
     {
      "id": "troll",
      "name": "Friendly Troll",
+     "names": {
+      "uk": "Добрий троль",
+      "ru": "Добрый тролль",
+      "de": "Freundlicher Troll",
+      "fr": "Troll sympa",
+      "es": "Trol amistoso",
+      "pt_BR": "Troll amigável",
+      "it": "Troll gentile",
+      "ja": "やさしいトロール",
+      "ko": "다정한 트롤",
+      "zh_Hant": "友善的巨魔"
+     },
      "rev": 1,
      "art": "art/troll.png",
      "art_size": 13403,
@@ -1892,6 +3512,18 @@
     {
      "id": "elfwoman",
      "name": "Elf in Moonlight",
+     "names": {
+      "uk": "Ельфійка при місяці",
+      "ru": "Эльфийка в лунном свете",
+      "de": "Elfe im Mondlicht",
+      "fr": "Elfe au clair de lune",
+      "es": "Elfa bajo la luna",
+      "pt_BR": "Elfa ao luar",
+      "it": "Elfa al chiaro di luna",
+      "ja": "月明かりのエルフ",
+      "ko": "달빛 속 엘프",
+      "zh_Hant": "月光下的精靈"
+     },
      "rev": 1,
      "art": "art/elfwoman.png",
      "art_size": 10923,
@@ -1908,12 +3540,36 @@
   {
    "id": "desert",
    "name": "Desert Southwest",
+   "names": {
+    "uk": "Пустелі Америки",
+    "ru": "Пустыни Америки",
+    "de": "Wüste im Südwesten",
+    "fr": "Déserts de l’Ouest",
+    "es": "Desierto del suroeste",
+    "pt_BR": "Deserto do Sudoeste",
+    "it": "Deserti del Sud-Ovest",
+    "ja": "アメリカ南西部の砂漠",
+    "ko": "미국 남서부 사막",
+    "zh_Hant": "美西沙漠"
+   },
    "unlock": "ad",
    "added": "2026-09-06",
    "levels": [
     {
      "id": "saguaro",
      "name": "Saguaro at Sunset",
+     "names": {
+      "uk": "Сагуаро на заході",
+      "ru": "Сагуаро на закате",
+      "de": "Saguaro im Abendrot",
+      "fr": "Saguaro au couchant",
+      "es": "Saguaro al atardecer",
+      "pt_BR": "Saguaro ao pôr do sol",
+      "it": "Saguaro al tramonto",
+      "ja": "夕日とサワロ",
+      "ko": "노을 속 사와로",
+      "zh_Hant": "夕陽下的巨人柱"
+     },
      "rev": 1,
      "art": "art/saguaro.png",
      "art_size": 9766,
@@ -1928,6 +3584,18 @@
     {
      "id": "canyon",
      "name": "Red Rock Canyon",
+     "names": {
+      "uk": "Червоний каньйон",
+      "ru": "Красный каньон",
+      "de": "Roter Canyon",
+      "fr": "Canyon rouge",
+      "es": "Cañón rojo",
+      "pt_BR": "Cânion vermelho",
+      "it": "Canyon rosso",
+      "ja": "赤い岩の峡谷",
+      "ko": "붉은 바위 협곡",
+      "zh_Hant": "紅岩峽谷"
+     },
      "rev": 1,
      "art": "art/canyon.png",
      "art_size": 8722,
@@ -1942,6 +3610,18 @@
     {
      "id": "adobe",
      "name": "Adobe House",
+     "names": {
+      "uk": "Глинобитний будинок",
+      "ru": "Глинобитный дом",
+      "de": "Lehmhaus",
+      "fr": "Maison en adobe",
+      "es": "Casa de adobe",
+      "pt_BR": "Casa de adobe",
+      "it": "Casa di adobe",
+      "ja": "日干しれんがの家",
+      "ko": "어도비 집",
+      "zh_Hant": "土坯屋"
+     },
      "rev": 1,
      "art": "art/adobe.png",
      "art_size": 7931,
@@ -1956,6 +3636,18 @@
     {
      "id": "cowskull",
      "name": "Skull in the Sand",
+     "names": {
+      "uk": "Череп у піску",
+      "ru": "Череп в песке",
+      "de": "Schädel im Sand",
+      "fr": "Crâne dans le sable",
+      "es": "Calavera en la arena",
+      "pt_BR": "Caveira na areia",
+      "it": "Teschio nella sabbia",
+      "ja": "砂の中のドクロ",
+      "ko": "모래 속 해골",
+      "zh_Hant": "沙中頭骨"
+     },
      "rev": 1,
      "art": "art/cowskull.png",
      "art_size": 12147,
@@ -1970,6 +3662,18 @@
     {
      "id": "roadrunner",
      "name": "Roadrunner",
+     "names": {
+      "uk": "Земляна зозуля",
+      "ru": "Земляная кукушка",
+      "de": "Rennkuckuck",
+      "fr": "Géocoucou",
+      "es": "Correcaminos",
+      "pt_BR": "Papa-léguas",
+      "it": "Roadrunner",
+      "ja": "ミチバシリ",
+      "ko": "로드러너",
+      "zh_Hant": "走鵑"
+     },
      "rev": 1,
      "art": "art/roadrunner.png",
      "art_size": 8179,
@@ -1984,6 +3688,18 @@
     {
      "id": "roundcacti",
      "name": "Cacti in Bloom",
+     "names": {
+      "uk": "Квітучі кактуси",
+      "ru": "Цветущие кактусы",
+      "de": "Blühende Kakteen",
+      "fr": "Cactus en fleurs",
+      "es": "Cactus en flor",
+      "pt_BR": "Cactos em flor",
+      "it": "Cactus in fiore",
+      "ja": "花咲くサボテン",
+      "ko": "꽃 핀 선인장",
+      "zh_Hant": "開花的仙人掌"
+     },
      "rev": 1,
      "art": "art/roundcacti.png",
      "art_size": 13076,
@@ -1998,6 +3714,18 @@
     {
      "id": "desertroad",
      "name": "Road to the Mesas",
+     "names": {
+      "uk": "Дорога до столових гір",
+      "ru": "Дорога к столовым горам",
+      "de": "Straße zu den Tafelbergen",
+      "fr": "Route vers les mesas",
+      "es": "Camino a las mesetas",
+      "pt_BR": "Estrada para as mesetas",
+      "it": "Strada verso le mesas",
+      "ja": "メサへ続く道",
+      "ko": "메사로 가는 길",
+      "zh_Hant": "通往方山的路"
+     },
      "rev": 1,
      "art": "art/desertroad.png",
      "art_size": 11507,
@@ -2012,6 +3740,18 @@
     {
      "id": "desertmill",
      "name": "Desert Windmill",
+     "names": {
+      "uk": "Вітряк у пустелі",
+      "ru": "Ветряк в пустыне",
+      "de": "Windrad in der Wüste",
+      "fr": "Éolienne du désert",
+      "es": "Molino del desierto",
+      "pt_BR": "Moinho no deserto",
+      "it": "Mulino nel deserto",
+      "ja": "砂漠の風車",
+      "ko": "사막의 풍차",
+      "zh_Hant": "沙漠風車"
+     },
      "rev": 1,
      "art": "art/desertmill.png",
      "art_size": 10779,
@@ -2026,6 +3766,18 @@
     {
      "id": "rattlesnake",
      "name": "Rattlesnake",
+     "names": {
+      "uk": "Гримуча змія",
+      "ru": "Гремучая змея",
+      "de": "Klapperschlange",
+      "fr": "Serpent à sonnette",
+      "es": "Serpiente de cascabel",
+      "pt_BR": "Cascavel",
+      "it": "Serpente a sonagli",
+      "ja": "ガラガラヘビ",
+      "ko": "방울뱀",
+      "zh_Hant": "響尾蛇"
+     },
      "rev": 1,
      "art": "art/rattlesnake.png",
      "art_size": 9781,
@@ -2040,6 +3792,18 @@
     {
      "id": "desertnight",
      "name": "Desert Night Sky",
+     "names": {
+      "uk": "Нічне небо пустелі",
+      "ru": "Ночное небо пустыни",
+      "de": "Wüstennacht",
+      "fr": "Nuit dans le désert",
+      "es": "Noche en el desierto",
+      "pt_BR": "Noite no deserto",
+      "it": "Notte nel deserto",
+      "ja": "砂漠の夜空",
+      "ko": "사막의 밤하늘",
+      "zh_Hant": "沙漠夜空"
+     },
      "rev": 1,
      "art": "art/desertnight.png",
      "art_size": 9983,
@@ -2056,12 +3820,36 @@
   {
    "id": "cats",
    "name": "Cats",
+   "names": {
+    "uk": "Коти",
+    "ru": "Кошки",
+    "de": "Katzen",
+    "fr": "Chats",
+    "es": "Gatos",
+    "pt_BR": "Gatos",
+    "it": "Gatti",
+    "ja": "ねこ",
+    "ko": "고양이",
+    "zh_Hant": "貓咪"
+   },
    "unlock": "ad",
    "added": "2026-09-14",
    "levels": [
     {
      "id": "gingercat",
      "name": "Ginger Cat Napping",
+     "names": {
+      "uk": "Рудий кіт дрімає",
+      "ru": "Рыжий кот дремлет",
+      "de": "Roter Kater döst",
+      "fr": "Chat roux qui somnole",
+      "es": "Gato naranja dormitando",
+      "pt_BR": "Gato laranja cochilando",
+      "it": "Gatto rosso che sonnecchia",
+      "ja": "お昼寝する茶トラ",
+      "ko": "낮잠 자는 치즈냥",
+      "zh_Hant": "打盹的橘貓"
+     },
      "rev": 1,
      "art": "art/gingercat.png",
      "art_size": 10041,
@@ -2076,6 +3864,18 @@
     {
      "id": "whitecat",
      "name": "Blue-Eyed White Cat",
+     "names": {
+      "uk": "Блакитноокий білий кіт",
+      "ru": "Голубоглазый белый кот",
+      "de": "Weiße Katze, blaue Augen",
+      "fr": "Chat blanc aux yeux bleus",
+      "es": "Gato blanco de ojos azules",
+      "pt_BR": "Gato branco de olhos azuis",
+      "it": "Gatto bianco occhi blu",
+      "ja": "青い目の白ねこ",
+      "ko": "파란 눈의 하얀 고양이",
+      "zh_Hant": "藍眼白貓"
+     },
      "rev": 1,
      "art": "art/whitecat.png",
      "art_size": 10052,
@@ -2090,6 +3890,18 @@
     {
      "id": "kittenyarn",
      "name": "Kitten and Yarn",
+     "names": {
+      "uk": "Кошеня і клубок",
+      "ru": "Котёнок и клубок",
+      "de": "Kätzchen mit Wolle",
+      "fr": "Chaton et pelote",
+      "es": "Gatito y ovillo",
+      "pt_BR": "Gatinho e novelo",
+      "it": "Gattino e gomitolo",
+      "ja": "子ねこと毛糸",
+      "ko": "아기 고양이와 털실",
+      "zh_Hant": "小貓與毛線球"
+     },
      "rev": 1,
      "art": "art/kittenyarn.png",
      "art_size": 10587,
@@ -2104,6 +3916,18 @@
     {
      "id": "siamese",
      "name": "Siamese by the Window",
+     "names": {
+      "uk": "Сіамський кіт біля вікна",
+      "ru": "Сиамский кот у окна",
+      "de": "Siamkatze am Fenster",
+      "fr": "Siamois à la fenêtre",
+      "es": "Siamés en la ventana",
+      "pt_BR": "Siamês na janela",
+      "it": "Siamese alla finestra",
+      "ja": "窓辺のシャム猫",
+      "ko": "창가의 샴 고양이",
+      "zh_Hant": "窗邊的暹羅貓"
+     },
      "rev": 1,
      "art": "art/siamese.png",
      "art_size": 12274,
@@ -2118,6 +3942,18 @@
     {
      "id": "collarcat",
      "name": "Cat in the Grass",
+     "names": {
+      "uk": "Кіт у траві",
+      "ru": "Кот в траве",
+      "de": "Katze im Gras",
+      "fr": "Chat dans l’herbe",
+      "es": "Gato en la hierba",
+      "pt_BR": "Gato na grama",
+      "it": "Gatto nell’erba",
+      "ja": "草むらのねこ",
+      "ko": "풀밭의 고양이",
+      "zh_Hant": "草叢裡的貓"
+     },
      "rev": 1,
      "art": "art/collarcat.png",
      "art_size": 11222,
@@ -2132,6 +3968,18 @@
     {
      "id": "twokittens",
      "name": "Two Kittens",
+     "names": {
+      "uk": "Двоє кошенят",
+      "ru": "Два котёнка",
+      "de": "Zwei Kätzchen",
+      "fr": "Deux chatons",
+      "es": "Dos gatitos",
+      "pt_BR": "Dois gatinhos",
+      "it": "Due gattini",
+      "ja": "2匹の子ねこ",
+      "ko": "아기 고양이 두 마리",
+      "zh_Hant": "兩隻小貓"
+     },
      "rev": 1,
      "art": "art/twokittens.png",
      "art_size": 12960,
@@ -2148,12 +3996,36 @@
   {
    "id": "midnight",
    "name": "Midnight Movies",
+   "names": {
+    "uk": "Опівнічне кіно",
+    "ru": "Полуночное кино",
+    "de": "Mitternachtskino",
+    "fr": "Films de minuit",
+    "es": "Cine de medianoche",
+    "pt_BR": "Sessão da meia-noite",
+    "it": "Film di mezzanotte",
+    "ja": "真夜中の映画",
+    "ko": "한밤의 영화",
+    "zh_Hant": "午夜電影"
+   },
    "unlock": "ad",
    "added": "2026-10-18",
    "levels": [
     {
      "id": "redballoon",
      "name": "Red Balloon",
+     "names": {
+      "uk": "Червона кулька",
+      "ru": "Красный шарик",
+      "de": "Roter Ballon",
+      "fr": "Ballon rouge",
+      "es": "Globo rojo",
+      "pt_BR": "Balão vermelho",
+      "it": "Palloncino rosso",
+      "ja": "赤い風船",
+      "ko": "빨간 풍선",
+      "zh_Hant": "紅氣球"
+     },
      "rev": 1,
      "art": "art/redballoon.png",
      "art_size": 16951,
@@ -2168,6 +4040,18 @@
     {
      "id": "tricycle",
      "name": "Red Tricycle",
+     "names": {
+      "uk": "Червоний велосипедик",
+      "ru": "Красный велосипедик",
+      "de": "Rotes Dreirad",
+      "fr": "Tricycle rouge",
+      "es": "Triciclo rojo",
+      "pt_BR": "Triciclo vermelho",
+      "it": "Triciclo rosso",
+      "ja": "赤い三輪車",
+      "ko": "빨간 세발자전거",
+      "zh_Hant": "紅色三輪車"
+     },
      "rev": 1,
      "art": "art/tricycle.png",
      "art_size": 9533,
@@ -2182,6 +4066,18 @@
     {
      "id": "sharkfin",
      "name": "Something in the Water",
+     "names": {
+      "uk": "Щось у воді",
+      "ru": "Что-то в воде",
+      "de": "Etwas im Wasser",
+      "fr": "Quelque chose dans l’eau",
+      "es": "Algo en el agua",
+      "pt_BR": "Algo na água",
+      "it": "Qualcosa nell’acqua",
+      "ja": "水の中に何かが",
+      "ko": "물속의 무언가",
+      "zh_Hant": "水裡有東西"
+     },
      "rev": 1,
      "art": "art/sharkfin.png",
      "art_size": 7819,
@@ -2196,6 +4092,18 @@
     {
      "id": "statictv",
      "name": "TV Static",
+     "names": {
+      "uk": "Шум на екрані",
+      "ru": "Помехи на экране",
+      "de": "Bildrauschen",
+      "fr": "Neige à la télé",
+      "es": "Estática en la tele",
+      "pt_BR": "Chuvisco na TV",
+      "it": "Tv senza segnale",
+      "ja": "砂嵐のテレビ",
+      "ko": "지지직거리는 TV",
+      "zh_Hant": "雜訊電視"
+     },
      "rev": 1,
      "art": "art/statictv.png",
      "art_size": 6141,
@@ -2210,6 +4118,18 @@
     {
      "id": "hockeymask",
      "name": "Mask on the Dock",
+     "names": {
+      "uk": "Маска на причалі",
+      "ru": "Маска на причале",
+      "de": "Maske am Steg",
+      "fr": "Masque sur le ponton",
+      "es": "Máscara en el muelle",
+      "pt_BR": "Máscara no píer",
+      "it": "Maschera sul pontile",
+      "ja": "桟橋のマスク",
+      "ko": "부두 위의 가면",
+      "zh_Hant": "碼頭上的面具"
+     },
      "rev": 1,
      "art": "art/hockeymask.png",
      "art_size": 10237,
@@ -2224,6 +4144,18 @@
     {
      "id": "oldwell",
      "name": "Old Well",
+     "names": {
+      "uk": "Старий колодязь",
+      "ru": "Старый колодец",
+      "de": "Alter Brunnen",
+      "fr": "Vieux puits",
+      "es": "Pozo antiguo",
+      "pt_BR": "Poço antigo",
+      "it": "Vecchio pozzo",
+      "ja": "古井戸",
+      "ko": "오래된 우물",
+      "zh_Hant": "古井"
+     },
      "rev": 1,
      "art": "art/oldwell.png",
      "art_size": 14212,
@@ -2238,6 +4170,18 @@
     {
      "id": "cropcircle",
      "name": "Crop Circle",
+     "names": {
+      "uk": "Кола на полі",
+      "ru": "Круги на поле",
+      "de": "Kornkreis",
+      "fr": "Cercle de culture",
+      "es": "Círculo en el trigal",
+      "pt_BR": "Círculo na plantação",
+      "it": "Cerchio nel grano",
+      "ja": "ミステリーサークル",
+      "ko": "미스터리 서클",
+      "zh_Hant": "麥田圈"
+     },
      "rev": 1,
      "art": "art/cropcircle.png",
      "art_size": 15174,
@@ -2252,6 +4196,18 @@
     {
      "id": "woodsshadows",
      "name": "Shadows in the Woods",
+     "names": {
+      "uk": "Тіні в лісі",
+      "ru": "Тени в лесу",
+      "de": "Schatten im Wald",
+      "fr": "Ombres dans les bois",
+      "es": "Sombras en el bosque",
+      "pt_BR": "Sombras na floresta",
+      "it": "Ombre nel bosco",
+      "ja": "森の影",
+      "ko": "숲속의 그림자",
+      "zh_Hant": "林中暗影"
+     },
      "rev": 1,
      "art": "art/woodsshadows.png",
      "art_size": 12313,
@@ -2266,6 +4222,18 @@
     {
      "id": "farmporch",
      "name": "Roadside Farmhouse",
+     "names": {
+      "uk": "Ферма біля дороги",
+      "ru": "Ферма у дороги",
+      "de": "Bauernhaus an der Straße",
+      "fr": "Ferme au bord de la route",
+      "es": "Granja junto a la carretera",
+      "pt_BR": "Fazenda à beira da estrada",
+      "it": "Fattoria lungo la strada",
+      "ja": "道ばたの農家",
+      "ko": "길가의 농가",
+      "zh_Hant": "路邊的農舍"
+     },
      "rev": 1,
      "art": "art/farmporch.png",
      "art_size": 10725,
@@ -2280,6 +4248,18 @@
     {
      "id": "phonecall",
      "name": "Late Night Call",
+     "names": {
+      "uk": "Нічний дзвінок",
+      "ru": "Ночной звонок",
+      "de": "Später Anruf",
+      "fr": "Appel de nuit",
+      "es": "Llamada nocturna",
+      "pt_BR": "Ligação noturna",
+      "it": "Chiamata notturna",
+      "ja": "真夜中の電話",
+      "ko": "한밤의 전화",
+      "zh_Hant": "深夜來電"
+     },
      "rev": 1,
      "art": "art/phonecall.png",
      "art_size": 8636,
@@ -2296,12 +4276,36 @@
   {
    "id": "creatures",
    "name": "Night Creatures",
+   "names": {
+    "uk": "Нічні створіння",
+    "ru": "Ночные существа",
+    "de": "Nachtwesen",
+    "fr": "Créatures de la nuit",
+    "es": "Criaturas nocturnas",
+    "pt_BR": "Criaturas da noite",
+    "it": "Creature della notte",
+    "ja": "夜の生きもの",
+    "ko": "밤의 생물들",
+    "zh_Hant": "夜行生物"
+   },
    "unlock": "ad",
    "added": "2026-10-18",
    "levels": [
     {
      "id": "pumpkincat",
      "name": "Black Cat on a Pumpkin",
+     "names": {
+      "uk": "Чорний кіт на гарбузі",
+      "ru": "Чёрный кот на тыкве",
+      "de": "Schwarze Katze auf Kürbis",
+      "fr": "Chat noir sur citrouille",
+      "es": "Gato negro en la calabaza",
+      "pt_BR": "Gato preto na abóbora",
+      "it": "Gatto nero sulla zucca",
+      "ja": "かぼちゃと黒ねこ",
+      "ko": "호박 위 검은 고양이",
+      "zh_Hant": "南瓜上的黑貓"
+     },
      "rev": 1,
      "art": "art/pumpkincat.png",
      "art_size": 8466,
@@ -2316,6 +4320,18 @@
     {
      "id": "raccoon",
      "name": "Apple Thief",
+     "names": {
+      "uk": "Яблучний злодій",
+      "ru": "Яблочный воришка",
+      "de": "Apfeldieb",
+      "fr": "Voleur de pommes",
+      "es": "Ladrón de manzanas",
+      "pt_BR": "Ladrão de maçãs",
+      "it": "Ladro di mele",
+      "ja": "りんごどろぼう",
+      "ko": "사과 도둑",
+      "zh_Hant": "蘋果小偷"
+     },
      "rev": 1,
      "art": "art/raccoon.png",
      "art_size": 9241,
@@ -2330,6 +4346,18 @@
     {
      "id": "barnowl",
      "name": "Barn Owl",
+     "names": {
+      "uk": "Сипуха",
+      "ru": "Сипуха",
+      "de": "Schleiereule",
+      "fr": "Chouette effraie",
+      "es": "Lechuza",
+      "pt_BR": "Coruja-das-torres",
+      "it": "Barbagianni",
+      "ja": "メンフクロウ",
+      "ko": "원숭이올빼미",
+      "zh_Hant": "倉鴞"
+     },
      "rev": 1,
      "art": "art/barnowl.png",
      "art_size": 13701,
@@ -2344,6 +4372,18 @@
     {
      "id": "wolf",
      "name": "Wolf in the Mist",
+     "names": {
+      "uk": "Вовк у тумані",
+      "ru": "Волк в тумане",
+      "de": "Wolf im Nebel",
+      "fr": "Loup dans la brume",
+      "es": "Lobo en la niebla",
+      "pt_BR": "Lobo na névoa",
+      "it": "Lupo nella nebbia",
+      "ja": "霧の中のオオカミ",
+      "ko": "안개 속 늑대",
+      "zh_Hant": "霧中的狼"
+     },
      "rev": 1,
      "art": "art/wolf.png",
      "art_size": 10889,
@@ -2358,6 +4398,18 @@
     {
      "id": "raven",
      "name": "Raven in the Moonlight",
+     "names": {
+      "uk": "Ворон у місячному сяйві",
+      "ru": "Ворон в лунном свете",
+      "de": "Rabe im Mondlicht",
+      "fr": "Corbeau au clair de lune",
+      "es": "Cuervo bajo la luna",
+      "pt_BR": "Corvo ao luar",
+      "it": "Corvo al chiaro di luna",
+      "ja": "月夜のカラス",
+      "ko": "달빛 속 까마귀",
+      "zh_Hant": "月光下的烏鴉"
+     },
      "rev": 1,
      "art": "art/raven.png",
      "art_size": 12602,
@@ -2372,6 +4424,18 @@
     {
      "id": "toad",
      "name": "Witch's Toad",
+     "names": {
+      "uk": "Жаба відьми",
+      "ru": "Жаба ведьмы",
+      "de": "Hexenkröte",
+      "fr": "Crapaud de la sorcière",
+      "es": "Sapo de la bruja",
+      "pt_BR": "Sapo da bruxa",
+      "it": "Rospo della strega",
+      "ja": "魔女のヒキガエル",
+      "ko": "마녀의 두꺼비",
+      "zh_Hant": "女巫的蟾蜍"
+     },
      "rev": 1,
      "art": "art/toad.png",
      "art_size": 13014,
@@ -2386,6 +4450,18 @@
     {
      "id": "bats",
      "name": "Bats at Dusk",
+     "names": {
+      "uk": "Кажани в сутінках",
+      "ru": "Летучие мыши в сумерках",
+      "de": "Fledermäuse am Abend",
+      "fr": "Chauves-souris au crépuscule",
+      "es": "Murciélagos al anochecer",
+      "pt_BR": "Morcegos ao anoitecer",
+      "it": "Pipistrelli al tramonto",
+      "ja": "夕暮れのコウモリ",
+      "ko": "해 질 녘 박쥐들",
+      "zh_Hant": "黃昏的蝙蝠"
+     },
      "rev": 1,
      "art": "art/bats.png",
      "art_size": 12046,
@@ -2400,6 +4476,18 @@
     {
      "id": "stag",
      "name": "Dark Stag",
+     "names": {
+      "uk": "Темний олень",
+      "ru": "Тёмный олень",
+      "de": "Dunkler Hirsch",
+      "fr": "Cerf des ténèbres",
+      "es": "Ciervo oscuro",
+      "pt_BR": "Cervo sombrio",
+      "it": "Cervo oscuro",
+      "ja": "闇の牡鹿",
+      "ko": "어둠의 수사슴",
+      "zh_Hant": "暗夜雄鹿"
+     },
      "rev": 1,
      "art": "art/stag.png",
      "art_size": 11848,
@@ -2414,6 +4502,18 @@
     {
      "id": "snake",
      "name": "Snake and Pumpkin",
+     "names": {
+      "uk": "Змія і гарбуз",
+      "ru": "Змея и тыква",
+      "de": "Schlange und Kürbis",
+      "fr": "Serpent et citrouille",
+      "es": "Serpiente y calabaza",
+      "pt_BR": "Cobra e abóbora",
+      "it": "Serpente e zucca",
+      "ja": "ヘビとかぼちゃ",
+      "ko": "뱀과 호박",
+      "zh_Hant": "蛇與南瓜"
+     },
      "rev": 1,
      "art": "art/snake.png",
      "art_size": 14705,
@@ -2428,6 +4528,18 @@
     {
      "id": "spider",
      "name": "Spider on the Web",
+     "names": {
+      "uk": "Павук на павутині",
+      "ru": "Паук на паутине",
+      "de": "Spinne im Netz",
+      "fr": "Araignée sur sa toile",
+      "es": "Araña en su tela",
+      "pt_BR": "Aranha na teia",
+      "it": "Ragno sulla ragnatela",
+      "ja": "クモの巣とクモ",
+      "ko": "거미줄 위 거미",
+      "zh_Hant": "網上的蜘蛛"
+     },
      "rev": 1,
      "art": "art/spider.png",
      "art_size": 12410,
@@ -2444,12 +4556,36 @@
   {
    "id": "halloween",
    "name": "Halloween",
+   "names": {
+    "uk": "Гелловін",
+    "ru": "Хэллоуин",
+    "de": "Halloween",
+    "fr": "Halloween",
+    "es": "Halloween",
+    "pt_BR": "Halloween",
+    "it": "Halloween",
+    "ja": "ハロウィン",
+    "ko": "할로윈",
+    "zh_Hant": "萬聖節"
+   },
    "unlock": "ad",
    "added": "2026-10-18",
    "levels": [
     {
      "id": "jackolanterns",
      "name": "Three Jack-o'-Lanterns",
+     "names": {
+      "uk": "Три гарбузові ліхтарі",
+      "ru": "Три тыквенных фонаря",
+      "de": "Drei Kürbislaternen",
+      "fr": "Trois citrouilles-lanternes",
+      "es": "Tres calabazas de Halloween",
+      "pt_BR": "Três abóboras de Halloween",
+      "it": "Tre zucche di Halloween",
+      "ja": "3つのジャック・オ・ランタン",
+      "ko": "잭오랜턴 세 개",
+      "zh_Hant": "三個南瓜燈"
+     },
      "rev": 1,
      "art": "art/jackolanterns.png",
      "art_size": 9007,
@@ -2464,6 +4600,18 @@
     {
      "id": "ghostbook",
      "name": "Ghost with a Book",
+     "names": {
+      "uk": "Привид із книжкою",
+      "ru": "Призрак с книгой",
+      "de": "Geist mit Buch",
+      "fr": "Fantôme et son livre",
+      "es": "Fantasma con un libro",
+      "pt_BR": "Fantasma com livro",
+      "it": "Fantasma con il libro",
+      "ja": "本を読むおばけ",
+      "ko": "책 읽는 유령",
+      "zh_Hant": "拿著書的幽靈"
+     },
      "rev": 1,
      "art": "art/ghostbook.png",
      "art_size": 7805,
@@ -2478,6 +4626,18 @@
     {
      "id": "candybucket",
      "name": "Candy Bucket",
+     "names": {
+      "uk": "Відерце цукерок",
+      "ru": "Ведёрко конфет",
+      "de": "Süßigkeiteneimer",
+      "fr": "Seau de bonbons",
+      "es": "Cubeta de dulces",
+      "pt_BR": "Balde de doces",
+      "it": "Secchiello di caramelle",
+      "ja": "お菓子のバケツ",
+      "ko": "사탕 바구니",
+      "zh_Hant": "糖果桶"
+     },
      "rev": 1,
      "art": "art/candybucket.png",
      "art_size": 8872,
@@ -2492,6 +4652,18 @@
     {
      "id": "broomparking",
      "name": "Broom Parking",
+     "names": {
+      "uk": "Парковка для мітел",
+      "ru": "Парковка для мётел",
+      "de": "Besenparkplatz",
+      "fr": "Parking à balais",
+      "es": "Estacionamiento de escobas",
+      "pt_BR": "Estacionamento de vassouras",
+      "it": "Parcheggio per scope",
+      "ja": "ほうき置き場",
+      "ko": "빗자루 주차장",
+      "zh_Hant": "掃帚停車場"
+     },
      "rev": 1,
      "art": "art/broomparking.png",
      "art_size": 8432,
@@ -2506,6 +4678,18 @@
     {
      "id": "applebob",
      "name": "Bobbing for Apples",
+     "names": {
+      "uk": "Ловля яблук",
+      "ru": "Ловля яблок",
+      "de": "Apfeltauchen",
+      "fr": "Pêche aux pommes",
+      "es": "Pesca de manzanas",
+      "pt_BR": "Pescaria de maçãs",
+      "it": "Mele nell’acqua",
+      "ja": "アップルボビング",
+      "ko": "사과 건지기",
+      "zh_Hant": "咬蘋果遊戲"
+     },
      "rev": 1,
      "art": "art/applebob.png",
      "art_size": 12982,
@@ -2520,6 +4704,18 @@
     {
      "id": "applepie",
      "name": "Owl and the Pie",
+     "names": {
+      "uk": "Сова і пиріг",
+      "ru": "Сова и пирог",
+      "de": "Eule und Kuchen",
+      "fr": "Chouette et tarte",
+      "es": "Búho y pastel",
+      "pt_BR": "Coruja e torta",
+      "it": "Gufo e torta",
+      "ja": "フクロウとパイ",
+      "ko": "부엉이와 파이",
+      "zh_Hant": "貓頭鷹與派"
+     },
      "rev": 1,
      "art": "art/applepie.png",
      "art_size": 7175,
@@ -2534,6 +4730,18 @@
     {
      "id": "movienight",
      "name": "Movie Night",
+     "names": {
+      "uk": "Вечір кіно",
+      "ru": "Киновечер",
+      "de": "Filmabend",
+      "fr": "Soirée film",
+      "es": "Noche de cine",
+      "pt_BR": "Noite de cinema",
+      "it": "Serata film",
+      "ja": "映画の夜",
+      "ko": "영화의 밤",
+      "zh_Hant": "電影之夜"
+     },
      "rev": 1,
      "art": "art/movienight.png",
      "art_size": 14718,
@@ -2548,6 +4756,18 @@
     {
      "id": "halloweenstreet",
      "name": "Halloween Street",
+     "names": {
+      "uk": "Вулиця на Гелловін",
+      "ru": "Улица в Хэллоуин",
+      "de": "Halloween-Straße",
+      "fr": "Rue d’Halloween",
+      "es": "Calle de Halloween",
+      "pt_BR": "Rua de Halloween",
+      "it": "Strada di Halloween",
+      "ja": "ハロウィンの街角",
+      "ko": "할로윈 거리",
+      "zh_Hant": "萬聖節街道"
+     },
      "rev": 1,
      "art": "art/halloweenstreet.png",
      "art_size": 12479,
@@ -2562,6 +4782,18 @@
     {
      "id": "hauntedhouse",
      "name": "Haunted House",
+     "names": {
+      "uk": "Будинок з привидами",
+      "ru": "Дом с привидениями",
+      "de": "Spukhaus",
+      "fr": "Maison hantée",
+      "es": "Casa encantada",
+      "pt_BR": "Casa assombrada",
+      "it": "Casa stregata",
+      "ja": "おばけ屋敷",
+      "ko": "유령의 집",
+      "zh_Hant": "鬼屋"
+     },
      "rev": 1,
      "art": "art/hauntedhouse.png",
      "art_size": 10648,
@@ -2576,6 +4808,18 @@
     {
      "id": "cemetery",
      "name": "Old Cemetery",
+     "names": {
+      "uk": "Старий цвинтар",
+      "ru": "Старое кладбище",
+      "de": "Alter Friedhof",
+      "fr": "Vieux cimetière",
+      "es": "Cementerio antiguo",
+      "pt_BR": "Cemitério antigo",
+      "it": "Vecchio cimitero",
+      "ja": "古い墓地",
+      "ko": "오래된 묘지",
+      "zh_Hant": "古老墓園"
+     },
      "rev": 1,
      "art": "art/cemetery.png",
      "art_size": 10614,
@@ -2592,12 +4836,36 @@
   {
    "id": "monsters",
    "name": "Little Monsters",
+   "names": {
+    "uk": "Маленькі монстри",
+    "ru": "Маленькие монстры",
+    "de": "Kleine Monster",
+    "fr": "Petits monstres",
+    "es": "Pequeños monstruos",
+    "pt_BR": "Monstrinhos",
+    "it": "Piccoli mostri",
+    "ja": "ちいさなモンスター",
+    "ko": "꼬마 몬스터",
+    "zh_Hant": "小怪物"
+   },
    "unlock": "ad",
    "added": "2026-10-18",
    "levels": [
     {
      "id": "witch",
      "name": "Witch on a Pumpkin",
+     "names": {
+      "uk": "Відьмочка на гарбузі",
+      "ru": "Ведьмочка на тыкве",
+      "de": "Hexe auf dem Kürbis",
+      "fr": "Sorcière sur citrouille",
+      "es": "Bruja sobre calabaza",
+      "pt_BR": "Bruxinha na abóbora",
+      "it": "Streghetta sulla zucca",
+      "ja": "かぼちゃと魔女",
+      "ko": "호박 위 마녀",
+      "zh_Hant": "南瓜上的女巫"
+     },
      "rev": 1,
      "art": "art/witch.png",
      "art_size": 8114,
@@ -2612,6 +4880,18 @@
     {
      "id": "vampire",
      "name": "Vampire at the Beach",
+     "names": {
+      "uk": "Вампір на пляжі",
+      "ru": "Вампир на пляже",
+      "de": "Vampir am Strand",
+      "fr": "Vampire à la plage",
+      "es": "Vampiro en la playa",
+      "pt_BR": "Vampiro na praia",
+      "it": "Vampiro in spiaggia",
+      "ja": "浜辺の吸血鬼",
+      "ko": "해변의 뱀파이어",
+      "zh_Hant": "海灘上的吸血鬼"
+     },
      "rev": 1,
      "art": "art/vampire.png",
      "art_size": 6131,
@@ -2626,6 +4906,18 @@
     {
      "id": "mummy",
      "name": "Trick-or-Treat Mummy",
+     "names": {
+      "uk": "Мумія по цукерки",
+      "ru": "Мумия за конфетами",
+      "de": "Mumie auf Süßigkeitenjagd",
+      "fr": "Momie qui quémande",
+      "es": "Momia pidiendo dulces",
+      "pt_BR": "Múmia pedindo doces",
+      "it": "Mummia a caccia di dolci",
+      "ja": "お菓子をもらうミイラ",
+      "ko": "사탕 받는 미라",
+      "zh_Hant": "討糖的木乃伊"
+     },
      "rev": 1,
      "art": "art/mummy.png",
      "art_size": 11014,
@@ -2640,6 +4932,18 @@
     {
      "id": "werewolf",
      "name": "Sleepy Werewolf",
+     "names": {
+      "uk": "Сонний перевертень",
+      "ru": "Сонный оборотень",
+      "de": "Müder Werwolf",
+      "fr": "Loup-garou endormi",
+      "es": "Hombre lobo dormilón",
+      "pt_BR": "Lobisomem sonolento",
+      "it": "Lupo mannaro assonnato",
+      "ja": "ねむたい狼男",
+      "ko": "졸린 늑대인간",
+      "zh_Hant": "愛睏的狼人"
+     },
      "rev": 1,
      "art": "art/werewolf.png",
      "art_size": 7995,
@@ -2654,6 +4958,18 @@
     {
      "id": "pumpkinhead",
      "name": "Pumpkin Head",
+     "names": {
+      "uk": "Гарбузова голова",
+      "ru": "Тыквоголовый",
+      "de": "Kürbiskopf",
+      "fr": "Tête de citrouille",
+      "es": "Cabeza de calabaza",
+      "pt_BR": "Cabeça de abóbora",
+      "it": "Testa di zucca",
+      "ja": "かぼちゃ頭",
+      "ko": "호박 머리",
+      "zh_Hant": "南瓜頭"
+     },
      "rev": 1,
      "art": "art/pumpkinhead.png",
      "art_size": 8378,
@@ -2668,6 +4984,18 @@
     {
      "id": "zombie",
      "name": "Zombie in the Garden",
+     "names": {
+      "uk": "Зомбі в саду",
+      "ru": "Зомби в саду",
+      "de": "Zombie im Garten",
+      "fr": "Zombie au jardin",
+      "es": "Zombi en el jardín",
+      "pt_BR": "Zumbi no jardim",
+      "it": "Zombie in giardino",
+      "ja": "庭のゾンビ",
+      "ko": "정원의 좀비",
+      "zh_Hant": "花園裡的殭屍"
+     },
      "rev": 1,
      "art": "art/zombie.png",
      "art_size": 11203,
