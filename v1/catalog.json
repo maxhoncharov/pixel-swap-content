@@ -1040,6 +1040,142 @@
     "play_zones": 6,
     "seed": 20260844
    }
+  },
+  {
+   "id": "paperboat",
+   "name": "Paper Boat",
+   "names": {
+    "uk": "Паперовий кораблик",
+    "ru": "Бумажный кораблик",
+    "de": "Papierschiffchen",
+    "fr": "Bateau en papier",
+    "es": "Barco de papel",
+    "pt_BR": "Barquinho de papel",
+    "it": "Barchetta di carta",
+    "ja": "紙の船",
+    "ko": "종이배",
+    "zh_Hant": "紙船"
+   },
+   "rev": 1,
+   "added": "2026-10-31",
+   "art": "art/paperboat.png",
+   "art_size": 8544,
+   "zones": "zones/paperboat.zbin",
+   "zones_size": 1200,
+   "tuning": {
+    "zone_weight": 2611,
+    "play_zones": 6,
+    "seed": 20263101
+   }
+  },
+  {
+   "id": "strawberrycake",
+   "name": "Strawberry Cake",
+   "names": {
+    "uk": "Полуничний торт",
+    "ru": "Клубничный торт",
+    "de": "Erdbeerkuchen",
+    "fr": "Gâteau aux fraises",
+    "es": "Tarta de fresa",
+    "pt_BR": "Bolo de morango",
+    "it": "Torta di fragole",
+    "ja": "いちごのケーキ",
+    "ko": "딸기 케이크",
+    "zh_Hant": "草莓蛋糕"
+   },
+   "rev": 1,
+   "added": "2026-10-31",
+   "art": "art/strawberrycake.png",
+   "art_size": 5483,
+   "zones": "zones/strawberrycake.zbin",
+   "zones_size": 1184,
+   "tuning": {
+    "zone_weight": 2374,
+    "play_zones": 6,
+    "seed": 20263102
+   }
+  },
+  {
+   "id": "lighthouse",
+   "name": "Lighthouse Island",
+   "names": {
+    "uk": "Острів із маяком",
+    "ru": "Остров с маяком",
+    "de": "Leuchtturminsel",
+    "fr": "L'île au phare",
+    "es": "Isla del faro",
+    "pt_BR": "Ilha do farol",
+    "it": "L'isola del faro",
+    "ja": "灯台の島",
+    "ko": "등대섬",
+    "zh_Hant": "燈塔小島"
+   },
+   "rev": 1,
+   "added": "2026-10-31",
+   "art": "art/lighthouse.png",
+   "art_size": 10585,
+   "zones": "zones/lighthouse.zbin",
+   "zones_size": 1172,
+   "tuning": {
+    "zone_weight": 3027,
+    "play_zones": 6,
+    "seed": 20263103
+   }
+  },
+  {
+   "id": "moongarden",
+   "name": "Moon Gardener",
+   "names": {
+    "uk": "Садівник на Місяці",
+    "ru": "Садовник на Луне",
+    "de": "Gärtner auf dem Mond",
+    "fr": "Jardinier lunaire",
+    "es": "Jardinero lunar",
+    "pt_BR": "Jardineiro na Lua",
+    "it": "Giardiniere lunare",
+    "ja": "月の庭師",
+    "ko": "달의 정원사",
+    "zh_Hant": "月球上的園丁"
+   },
+   "rev": 1,
+   "added": "2026-10-31",
+   "art": "art/moongarden.png",
+   "art_size": 10927,
+   "zones": "zones/moongarden.zbin",
+   "zones_size": 1384,
+   "tuning": {
+    "zone_weight": 2730,
+    "play_zones": 6,
+    "seed": 20263104
+   }
+  },
+  {
+   "id": "picnic",
+   "name": "Lavender Picnic",
+   "names": {
+    "uk": "Пікнік у лаванді",
+    "ru": "Пикник в лаванде",
+    "de": "Lavendel-Picknick",
+    "fr": "Pique-nique lavande",
+    "es": "Pícnic entre lavandas",
+    "pt_BR": "Piquenique na lavanda",
+    "it": "Picnic tra la lavanda",
+    "ja": "ラベンダーのピクニック",
+    "ko": "라벤더 피크닉",
+    "zh_Hant": "薰衣草野餐"
+   },
+   "rev": 1,
+   "unlock": "ad",
+   "added": "2026-10-31",
+   "art": "art/picnic.png",
+   "art_size": 13220,
+   "zones": "zones/picnic.zbin",
+   "zones_size": 1276,
+   "tuning": {
+    "zone_weight": 3502,
+    "play_zones": 6,
+    "seed": 20263105
+   }
   }
  ],
  "packs": [
@@ -5005,6 +5141,234 @@
       "zone_weight": 2819,
       "play_zones": 6,
       "seed": 20262006
+     }
+    }
+   ]
+  },
+  {
+   "id": "town",
+   "name": "Animal Town",
+   "names": {
+    "uk": "Місто тварин",
+    "ru": "Город зверей",
+    "de": "Tierstadt",
+    "fr": "Ville des animaux",
+    "es": "Ciudad animal",
+    "pt_BR": "Cidade dos bichos",
+    "it": "Città degli animali",
+    "ja": "どうぶつの町",
+    "ko": "동물 마을",
+    "zh_Hant": "動物小鎮"
+   },
+   "unlock": "ad",
+   "added": "2026-10-31",
+   "levels": [
+    {
+     "id": "baristacat",
+     "name": "Barista Cat",
+     "names": {
+      "uk": "Кіт-бариста",
+      "ru": "Кот-бариста",
+      "de": "Barista-Katze",
+      "fr": "Chat barista",
+      "es": "Gato barista",
+      "pt_BR": "Gato barista",
+      "it": "Gatto barista",
+      "ja": "バリスタのネコ",
+      "ko": "바리스타 고양이",
+      "zh_Hant": "咖啡師貓咪"
+     },
+     "rev": 1,
+     "art": "art/baristacat.png",
+     "art_size": 8862,
+     "zones": "zones/baristacat.zbin",
+     "zones_size": 1044,
+     "tuning": {
+      "zone_weight": 3057,
+      "play_zones": 6,
+      "seed": 20263106
+     }
+    },
+    {
+     "id": "bakerbear",
+     "name": "Bear the Baker",
+     "names": {
+      "uk": "Ведмідь-пекар",
+      "ru": "Медведь-пекарь",
+      "de": "Bäckerbär",
+      "fr": "Ours boulanger",
+      "es": "Oso panadero",
+      "pt_BR": "Urso padeiro",
+      "it": "Orso fornaio",
+      "ja": "パン屋のクマ",
+      "ko": "제빵사 곰",
+      "zh_Hant": "麵包師熊"
+     },
+     "rev": 1,
+     "art": "art/bakerbear.png",
+     "art_size": 8899,
+     "zones": "zones/bakerbear.zbin",
+     "zones_size": 1156,
+     "tuning": {
+      "zone_weight": 2997,
+      "play_zones": 6,
+      "seed": 20263107
+     }
+    },
+    {
+     "id": "mailfox",
+     "name": "Mail Carrier Fox",
+     "names": {
+      "uk": "Лис-листоноша",
+      "ru": "Лис-почтальон",
+      "de": "Postfuchs",
+      "fr": "Renard facteur",
+      "es": "Zorro cartero",
+      "pt_BR": "Raposa carteira",
+      "it": "Volpe postina",
+      "ja": "郵便屋のキツネ",
+      "ko": "우체부 여우",
+      "zh_Hant": "郵差狐狸"
+     },
+     "rev": 1,
+     "art": "art/mailfox.png",
+     "art_size": 7056,
+     "zones": "zones/mailfox.zbin",
+     "zones_size": 1096,
+     "tuning": {
+      "zone_weight": 2522,
+      "play_zones": 6,
+      "seed": 20263108
+     }
+    },
+    {
+     "id": "icepenguin",
+     "name": "Ice Cream Penguin",
+     "names": {
+      "uk": "Пінгвін з морозивом",
+      "ru": "Пингвин с мороженым",
+      "de": "Pinguin mit Eis",
+      "fr": "Pingouin glacier",
+      "es": "Pingüino heladero",
+      "pt_BR": "Pinguim sorveteiro",
+      "it": "Pinguino gelataio",
+      "ja": "アイス屋のペンギン",
+      "ko": "아이스크림 펭귄",
+      "zh_Hant": "賣冰淇淋的企鵝"
+     },
+     "rev": 1,
+     "art": "art/icepenguin.png",
+     "art_size": 6941,
+     "zones": "zones/icepenguin.zbin",
+     "zones_size": 1136,
+     "tuning": {
+      "zone_weight": 2730,
+      "play_zones": 6,
+      "seed": 20263109
+     }
+    },
+    {
+     "id": "bookraccoon",
+     "name": "Raccoon Librarian",
+     "names": {
+      "uk": "Єнот-бібліотекар",
+      "ru": "Енот-библиотекарь",
+      "de": "Waschbär mit Büchern",
+      "fr": "Raton bibliothécaire",
+      "es": "Mapache bibliotecario",
+      "pt_BR": "Guaxinim e os livros",
+      "it": "Procione e i libri",
+      "ja": "図書館のアライグマ",
+      "ko": "사서 너구리",
+      "zh_Hant": "戴眼鏡的圖書館員"
+     },
+     "rev": 1,
+     "art": "art/bookraccoon.png",
+     "art_size": 7767,
+     "zones": "zones/bookraccoon.zbin",
+     "zones_size": 1052,
+     "tuning": {
+      "zone_weight": 3502,
+      "play_zones": 6,
+      "seed": 20263110
+     }
+    },
+    {
+     "id": "gardenfrog",
+     "name": "Frog the Gardener",
+     "names": {
+      "uk": "Жаба-садівниця",
+      "ru": "Лягушка-садовница",
+      "de": "Gärtnerfrosch",
+      "fr": "Grenouille au jardin",
+      "es": "Rana jardinera",
+      "pt_BR": "Sapo jardineiro",
+      "it": "Rana giardiniera",
+      "ja": "庭師のカエル",
+      "ko": "정원사 개구리",
+      "zh_Hant": "園丁青蛙"
+     },
+     "rev": 1,
+     "art": "art/gardenfrog.png",
+     "art_size": 12145,
+     "zones": "zones/gardenfrog.zbin",
+     "zones_size": 1424,
+     "tuning": {
+      "zone_weight": 2997,
+      "play_zones": 6,
+      "seed": 20263111
+     }
+    },
+    {
+     "id": "barbersheep",
+     "name": "Sheep at the Barber",
+     "names": {
+      "uk": "Вівця в перукарні",
+      "ru": "Овечка у парикмахера",
+      "de": "Schaf beim Friseur",
+      "fr": "Mouton au salon",
+      "es": "Oveja en la barbería",
+      "pt_BR": "Ovelha no barbeiro",
+      "it": "Pecora dal barbiere",
+      "ja": "床屋のヒツジ",
+      "ko": "이발소 양",
+      "zh_Hant": "理髮店的綿羊"
+     },
+     "rev": 1,
+     "art": "art/barbersheep.png",
+     "art_size": 11554,
+     "zones": "zones/barbersheep.zbin",
+     "zones_size": 1236,
+     "tuning": {
+      "zone_weight": 2878,
+      "play_zones": 6,
+      "seed": 20263112
+     }
+    },
+    {
+     "id": "pandachef",
+     "name": "Panda Chef",
+     "names": {
+      "uk": "Панда-кухар",
+      "ru": "Панда-повар",
+      "de": "Panda-Koch",
+      "fr": "Panda chef",
+      "es": "Panda cocinero",
+      "pt_BR": "Panda cozinheiro",
+      "it": "Panda cuoco",
+      "ja": "コックのパンダ",
+      "ko": "요리사 판다",
+      "zh_Hant": "熊貓廚師"
+     },
+     "rev": 1,
+     "art": "art/pandachef.png",
+     "art_size": 9674,
+     "zones": "zones/pandachef.zbin",
+     "zones_size": 956,
+     "tuning": {
+      "zone_weight": 3353,
+      "play_zones": 6,
+      "seed": 20263113
      }
     }
    ]
