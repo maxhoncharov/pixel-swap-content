@@ -3969,6 +3969,326 @@
     "zone_cover": 0.75,
     "zone_detail": 2
    }
+  },
+  {
+   "id": "foodtruck",
+   "name": "Pink Food Truck",
+   "names": {
+    "uk": "Рожевий фудтрак",
+    "ru": "Розовый фудтрак",
+    "de": "Pinker Foodtruck",
+    "fr": "Food truck rose",
+    "es": "Food truck rosa",
+    "pt_BR": "Food truck rosa",
+    "it": "Food truck rosa",
+    "ja": "ピンクのキッチンカー",
+    "ko": "분홍 푸드트럭",
+    "zh_Hant": "粉紅餐車"
+   },
+   "rev": 1,
+   "added": "2026-11-22",
+   "art": "art/foodtruck.png",
+   "art_size": 4478,
+   "zones": "zones/foodtruck.zbin",
+   "zones_size": 440,
+   "preview": "previews/foodtruck.prev",
+   "preview_size": 4870,
+   "tuning": {
+    "zone_weight": 1600,
+    "play_zones": 3,
+    "seed": 2026112206,
+    "zone_gap": 3,
+    "zone_cover": 0.75,
+    "zone_detail": 2
+   }
+  },
+  {
+   "id": "windmill",
+   "name": "Windmill at Sunset",
+   "names": {
+    "uk": "Вітряк на заході сонця",
+    "ru": "Мельница на закате",
+    "de": "Windmühle im Abendrot",
+    "fr": "Moulin au coucher du soleil",
+    "es": "Molino al atardecer",
+    "pt_BR": "Moinho ao pôr do sol",
+    "it": "Mulino al tramonto",
+    "ja": "夕暮れの風車",
+    "ko": "노을 속 풍차",
+    "zh_Hant": "夕陽下的風車"
+   },
+   "rev": 1,
+   "added": "2026-11-22",
+   "art": "art/windmill.png",
+   "art_size": 2736,
+   "zones": "zones/windmill.zbin",
+   "zones_size": 372,
+   "preview": "previews/windmill.prev",
+   "preview_size": 3231,
+   "tuning": {
+    "zone_weight": 1600,
+    "play_zones": 3,
+    "seed": 2026112202,
+    "zone_gap": 3,
+    "zone_cover": 0.75,
+    "zone_detail": 2
+   }
+  },
+  {
+   "id": "rollerskates",
+   "name": "Roller Skates",
+   "names": {
+    "uk": "Ролики",
+    "ru": "Ролики",
+    "de": "Rollschuhe",
+    "fr": "Patins à roulettes",
+    "es": "Patines",
+    "pt_BR": "Patins",
+    "it": "Pattini a rotelle",
+    "ja": "ローラースケート",
+    "ko": "롤러스케이트",
+    "zh_Hant": "溜冰鞋"
+   },
+   "rev": 1,
+   "added": "2026-11-22",
+   "art": "art/rollerskates.png",
+   "art_size": 4151,
+   "zones": "zones/rollerskates.zbin",
+   "zones_size": 436,
+   "preview": "previews/rollerskates.prev",
+   "preview_size": 4752,
+   "tuning": {
+    "zone_weight": 1600,
+    "play_zones": 3,
+    "seed": 2026112203,
+    "zone_gap": 3,
+    "zone_cover": 0.75,
+    "zone_detail": 2
+   }
+  },
+  {
+   "id": "mapleleaves",
+   "name": "Maple Leaves on the Pond",
+   "names": {
+    "uk": "Кленове листя на ставку",
+    "ru": "Кленовые листья на пруду",
+    "de": "Ahornblätter im Teich",
+    "fr": "Feuilles d'érable sur l'étang",
+    "es": "Hojas de arce en el estanque",
+    "pt_BR": "Folhas de bordo no lago",
+    "it": "Foglie d'acero sullo stagno",
+    "ja": "池に浮かぶもみじ",
+    "ko": "연못 위 단풍잎",
+    "zh_Hant": "池塘上的楓葉"
+   },
+   "rev": 1,
+   "added": "2026-11-22",
+   "art": "art/mapleleaves.png",
+   "art_size": 2446,
+   "zones": "zones/mapleleaves.zbin",
+   "zones_size": 384,
+   "preview": "previews/mapleleaves.prev",
+   "preview_size": 2739,
+   "tuning": {
+    "zone_weight": 1600,
+    "play_zones": 3,
+    "seed": 2026112204,
+    "zone_gap": 3,
+    "zone_cover": 0.75,
+    "zone_detail": 2
+   }
+  },
+  {
+   "id": "picnicthermos",
+   "name": "Autumn Picnic",
+   "names": {
+    "uk": "Осінній пікнік",
+    "ru": "Осенний пикник",
+    "de": "Herbstpicknick",
+    "fr": "Pique-nique d'automne",
+    "es": "Pícnic de otoño",
+    "pt_BR": "Piquenique de outono",
+    "it": "Picnic d'autunno",
+    "ja": "秋のピクニック",
+    "ko": "가을 소풍",
+    "zh_Hant": "秋日野餐"
+   },
+   "rev": 1,
+   "added": "2026-11-22",
+   "art": "art/picnicthermos.png",
+   "art_size": 4323,
+   "zones": "zones/picnicthermos.zbin",
+   "zones_size": 436,
+   "preview": "previews/picnicthermos.prev",
+   "preview_size": 4760,
+   "tuning": {
+    "zone_weight": 1600,
+    "play_zones": 3,
+    "seed": 2026112205,
+    "zone_gap": 3,
+    "zone_cover": 0.75,
+    "zone_detail": 2
+   }
+  },
+  {
+   "id": "chameleon",
+   "name": "Chameleon on a Branch",
+   "names": {
+    "uk": "Хамелеон на гілці",
+    "ru": "Хамелеон на ветке",
+    "de": "Chamäleon auf dem Ast",
+    "fr": "Caméléon sur une branche",
+    "es": "Camaleón en la rama",
+    "pt_BR": "Camaleão no galho",
+    "it": "Camaleonte sul ramo",
+    "ja": "枝の上のカメレオン",
+    "ko": "나뭇가지 위 카멜레온",
+    "zh_Hant": "樹枝上的變色龍"
+   },
+   "rev": 1,
+   "added": "2026-11-22",
+   "art": "art/chameleon.png",
+   "art_size": 3473,
+   "zones": "zones/chameleon.zbin",
+   "zones_size": 424,
+   "preview": "previews/chameleon.prev",
+   "preview_size": 4083,
+   "tuning": {
+    "zone_weight": 1600,
+    "play_zones": 3,
+    "seed": 2026112207,
+    "zone_gap": 3,
+    "zone_cover": 0.75,
+    "zone_detail": 2
+   }
+  },
+  {
+   "id": "teapothouse",
+   "name": "Teapot House",
+   "names": {
+    "uk": "Будиночок-чайник",
+    "ru": "Домик-чайник",
+    "de": "Teekannenhaus",
+    "fr": "La maison-théière",
+    "es": "La casa tetera",
+    "pt_BR": "A casa bule",
+    "it": "La casa teiera",
+    "ja": "ティーポットの家",
+    "ko": "찻주전자 집",
+    "zh_Hant": "茶壺小屋"
+   },
+   "rev": 1,
+   "added": "2026-11-22",
+   "art": "art/teapothouse.png",
+   "art_size": 3802,
+   "zones": "zones/teapothouse.zbin",
+   "zones_size": 412,
+   "preview": "previews/teapothouse.prev",
+   "preview_size": 4302,
+   "tuning": {
+    "zone_weight": 1600,
+    "play_zones": 3,
+    "seed": 2026112209,
+    "zone_gap": 3,
+    "zone_cover": 0.75,
+    "zone_detail": 2
+   }
+  },
+  {
+   "id": "piewindow",
+   "name": "Pie on the Windowsill",
+   "names": {
+    "uk": "Пиріг на підвіконні",
+    "ru": "Пирог на подоконнике",
+    "de": "Kuchen auf der Fensterbank",
+    "fr": "Tarte sur le rebord",
+    "es": "Pastel en la ventana",
+    "pt_BR": "Torta na janela",
+    "it": "Torta sul davanzale",
+    "ja": "窓辺のパイ",
+    "ko": "창가의 파이",
+    "zh_Hant": "窗台上的派"
+   },
+   "rev": 1,
+   "added": "2026-11-22",
+   "art": "art/piewindow.png",
+   "art_size": 3700,
+   "zones": "zones/piewindow.zbin",
+   "zones_size": 420,
+   "preview": "previews/piewindow.prev",
+   "preview_size": 4226,
+   "tuning": {
+    "zone_weight": 1600,
+    "play_zones": 3,
+    "seed": 2026112208,
+    "zone_gap": 3,
+    "zone_cover": 0.75,
+    "zone_detail": 2
+   }
+  },
+  {
+   "id": "saturn",
+   "name": "Saturn",
+   "names": {
+    "uk": "Сатурн",
+    "ru": "Сатурн",
+    "de": "Saturn",
+    "fr": "Saturne",
+    "es": "Saturno",
+    "pt_BR": "Saturno",
+    "it": "Saturno",
+    "ja": "土星",
+    "ko": "토성",
+    "zh_Hant": "土星"
+   },
+   "rev": 1,
+   "added": "2026-11-22",
+   "art": "art/saturn.png",
+   "art_size": 2369,
+   "zones": "zones/saturn.zbin",
+   "zones_size": 332,
+   "preview": "previews/saturn.prev",
+   "preview_size": 2739,
+   "tuning": {
+    "zone_weight": 1600,
+    "play_zones": 3,
+    "seed": 2026112201,
+    "zone_gap": 3,
+    "zone_cover": 0.75,
+    "zone_detail": 2
+   }
+  },
+  {
+   "id": "shibaball",
+   "name": "Shiba and the Ball",
+   "names": {
+    "uk": "Шиба і м'ячик",
+    "ru": "Шиба и мячик",
+    "de": "Shiba und der Ball",
+    "fr": "Le shiba et la balle",
+    "es": "El shiba y la pelota",
+    "pt_BR": "O shiba e a bolinha",
+    "it": "Lo shiba e la palla",
+    "ja": "ボールと柴犬",
+    "ko": "공을 쫓는 시바견",
+    "zh_Hant": "追球的柴犬"
+   },
+   "rev": 1,
+   "added": "2026-11-22",
+   "art": "art/shibaball.png",
+   "art_size": 2574,
+   "zones": "zones/shibaball.zbin",
+   "zones_size": 432,
+   "preview": "previews/shibaball.prev",
+   "preview_size": 3156,
+   "tuning": {
+    "zone_weight": 1600,
+    "play_zones": 3,
+    "seed": 2026112210,
+    "zone_gap": 3,
+    "zone_cover": 0.75,
+    "zone_detail": 2
+   }
   }
  ],
  "packs": [
