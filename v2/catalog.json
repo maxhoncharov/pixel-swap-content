@@ -4003,7 +4003,7 @@
    }
   },
   {
-   "id": "windmill",
+   "id": "tulipmill",
    "name": "Windmill at Sunset",
    "names": {
     "uk": "Вітряк на заході сонця",
@@ -4019,11 +4019,11 @@
    },
    "rev": 1,
    "added": "2026-11-22",
-   "art": "art/windmill.png",
+   "art": "art/tulipmill.png",
    "art_size": 2736,
-   "zones": "zones/windmill.zbin",
+   "zones": "zones/tulipmill.zbin",
    "zones_size": 372,
-   "preview": "previews/windmill.prev",
+   "preview": "previews/tulipmill.prev",
    "preview_size": 3231,
    "tuning": {
     "zone_weight": 1600,
