@@ -4289,6 +4289,198 @@
     "zone_cover": 0.75,
     "zone_detail": 2
    }
+  },
+  {
+   "id": "macarontower",
+   "name": "Macaron Tower",
+   "names": {
+    "uk": "Вежа з макарунів",
+    "ru": "Башня из макарунов",
+    "de": "Macaron-Turm",
+    "fr": "Pyramide de macarons",
+    "es": "Torre de macarons",
+    "pt_BR": "Torre de macarons",
+    "it": "Torre di macaron",
+    "ja": "マカロンタワー",
+    "ko": "마카롱 타워",
+    "zh_Hant": "馬卡龍塔"
+   },
+   "rev": 1,
+   "added": "2026-11-29",
+   "art": "art/macarontower.png",
+   "art_size": 2603,
+   "zones": "zones/macarontower.zbin",
+   "zones_size": 424,
+   "preview": "previews/macarontower.prev",
+   "preview_size": 3044,
+   "tuning": {
+    "zone_weight": 1600,
+    "play_zones": 3,
+    "zone_gap": 3,
+    "zone_cover": 0.75,
+    "zone_detail": 2,
+    "seed": 2026112901
+   }
+  },
+  {
+   "id": "firefliesjar",
+   "name": "Jar of Fireflies",
+   "names": {
+    "uk": "Банка світлячків",
+    "ru": "Банка светлячков",
+    "de": "Glühwürmchen im Glas",
+    "fr": "Bocal de lucioles",
+    "es": "Frasco de luciérnagas",
+    "pt_BR": "Pote de vaga-lumes",
+    "it": "Barattolo di lucciole",
+    "ja": "ホタルの瓶",
+    "ko": "반딧불이 병",
+    "zh_Hant": "螢火蟲玻璃罐"
+   },
+   "rev": 1,
+   "added": "2026-11-29",
+   "art": "art/firefliesjar.png",
+   "art_size": 2920,
+   "zones": "zones/firefliesjar.zbin",
+   "zones_size": 484,
+   "preview": "previews/firefliesjar.prev",
+   "preview_size": 3405,
+   "tuning": {
+    "zone_weight": 1600,
+    "play_zones": 3,
+    "zone_gap": 3,
+    "zone_cover": 0.75,
+    "zone_detail": 2,
+    "seed": 2026112902
+   }
+  },
+  {
+   "id": "flamingo",
+   "name": "Flamingo at Sunrise",
+   "names": {
+    "uk": "Фламінго на світанку",
+    "ru": "Фламинго на рассвете",
+    "de": "Flamingo im Morgenrot",
+    "fr": "Flamant rose à l'aube",
+    "es": "Flamenco al amanecer",
+    "pt_BR": "Flamingo ao amanhecer",
+    "it": "Fenicottero all'alba",
+    "ja": "朝焼けのフラミンゴ",
+    "ko": "새벽의 플라밍고",
+    "zh_Hant": "晨光中的紅鶴"
+   },
+   "rev": 1,
+   "added": "2026-11-29",
+   "art": "art/flamingo.png",
+   "art_size": 1798,
+   "zones": "zones/flamingo.zbin",
+   "zones_size": 420,
+   "preview": "previews/flamingo.prev",
+   "preview_size": 2406,
+   "tuning": {
+    "zone_weight": 1600,
+    "play_zones": 3,
+    "zone_gap": 3,
+    "zone_cover": 0.75,
+    "zone_detail": 2,
+    "seed": 2026112903
+   }
+  },
+  {
+   "id": "dachshund",
+   "name": "Dachshund in a Blanket",
+   "names": {
+    "uk": "Такса під пледом",
+    "ru": "Такса под пледом",
+    "de": "Dackel unter der Decke",
+    "fr": "Teckel sous le plaid",
+    "es": "Teckel bajo la manta",
+    "pt_BR": "Dachshund na mantinha",
+    "it": "Bassotto sotto la coperta",
+    "ja": "毛布にくるまったダックス",
+    "ko": "담요 속 닥스훈트",
+    "zh_Hant": "裹著毯子的臘腸狗"
+   },
+   "rev": 1,
+   "added": "2026-11-29",
+   "art": "art/dachshund.png",
+   "art_size": 2371,
+   "zones": "zones/dachshund.zbin",
+   "zones_size": 420,
+   "preview": "previews/dachshund.prev",
+   "preview_size": 2867,
+   "tuning": {
+    "zone_weight": 1600,
+    "play_zones": 3,
+    "zone_gap": 3,
+    "zone_cover": 0.75,
+    "zone_detail": 2,
+    "seed": 2026112904
+   }
+  },
+  {
+   "id": "snailhouse",
+   "name": "Snail's Cottage",
+   "names": {
+    "uk": "Равлик із будиночком",
+    "ru": "Улитка с домиком",
+    "de": "Schnecke mit Häuschen",
+    "fr": "L'escargot et sa maison",
+    "es": "El caracol y su casita",
+    "pt_BR": "O caracol e sua casinha",
+    "it": "La lumaca con la casetta",
+    "ja": "家をせおうカタツムリ",
+    "ko": "집을 진 달팽이",
+    "zh_Hant": "背著小屋的蝸牛"
+   },
+   "rev": 1,
+   "added": "2026-11-29",
+   "art": "art/snailhouse.png",
+   "art_size": 4086,
+   "zones": "zones/snailhouse.zbin",
+   "zones_size": 452,
+   "preview": "previews/snailhouse.prev",
+   "preview_size": 4470,
+   "tuning": {
+    "zone_weight": 1600,
+    "play_zones": 3,
+    "zone_gap": 3,
+    "zone_cover": 0.75,
+    "zone_detail": 2,
+    "seed": 2026112905
+   }
+  },
+  {
+   "id": "amethyst",
+   "name": "Amethyst Heart",
+   "names": {
+    "uk": "Аметистове серце",
+    "ru": "Аметистовое сердце",
+    "de": "Amethystherz",
+    "fr": "Cœur d'améthyste",
+    "es": "Corazón de amatista",
+    "pt_BR": "Coração de ametista",
+    "it": "Cuore di ametista",
+    "ja": "アメジストのハート",
+    "ko": "자수정 하트",
+    "zh_Hant": "紫水晶之心"
+   },
+   "rev": 1,
+   "added": "2026-11-29",
+   "art": "art/amethyst.png",
+   "art_size": 4014,
+   "zones": "zones/amethyst.zbin",
+   "zones_size": 388,
+   "preview": "previews/amethyst.prev",
+   "preview_size": 4575,
+   "tuning": {
+    "zone_weight": 1600,
+    "play_zones": 3,
+    "zone_gap": 3,
+    "zone_cover": 0.75,
+    "zone_detail": 2,
+    "seed": 2026112906
+   }
   }
  ],
  "packs": [
@@ -6680,6 +6872,336 @@
       "zone_gap": 3,
       "zone_cover": 0.75,
       "zone_detail": 2
+     }
+    }
+   ]
+  },
+  {
+   "id": "dogs",
+   "name": "Dogs",
+   "names": {
+    "uk": "Собаки",
+    "ru": "Собаки",
+    "de": "Hunde",
+    "fr": "Chiens",
+    "es": "Perros",
+    "pt_BR": "Cachorros",
+    "it": "Cani",
+    "ja": "いぬ",
+    "ko": "강아지",
+    "zh_Hant": "狗狗"
+   },
+   "unlock": "ad",
+   "added": "2026-11-29",
+   "levels": [
+    {
+     "id": "chihuahua",
+     "name": "Chihuahua in a Basket",
+     "names": {
+      "uk": "Чихуахуа в кошику",
+      "ru": "Чихуахуа в корзинке",
+      "de": "Chihuahua im Fahrradkorb",
+      "fr": "Chihuahua dans le panier",
+      "es": "Chihuahua en la cesta",
+      "pt_BR": "Chihuahua na cestinha",
+      "it": "Chihuahua nel cestino",
+      "ja": "かごの中のチワワ",
+      "ko": "바구니 속 치와와",
+      "zh_Hant": "籃子裡的吉娃娃"
+     },
+     "rev": 1,
+     "art": "art/chihuahua.png",
+     "art_size": 3919,
+     "zones": "zones/chihuahua.zbin",
+     "zones_size": 364,
+     "preview": "previews/chihuahua.prev",
+     "preview_size": 4336,
+     "tuning": {
+      "zone_weight": 1600,
+      "play_zones": 3,
+      "zone_gap": 3,
+      "zone_cover": 0.75,
+      "zone_detail": 2,
+      "seed": 2026112911
+     }
+    },
+    {
+     "id": "corgi",
+     "name": "Corgi in the Leaves",
+     "names": {
+      "uk": "Коргі в листі",
+      "ru": "Корги в листве",
+      "de": "Corgi im Laub",
+      "fr": "Corgi dans les feuilles",
+      "es": "Corgi entre las hojas",
+      "pt_BR": "Corgi nas folhas",
+      "it": "Corgi tra le foglie",
+      "ja": "落ち葉とコーギー",
+      "ko": "낙엽 속 코기",
+      "zh_Hant": "落葉中的柯基"
+     },
+     "rev": 1,
+     "art": "art/corgi.png",
+     "art_size": 2852,
+     "zones": "zones/corgi.zbin",
+     "zones_size": 400,
+     "preview": "previews/corgi.prev",
+     "preview_size": 3339,
+     "tuning": {
+      "zone_weight": 1600,
+      "play_zones": 3,
+      "zone_gap": 3,
+      "zone_cover": 0.75,
+      "zone_detail": 2,
+      "seed": 2026112912
+     }
+    },
+    {
+     "id": "pugbath",
+     "name": "Pug in the Bath",
+     "names": {
+      "uk": "Мопс у ванні",
+      "ru": "Мопс в ванне",
+      "de": "Mops in der Badewanne",
+      "fr": "Carlin dans le bain",
+      "es": "Pug en la bañera",
+      "pt_BR": "Pug na banheira",
+      "it": "Carlino nella vasca",
+      "ja": "おふろのパグ",
+      "ko": "목욕하는 퍼그",
+      "zh_Hant": "泡澡的巴哥"
+     },
+     "rev": 1,
+     "art": "art/pugbath.png",
+     "art_size": 2651,
+     "zones": "zones/pugbath.zbin",
+     "zones_size": 436,
+     "preview": "previews/pugbath.prev",
+     "preview_size": 3175,
+     "tuning": {
+      "zone_weight": 1600,
+      "play_zones": 3,
+      "zone_gap": 3,
+      "zone_cover": 0.75,
+      "zone_detail": 2,
+      "seed": 2026112913
+     }
+    },
+    {
+     "id": "stbernard",
+     "name": "St. Bernard by the Fire",
+     "names": {
+      "uk": "Сенбернар біля каміна",
+      "ru": "Сенбернар у камина",
+      "de": "Bernhardiner am Kamin",
+      "fr": "Saint-bernard près du feu",
+      "es": "San Bernardo junto a la chimenea",
+      "pt_BR": "São-bernardo perto da lareira",
+      "it": "San Bernardo davanti al camino",
+      "ja": "暖炉の前のセントバーナード",
+      "ko": "벽난로 앞 세인트버나드",
+      "zh_Hant": "壁爐前的聖伯納"
+     },
+     "rev": 1,
+     "art": "art/stbernard.png",
+     "art_size": 3520,
+     "zones": "zones/stbernard.zbin",
+     "zones_size": 420,
+     "preview": "previews/stbernard.prev",
+     "preview_size": 4179,
+     "tuning": {
+      "zone_weight": 1600,
+      "play_zones": 3,
+      "zone_gap": 3,
+      "zone_cover": 0.75,
+      "zone_detail": 2,
+      "seed": 2026112914
+     }
+    },
+    {
+     "id": "poodle",
+     "name": "Poodle and a Bone",
+     "names": {
+      "uk": "Пудель і кісточка",
+      "ru": "Пудель и косточка",
+      "de": "Pudel mit Knochen",
+      "fr": "Le caniche et son os",
+      "es": "El caniche y su hueso",
+      "pt_BR": "O poodle e o ossinho",
+      "it": "Il barboncino e l'osso",
+      "ja": "プードルとほね",
+      "ko": "푸들과 뼈다귀",
+      "zh_Hant": "貴賓犬與骨頭"
+     },
+     "rev": 1,
+     "art": "art/poodle.png",
+     "art_size": 2162,
+     "zones": "zones/poodle.zbin",
+     "zones_size": 372,
+     "preview": "previews/poodle.prev",
+     "preview_size": 2500,
+     "tuning": {
+      "zone_weight": 1600,
+      "play_zones": 3,
+      "zone_gap": 3,
+      "zone_cover": 0.75,
+      "zone_detail": 2,
+      "seed": 2026112915
+     }
+    },
+    {
+     "id": "dalmatian",
+     "name": "Firefighter Dalmatian",
+     "names": {
+      "uk": "Далматинець-пожежник",
+      "ru": "Далматинец-пожарный",
+      "de": "Feuerwehr-Dalmatiner",
+      "fr": "Dalmatien pompier",
+      "es": "Dálmata bombero",
+      "pt_BR": "Dálmata bombeiro",
+      "it": "Dalmata pompiere",
+      "ja": "消防士のダルメシアン",
+      "ko": "소방관 달마시안",
+      "zh_Hant": "消防員大麥町"
+     },
+     "rev": 1,
+     "art": "art/dalmatian.png",
+     "art_size": 2961,
+     "zones": "zones/dalmatian.zbin",
+     "zones_size": 416,
+     "preview": "previews/dalmatian.prev",
+     "preview_size": 3519,
+     "tuning": {
+      "zone_weight": 1600,
+      "play_zones": 3,
+      "zone_gap": 3,
+      "zone_cover": 0.75,
+      "zone_detail": 2,
+      "seed": 2026112916
+     }
+    },
+    {
+     "id": "samoyed",
+     "name": "Samoyed in the Snow",
+     "names": {
+      "uk": "Самоїд у снігу",
+      "ru": "Самоед в снегу",
+      "de": "Samojede im Schnee",
+      "fr": "Samoyède dans la neige",
+      "es": "Samoyedo en la nieve",
+      "pt_BR": "Samoieda na neve",
+      "it": "Samoiedo nella neve",
+      "ja": "雪とサモエド",
+      "ko": "눈밭의 사모예드",
+      "zh_Hant": "雪地裡的薩摩耶"
+     },
+     "rev": 1,
+     "art": "art/samoyed.png",
+     "art_size": 1895,
+     "zones": "zones/samoyed.zbin",
+     "zones_size": 428,
+     "preview": "previews/samoyed.prev",
+     "preview_size": 2378,
+     "tuning": {
+      "zone_weight": 1600,
+      "play_zones": 3,
+      "zone_gap": 3,
+      "zone_cover": 0.75,
+      "zone_detail": 2,
+      "seed": 2026112917
+     }
+    },
+    {
+     "id": "frenchie",
+     "name": "French Bulldog in the Rain",
+     "names": {
+      "uk": "Бульдог під дощем",
+      "ru": "Бульдог под дождём",
+      "de": "Bulldogge im Regen",
+      "fr": "Bouledogue sous la pluie",
+      "es": "Bulldog bajo la lluvia",
+      "pt_BR": "Buldogue na chuva",
+      "it": "Bulldog sotto la pioggia",
+      "ja": "雨の中のフレブル",
+      "ko": "빗속의 프렌치 불도그",
+      "zh_Hant": "雨中的法鬥"
+     },
+     "rev": 1,
+     "art": "art/frenchie.png",
+     "art_size": 2885,
+     "zones": "zones/frenchie.zbin",
+     "zones_size": 472,
+     "preview": "previews/frenchie.prev",
+     "preview_size": 3555,
+     "tuning": {
+      "zone_weight": 1600,
+      "play_zones": 3,
+      "zone_gap": 3,
+      "zone_cover": 0.75,
+      "zone_detail": 2,
+      "seed": 2026112918
+     }
+    },
+    {
+     "id": "bordercollie",
+     "name": "Border Collie and Frisbee",
+     "names": {
+      "uk": "Бордер-колі і фризбі",
+      "ru": "Бордер-колли и фрисби",
+      "de": "Border Collie mit Frisbee",
+      "fr": "Border collie au frisbee",
+      "es": "Border collie y el frisbi",
+      "pt_BR": "Border collie e o frisbee",
+      "it": "Border collie e il frisbee",
+      "ja": "フリスビーとボーダーコリー",
+      "ko": "원반 잡는 보더콜리",
+      "zh_Hant": "接飛盤的邊境牧羊犬"
+     },
+     "rev": 1,
+     "art": "art/bordercollie.png",
+     "art_size": 2218,
+     "zones": "zones/bordercollie.zbin",
+     "zones_size": 392,
+     "preview": "previews/bordercollie.prev",
+     "preview_size": 2653,
+     "tuning": {
+      "zone_weight": 1600,
+      "play_zones": 3,
+      "zone_gap": 3,
+      "zone_cover": 0.75,
+      "zone_detail": 2,
+      "seed": 2026112919
+     }
+    },
+    {
+     "id": "beagle",
+     "name": "Beagle in the Garden",
+     "names": {
+      "uk": "Бігль у саду",
+      "ru": "Бигль в саду",
+      "de": "Beagle im Garten",
+      "fr": "Beagle au jardin",
+      "es": "Beagle en el jardín",
+      "pt_BR": "Beagle no jardim",
+      "it": "Beagle in giardino",
+      "ja": "庭のビーグル",
+      "ko": "정원의 비글",
+      "zh_Hant": "花園裡的米格魯"
+     },
+     "rev": 1,
+     "art": "art/beagle.png",
+     "art_size": 4574,
+     "zones": "zones/beagle.zbin",
+     "zones_size": 404,
+     "preview": "previews/beagle.prev",
+     "preview_size": 5151,
+     "tuning": {
+      "zone_weight": 1600,
+      "play_zones": 3,
+      "zone_gap": 3,
+      "zone_cover": 0.75,
+      "zone_detail": 2,
+      "seed": 2026112920
      }
     }
    ]
